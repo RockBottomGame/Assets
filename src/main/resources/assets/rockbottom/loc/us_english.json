@@ -7,6 +7,8 @@
             "torch": "Torch",
             "chest": "Chest",
             "coal": "Coal",
+            "coal_ore": "Coal Ore",
+            "grass": "Grass",
             "charcoal": "Charcoal",
             "copper_cluster": "Copper Cluster",
             "copper_grit": "Copper Grit",
