@@ -45,7 +45,11 @@
             "bush": "Bush",
             "brittle_pickaxe": "Brittle Pickaxe",
             "brittle_axe": "Brittle Axe",
-            "brittle_shovel": "Brittle Shovel"
+            "brittle_shovel": "Brittle Shovel",
+            "tin_cluster": "Tin Cluster",
+            "tin_grit": "Tin Grit",
+            "tin_ingot": "Tin Ingot",
+            "tin_ore": "Tin Ore"
         },
         "info": {
             "layer_placement": "Can be placed in %s",
