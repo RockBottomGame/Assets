@@ -76,7 +76,15 @@
             "connect": "&6Player %s connected!",
             "disconnect": "&6Player %s disconnected!",
             "last_modified": "Last Played",
-            "seed": "Seed"
+            "seed": "Seed",
+            "server_shutdown": {
+                "*": "Integrated server stopped",
+                "title": "Later guys!"
+            },
+            "server_started": {
+                "*": "Started integrated server on port %s",
+                "title": "Hey players!"
+            }
         },
         "button": {
             "back": "Back",
