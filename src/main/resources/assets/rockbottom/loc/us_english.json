@@ -49,7 +49,10 @@
             "tin_cluster": "Tin Cluster",
             "tin_grit": "Tin Grit",
             "tin_ingot": "Tin Ingot",
-            "tin_ore": "Tin Ore"
+            "tin_ore": "Tin Ore",
+            "bronze_grit": "Bronze Grit",
+            "bronze_ingot": "Bronze Ingot",
+            "combiner": "Combiner"
         },
         "info": {
             "layer_placement": "Can be placed in %s",
