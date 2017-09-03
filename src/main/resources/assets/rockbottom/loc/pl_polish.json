@@ -48,7 +48,10 @@
             "tin_cluster": "Kepa Cyny",
             "tin_grit": "Pyl Cyny",
             "tin_ingot": "Sztaba Cyny",
-            "tin_ore": "Ruda Cyny"
+            "tin_ore": "Ruda Cyny",
+            "bronze_grit": "Pul Brazu",
+            "bronze_ingot": "Sztaba Brazu",
+            "combiner": "Lacznik"
         },
         "info": {
             "advanced_info": "Nacisnij %s zeby zobaczyc wiecej informacji",
@@ -73,7 +76,16 @@
             "size": "Rozmiar: %sx%s kafli",
             "unlimited": "Max",
             "uses": "Uzywa",
-            "world": "Swiat %s"
+            "world": "Swiat %s",
+            "last_modified": "Ostatnio Grano",
+            "server_shutdown": {
+                "*": "Zatrzymano Serwer",
+                "title": "Narazie!"
+            },
+            "server_started": {
+                "*": "Serwer wlaczony na porcie %s",
+                "title": "Witam!"
+            }
         },
         "button": {
             "all_construction": "Pokaz Wszystkie Konstrukcje",
@@ -119,6 +131,8 @@
                 "sex_toggled": "Kobieta",
                 "shirt": "Koszula",
                 "sleeves": "Rekawy"
+                "sex": "Mezczyzna",
+                "sex_toggled": "Kobieta"
             },
             "player_editor": "Edytoj Gracza",
             "quit": "Wyjdz",
@@ -129,7 +143,9 @@
             "target_fps": "Celowe FPS",
             "text_speed": "Szybkosc Napisow",
             "vsync": "Vsync Wlaczony",
-            "vsync_toggled": "Vsync Wylaczony"
+            "vsync_toggled": "Vsync Wylaczony",
+            "edit": "Edituj",
+            "edit_toggled": "Koniec"
         },
         "layer": {
             "background": "Tylnym Tle",
@@ -164,12 +180,12 @@
             "1": "%s jest teraz ravioli.",
             "2": "%s powinien sie nauczyc jak grac.",
             "3": "%s zarechotal (I to nie jak zaba)",
-            "4": "%s, koniec gry, poradz se z tym.",
-            "5": "%s zrobil flopa.",
-            "6": "%s zostal rip'em.",
+            "4": "%s, koniec gry.",
+            "5": "%s zrobil placka.",
+            "6": "%s stracil kontrole nad swoim hp.",
             "7": "%s stracil waznosc.",
             "8": "%s umarl.",
-            "9": "%s jest teraz bez zycia",
+            "9": "%sowi zabraklo zycia",
             "10": "Nie zyje %s.. albo nie.",
             "11": "%s zginal w totalnie wyjatkowy sposob ktory powinien byz znany przez wszystkich.",
             "12": "%s sprobowal podzielic przez zero.",
