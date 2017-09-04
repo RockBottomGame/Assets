@@ -42,9 +42,17 @@
             "grass_tuft": "Grass Tuft",
             "grass_tall": "Tall Grass",
             "grass_short": "Short Grass",
+            "bush": "Bush",
             "brittle_pickaxe": "Brittle Pickaxe",
             "brittle_axe": "Brittle Axe",
-            "brittle_shovel": "Brittle Shovel"
+            "brittle_shovel": "Brittle Shovel",
+            "tin_cluster": "Tin Cluster",
+            "tin_grit": "Tin Grit",
+            "tin_ingot": "Tin Ingot",
+            "tin_ore": "Tin Ore",
+            "bronze_grit": "Bronze Grit",
+            "bronze_ingot": "Bronze Ingot",
+            "combiner": "Combiner"
         },
         "info": {
             "layer_placement": "Can be placed in %s",
@@ -71,7 +79,15 @@
             "connect": "&6Player %s connected!",
             "disconnect": "&6Player %s disconnected!",
             "last_modified": "Last Played",
-            "seed": "Seed"
+            "seed": "Seed",
+            "server_shutdown": {
+                "*": "Integrated server stopped",
+                "title": "Later guys!"
+            },
+            "server_started": {
+                "*": "Started integrated server on port %s",
+                "title": "Hey players!"
+            }
         },
         "button": {
             "back": "Back",
