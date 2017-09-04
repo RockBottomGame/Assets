@@ -45,7 +45,14 @@
             "bush": "Bos",
             "brittle_pickaxe": "Bros Pik",
             "brittle_axe": "Bros Byl",
-            "brittle_shovel": "Bros Graaf"
+            "brittle_shovel": "Bros Graaf",
+            "tin_cluster": "Tin Kluster",
+            "tin_grit": "Tin Stof",
+            "tin_ingot": "Tin Staaf",
+            "tin_ore": "Tin Erts",
+            "bronze_grit": "Brons Stof",
+            "bronze_ingot": "Brons Staaf",
+            "combiner": "Kombineerder"
         },
         "info": {
             "layer_placement": "Kan in %s geplaas word",
@@ -72,7 +79,15 @@
             "connect": "&6Speler %s gekoppel!",
             "disconnect": "&6Speler %s ontkoppel!",
             "last_modified": "Laas Gespeel",
-            "seed": "Saad"
+            "seed": "Saad",
+            "server_shutdown": {
+                "*": "Ingeboude bediener is gestop",
+                "title": "Baai ouens!"
+            },
+            "server_started": {
+                "*": "Ingeboude bediener is begin op poort %s",
+                "title": "Haai ouens!"
+            }
         },
         "button": {
             "back": "Terug",
