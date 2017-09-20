@@ -2,7 +2,13 @@
     "rockbottom": {
         "loc.us_english": "US English",
         "item": {
-
+            "soil": "Soil",
+            "grass": "Overgrown Soil",
+            "stone": "Stone",
+            "grass_tuft": "Grass",
+            "grass_short": "Short Grass",
+            "grass_tall": "Long Grass",
+            "bush": "Small Bush"
         },
         "info": {
             "layer_placement": "Can be placed in %s",
