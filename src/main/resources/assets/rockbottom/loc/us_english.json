@@ -101,7 +101,8 @@
                 "beard": "Beard",
                 "sex": "Male",
                 "sex_toggled": "Female"
-            }
+            },
+            "worlds_folder": "Worlds Folder"
         },
         "layer": {
             "main": "Foreground",
