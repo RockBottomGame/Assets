@@ -159,6 +159,7 @@
             "23": "%s saw the light at the end of the tunnel.",
             "24": "The %s was a lie.",
             "25": "%s ran out of memory."
-        }
+        },
+        "date_format": "dd.MM.yy - HH:mm"
     }
 }
