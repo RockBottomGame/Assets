@@ -10,7 +10,13 @@
             "grass_tall": "Long Grass",
             "bush": "Small Bush",
             "log": "Log",
-            "leaves": "Leaf Cluster"
+            "leaves": "Leaf Cluster",
+            "flower_gray": "Gray Flower",
+            "flower_orange": "Orange Flower",
+            "flower_pink": "Pink Flower",
+            "flower_red": "Red Flower",
+            "flower_white": "White Flower",
+            "flower_yellow": "Yellow Flower"
         },
         "info": {
             "layer_placement": "Can be placed in %s",
