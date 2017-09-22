@@ -8,7 +8,9 @@
             "grass_tuft": "Grass",
             "grass_short": "Short Grass",
             "grass_tall": "Long Grass",
-            "bush": "Small Bush"
+            "bush": "Small Bush",
+            "log": "Log",
+            "leaves": "Leaf Cluster"
         },
         "info": {
             "layer_placement": "Can be placed in %s",
