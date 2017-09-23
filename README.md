@@ -1,2 +1,2 @@
-# Localization
-The localization files for the game Rock Bottom
+# Assets
+The asset files for the game Rock Bottom
