@@ -1,5 +1,7 @@
 {
     "tex": {
+        "ellpeck": "/tex/intro/ellpeck.png",
+        "wiiv": "/tex/intro/wiiv.png",
         "logo": "/tex/logo.png",
         "break": {
             "1": "/tex/break/1.png",
