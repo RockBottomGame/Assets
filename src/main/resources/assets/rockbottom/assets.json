@@ -1,8 +1,12 @@
 {
     "tex": {
-        "ellpeck": "/tex/intro/ellpeck.png",
-        "wiiv": "/tex/intro/wiiv.png",
         "logo": "/tex/logo.png",
+        "intro": {
+            "ellpeck": "/tex/intro/ellpeck.png",
+            "ellpeck_skipped": "/tex/intro/ellpeck_skipped.png",
+            "wiiv": "/tex/intro/wiiv.png",
+            "wiiv_skipped": "/tex/intro/wiiv_skipped.png"
+        },
         "break": {
             "1": "/tex/break/1.png",
             "2": "/tex/break/2.png",
