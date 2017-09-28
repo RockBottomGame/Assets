@@ -1,6 +1,5 @@
 {
     "tex": {
-        "logo": "/tex/logo.png",
         "intro": {
             "ellpeck": "/tex/intro/ellpeck.png",
             "ellpeck_skipped": "/tex/intro/ellpeck_skipped.png",
@@ -60,6 +59,7 @@
         }
     },
     "anim": {
+        "logo": ["/anim/logo.json", "/anim/logo.png"],
         "player": {
             "accessory": {
                 "monocle_1": ["/anim/player/anim.json", "/anim/player/accessory/monocle_1.png"],
