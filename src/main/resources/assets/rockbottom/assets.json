@@ -31,7 +31,9 @@
             "flower_pink": "/tex/tiles/flower_pink.png",
             "flower_red": "/tex/tiles/flower_red.png",
             "flower_white": "/tex/tiles/flower_white.png",
-            "flower_yellow": "/tex/tiles/flower_yellow.png"
+            "flower_yellow": "/tex/tiles/flower_yellow.png",
+            "flower_blue": "/tex/tiles/flower_blue.png",
+            "flower_purple": "/tex/tiles/flower_purple.png"
         },
         "items": {
         },

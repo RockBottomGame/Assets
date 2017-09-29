@@ -16,7 +16,9 @@
             "flower_pink": "Pink Flower",
             "flower_red": "Red Flower",
             "flower_white": "White Flower",
-            "flower_yellow": "Yellow Flower"
+            "flower_yellow": "Yellow Flower",
+            "flower_blue": "Blue Flower",
+            "flower_purple": "Purple Flower"
         },
         "info": {
             "layer_placement": "Can be placed in %s",
