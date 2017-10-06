@@ -116,7 +116,10 @@
                 "sex": "Male",
                 "sex_toggled": "Female"
             },
-            "worlds_folder": "Worlds Folder"
+            "worlds_folder": "Worlds Folder",
+            "sound": "Sound",
+            "sound_volume": "Sound Volume",
+            "music_volume": "Music Volume"
         },
         "layer": {
             "main": "Foreground",
