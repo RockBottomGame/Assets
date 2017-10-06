@@ -19,7 +19,10 @@
             "flower_yellow": "Yellow Flower",
             "flower_blue": "Blue Flower",
             "flower_purple": "Purple Flower",
-            "pebbles": "Pebbles"
+            "pebbles": "Pebbles",
+            "brittle_pickaxe": "Brittle Pickaxe",
+            "brittle_axe": "Brittle Axe",
+            "brittle_shovel": "Brittle Shovel"
         },
         "info": {
             "layer_placement": "Can be placed in %s",

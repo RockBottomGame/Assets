@@ -37,7 +37,10 @@
             "pebbles": "/tex/tiles/pebbles.png"
         },
         "items": {
-            "pebbles": "/tex/items/pebbles.png"
+            "pebbles": "/tex/items/pebbles.png",
+            "brittle_pickaxe": "/tex/items/brittle_pickaxe.png",
+            "brittle_axe": "/tex/items/brittle_axe.png",
+            "brittle_shovel": "/tex/items/brittle_shovel.png"
         },
         "gui": {
             "cursor": "/tex/gui/cursor.png",
