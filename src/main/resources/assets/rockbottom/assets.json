@@ -33,9 +33,11 @@
             "flower_white": "/tex/tiles/flower_white.png",
             "flower_yellow": "/tex/tiles/flower_yellow.png",
             "flower_blue": "/tex/tiles/flower_blue.png",
-            "flower_purple": "/tex/tiles/flower_purple.png"
+            "flower_purple": "/tex/tiles/flower_purple.png",
+            "pebbles": "/tex/tiles/pebbles.png"
         },
         "items": {
+            "pebbles": "/tex/items/pebbles.png"
         },
         "gui": {
             "cursor": "/tex/gui/cursor.png",

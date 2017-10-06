@@ -18,7 +18,8 @@
             "flower_white": "White Flower",
             "flower_yellow": "Yellow Flower",
             "flower_blue": "Blue Flower",
-            "flower_purple": "Purple Flower"
+            "flower_purple": "Purple Flower",
+            "pebbles": "Pebbles"
         },
         "info": {
             "layer_placement": "Can be placed in %s",
