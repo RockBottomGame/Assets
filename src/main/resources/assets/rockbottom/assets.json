@@ -203,5 +203,13 @@
         "za_afrikaans": "/loc/za_afrikaans.json",
         "de_german": "/loc/de_german.json",
         "pl_polish": "/loc/pl_polish.json"
+    },
+    "sound": {
+        "menu": {
+            "click": "/sound/menu/click.wav"
+        },
+        "tiles": {
+            "generic_tile": "/sound/tiles/generic_tile.wav"
+        }
     }
 }
