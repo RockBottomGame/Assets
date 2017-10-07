@@ -206,10 +206,10 @@
     },
     "sound": {
         "menu": {
-            "click": "/sound/menu/click.wav"
+            "click": "/sound/menu/click.ogg"
         },
         "tiles": {
-            "generic_tile": "/sound/tiles/generic_tile.wav"
+            "generic_tile": "/sound/tiles/generic_tile.ogg"
         }
     }
 }
