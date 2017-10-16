@@ -83,22 +83,28 @@
             },
             "arm": {
                 "skin_1": {
-                    "hanging": ["/anim/player/anim.json", "/anim/player/arm/hanging/skin_1.png"]
+                    "hanging": ["/anim/player/anim.json", "/anim/player/arm/hanging/skin_1.png"],
+                    "holding": ["/anim/player/anim_holding.json", "/anim/player/arm/holding/skin_1.png"]
                 },
                 "skin_2": {
-                    "hanging": ["/anim/player/anim.json", "/anim/player/arm/hanging/skin_2.png"]
+                    "hanging": ["/anim/player/anim.json", "/anim/player/arm/hanging/skin_2.png"],
+                    "holding": ["/anim/player/anim_holding.json", "/anim/player/arm/holding/skin_2.png"]
                 },
                 "skin_3": {
-                    "hanging": ["/anim/player/anim.json", "/anim/player/arm/hanging/skin_3.png"]
+                    "hanging": ["/anim/player/anim.json", "/anim/player/arm/hanging/skin_3.png"],
+                    "holding": ["/anim/player/anim_holding.json", "/anim/player/arm/holding/skin_3.png"]
                 },
                 "skin_4": {
-                    "hanging": ["/anim/player/anim.json", "/anim/player/arm/hanging/skin_4.png"]
+                    "hanging": ["/anim/player/anim.json", "/anim/player/arm/hanging/skin_4.png"],
+                    "holding": ["/anim/player/anim_holding.json", "/anim/player/arm/holding/skin_4.png"]
                 },
                 "skin_5": {
-                    "hanging": ["/anim/player/anim.json", "/anim/player/arm/hanging/skin_5.png"]
+                    "hanging": ["/anim/player/anim.json", "/anim/player/arm/hanging/skin_5.png"],
+                    "holding": ["/anim/player/anim_holding.json", "/anim/player/arm/holding/skin_5.png"]
                 },
                 "skin_s": {
-                    "hanging": ["/anim/player/anim.json", "/anim/player/arm/hanging/skin_s.png"]
+                    "hanging": ["/anim/player/anim.json", "/anim/player/arm/hanging/skin_s.png"],
+                    "holding": ["/anim/player/anim_holding.json", "/anim/player/arm/holding/skin_s.png"]
                 }
             },
             "base": {
@@ -158,16 +164,20 @@
             },
             "sleeve": {
                 "1": {
-                    "hanging": ["/anim/player/anim.json", "/anim/player/sleeve/hanging/1.png"]
+                    "hanging": ["/anim/player/anim.json", "/anim/player/sleeve/hanging/1.png"],
+                    "holding": ["/anim/player/anim.json", "/anim/player/sleeve/holding/1.png"]
                 },
                 "2": {
-                    "hanging": ["/anim/player/anim.json", "/anim/player/sleeve/hanging/2.png"]
+                    "hanging": ["/anim/player/anim.json", "/anim/player/sleeve/hanging/2.png"],
+                    "holding": ["/anim/player/anim.json", "/anim/player/sleeve/holding/2.png"]
                 },
                 "3": {
-                    "hanging": ["/anim/player/anim.json", "/anim/player/sleeve/hanging/3.png"]
+                    "hanging": ["/anim/player/anim.json", "/anim/player/sleeve/hanging/3.png"],
+                    "holding": ["/anim/player/anim.json", "/anim/player/sleeve/holding/3.png"]
                 },
                 "4": {
-                    "hanging": ["/anim/player/anim.json", "/anim/player/sleeve/hanging/4.png"]
+                    "hanging": ["/anim/player/anim.json", "/anim/player/sleeve/hanging/4.png"],
+                    "holding": ["/anim/player/anim.json", "/anim/player/sleeve/holding/4.png"]
                 }
             },
             "eyebrows": {
