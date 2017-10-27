@@ -29,5 +29,15 @@
         [0],
         [0, 0, 0, 0, 0, 0],
         [0]
+    ],
+    "holding_mirrored": [
+        [false, false, false, false, false, false, false, false, false, false],
+        [false, false, false, false, false, false, false, false, false, false],
+        [true],
+        [false],
+        [false],
+        [false],
+        [false, false, false, false, false, false],
+        [false]
     ]
 }

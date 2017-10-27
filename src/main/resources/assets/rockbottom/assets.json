@@ -40,9 +40,9 @@
         },
         "items": {
             "pebbles": "/tex/items/pebbles.png",
-            "brittle_pickaxe": "/tex/items/brittle_pickaxe.png",
-            "brittle_axe": "/tex/items/brittle_axe.png",
-            "brittle_shovel": "/tex/items/brittle_shovel.png"
+            "brittle_pickaxe": ["/tex/items/brittle_pickaxe.png", "/tex/items/tool.json"],
+            "brittle_axe": ["/tex/items/brittle_axe.png", "/tex/items/tool.json"],
+            "brittle_shovel": ["/tex/items/brittle_shovel.png", "/tex/items/tool.json"]
         },
         "gui": {
             "cursor": "/tex/gui/cursor.png",
