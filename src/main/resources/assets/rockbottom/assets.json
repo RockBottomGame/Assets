@@ -45,7 +45,12 @@
             "brittle_shovel": ["/tex/items/brittle_shovel.png", "/tex/items/tool.json"]
         },
         "gui": {
-            "cursor": "/tex/gui/cursor.png",
+            "cursor":{
+                "pointer": "/tex/gui/cursor/pointer.png",
+                "closed_hand": "/tex/gui/cursor/closed_hand.png",
+                "open_hand": "/tex/gui/cursor/open_hand.png",
+                "finger": "/tex/gui/cursor/finger.png"
+            },
             "slot": "/tex/gui/slot.png",
             "selection_arrow": "/tex/gui/selection_arrow.png",
             "heart": "/tex/gui/heart.png",
