@@ -49,7 +49,8 @@
                 "pointer": "/tex/gui/cursor/pointer.png",
                 "closed_hand": "/tex/gui/cursor/closed_hand.png",
                 "open_hand": "/tex/gui/cursor/open_hand.png",
-                "finger": "/tex/gui/cursor/finger.png"
+                "finger": "/tex/gui/cursor/finger.png",
+                "finger_104": "/tex/gui/cursor/finger_104.png"
             },
             "slot": "/tex/gui/slot.png",
             "selection_arrow": "/tex/gui/selection_arrow.png",
