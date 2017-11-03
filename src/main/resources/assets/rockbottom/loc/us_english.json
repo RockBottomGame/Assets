@@ -22,7 +22,9 @@
             "pebbles": "Pebbles",
             "brittle_pickaxe": "Brittle Pickaxe",
             "brittle_axe": "Brittle Axe",
-            "brittle_shovel": "Brittle Shovel"
+            "brittle_shovel": "Brittle Shovel",
+            "sand": "Sand",
+            "coal": "Coal"
         },
         "info": {
             "layer_placement": "Can be placed in %s",
