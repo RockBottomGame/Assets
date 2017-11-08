@@ -24,7 +24,8 @@
             "brittle_axe": "Brittle Axe",
             "brittle_shovel": "Brittle Shovel",
             "sand": "Sand",
-            "coal": "Coal"
+            "coal": "Coal",
+            "torch": "Torch"
         },
         "info": {
             "layer_placement": "Can be placed in %s",

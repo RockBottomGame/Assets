@@ -37,7 +37,13 @@
             "pebbles": "/tex/tiles/pebbles.png",
             "sand": "/tex/tiles/sand.png",
             "sandstone": "/tex/tiles/sandstone.png",
-            "coal": "/tex/tiles/coal_ore.png"
+            "coal": "/tex/tiles/coal_ore.png",
+            "torch": {
+                "*": "/tex/tiles/torch.png",
+                "back": "/tex/tiles/torch_back.png",
+                "left": "/tex/tiles/torch_left.png",
+                "right": "/tex/tiles/torch_right.png"
+            }
         },
         "items": {
             "pebbles": "/tex/items/pebbles.png",
