@@ -43,7 +43,8 @@
                 "back": "/tex/tiles/torch_back.png",
                 "left": "/tex/tiles/torch_left.png",
                 "right": "/tex/tiles/torch_right.png"
-            }
+            },
+            "ladder": "/tex/tiles/ladder.png"
         },
         "items": {
             "pebbles": "/tex/items/pebbles.png",
