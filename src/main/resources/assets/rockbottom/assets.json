@@ -45,7 +45,10 @@
                 "right": "/tex/tiles/torch_right.png"
             },
             "ladder": "/tex/tiles/ladder.png",
-            "chest": "/tex/tiles/chest.png"
+            "chest": {
+                "*": "/tex/tiles/chest.png",
+                "open": "/tex/tiles/chest_open.png"
+            }
         },
         "items": {
             "pebbles": "/tex/items/pebbles.png",
