@@ -44,7 +44,8 @@
                 "left": "/tex/tiles/torch_left.png",
                 "right": "/tex/tiles/torch_right.png"
             },
-            "ladder": "/tex/tiles/ladder.png"
+            "ladder": "/tex/tiles/ladder.png",
+            "chest": "/tex/tiles/chest.png"
         },
         "items": {
             "pebbles": "/tex/items/pebbles.png",

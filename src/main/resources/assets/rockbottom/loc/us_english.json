@@ -26,7 +26,8 @@
             "sand": "Sand",
             "coal": "Coal",
             "torch": "Torch",
-            "ladder": "Ladder"
+            "ladder": "Ladder",
+            "chest": "Chest"
         },
         "info": {
             "layer_placement": "Can be placed in %s",
