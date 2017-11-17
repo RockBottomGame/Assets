@@ -62,6 +62,10 @@
             "server_started": {
                 "*": "Started integrated server on port %s",
                 "title": "Hey players!"
+            },
+            "screenshot": {
+                "*": "Saved as %s",
+                "title": "Screenshot taken!"
             }
         },
         "button": {
