@@ -27,7 +27,8 @@
             "coal": "Coal",
             "torch": "Torch",
             "ladder": "Ladder",
-            "chest": "Chest"
+            "chest": "Chest",
+            "sign": "Sign"
         },
         "info": {
             "layer_placement": "Can be placed in %s",
@@ -128,7 +129,9 @@
             "worlds_folder": "Worlds Folder",
             "sound": "Sound",
             "sound_volume": "Sound Volume",
-            "music_volume": "Music Volume"
+            "music_volume": "Music Volume",
+            "edit": "Edit",
+            "edit_toggled": "Stop Editing"
         },
         "layer": {
             "main": "Foreground",

@@ -48,7 +48,8 @@
             "chest": {
                 "*": "/tex/tiles/chest.png",
                 "open": "/tex/tiles/chest_open.png"
-            }
+            },
+            "sign": "/tex/tiles/sign.png"
         },
         "items": {
             "pebbles": "/tex/items/pebbles.png",
@@ -80,7 +81,8 @@
             "randomize": "/tex/gui/randomize.png",
             "delete": "/tex/gui/delete.png",
             "worlds_folder": "/tex/gui/folder_worlds.png",
-            "mods_folder": "/tex/gui/folder_mods.png"
+            "mods_folder": "/tex/gui/folder_mods.png",
+            "sign": "/tex/gui/sign.png"
         },
         "particle": {
             "smoke": "/tex/particle/smoke.png"
