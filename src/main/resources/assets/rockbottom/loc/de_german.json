@@ -2,50 +2,30 @@
     "rockbottom": {
         "loc.de_german": "DE Deutsch",
         "item": {
+            "soil": "Erde",
+            "grass": "Bewachsene Erde",
             "stone": "Stein",
-            "dirt": "Erde",
-            "torch": "Fackel",
-            "chest": "Kiste",
-            "coal": "Kohle",
-            "coal_ore": "Kohleerz",
-            "grass": "Gras",
-            "charcoal": "Holzkohle",
-            "copper_cluster": "Kupferhaufen",
-            "copper_grit": "Kupferstaub",
-            "slag": "Schlacke",
-            "copper_ingot": "Kupferbarren",
-            "smelter": "Schmelze",
-            "separator": "Verteiler",
-            "wood_boards": "Holzbretter",
+            "grass_tuft": "Grasbüschel",
+            "grass_short": "Kurzes Gras",
+            "grass_tall": "Langes Gras",
+            "bush": "Kleiner Busch",
             "log": "Baumstamm",
             "leaves": "Blätter",
-            "wood_pickaxe": "Holzspitzhacke",
-            "stone_pickaxe": "Steinspitzhacke",
-            "stone_axe": "Steinaxt",
-            "stone_shovel": "Steinschaufel",
-            "copper_pickaxe": "Kupferspitzhacke",
-            "copper_axe": "Kupferaxt",
-            "copper_shovel": "Kupferschaufel",
-            "sapling": "Setzling",
-            "copper_ore": "Kupfererz",
-            "super_tool": "&rSUPER WERKZEUG",
-            "ladder": "Leiter",
-            "glow_ore": "Leuchtendes Erz",
-            "glow_cluster": "Leuchtender Haufen",
-            "door": "Holztür",
-            "construction_table": "Bautisch",
-            "hardened_stone": "Gehärteter Stein",
-            "stamper": "Stampfer",
-            "lamp": "Lampe",
+            "flower_gray": "Graue Blume",
+            "flower_orange": "Orangene Blume",
+            "flower_pink": "Rosane Blume",
+            "flower_red": "Rote Blume",
+            "flower_white": "Weiße Blume",
+            "flower_yellow": "Gelbe Blume",
+            "flower_blue": "Blaue Blume",
+            "flower_purple": "Lilane Blume",
             "pebbles": "Kieselstein",
-            "sign": "Schild",
-            "grass_tuft": "Grasbüschel",
-            "grass_tall": "Hohes Gras",
-            "grass_short": "Kurzes Gras",
-            "bush": "Busch",
             "brittle_pickaxe": "Morsche Spitzhacke",
             "brittle_axe": "Morsche Axt",
-            "brittle_shovel": "Morsche Schaufel"
+            "brittle_shovel": "Morsche Schaufel",
+            "sand": "Sand",
+            "coal": "Kohle",
+            "torch": "Fackel"
         },
         "info": {
             "layer_placement": "Kann in %s platziert werden",
@@ -72,7 +52,15 @@
             "connect": "&6Spieler %s hat das Spiel betreten!",
             "disconnect": "&6Spieler %s hat das Spiel verlassen!",
             "last_modified": "Zuletzt gespielt",
-            "seed": "Startwert"
+            "seed": "Startwert",
+            "server_shutdown": {
+                "*": "Integrated server stopped",
+                "title": "Later guys!"
+            },
+            "server_started": {
+                "*": "Integrierter Server auf Port %s gestartet",
+                "title": "Hallo Spieler!"
+            }
         },
         "button": {
             "back": "Zurück",
@@ -131,8 +119,10 @@
                 "sex": "Männlich",
                 "sex_toggled": "Weiblich"
             },
-            "edit": "Bearbeiten",
-            "edit_toggled": "Fertig"
+            "worlds_folder": "Weltenordner",
+            "sound": "Sound",
+            "sound_volume": "Effektlautstärke",
+            "music_volume": "Musiklautstärke"
         },
         "layer": {
             "main": "Vordergrund",
@@ -189,6 +179,7 @@
             "23": "%s hat das Licht am Ende des Tunnels gesehen.",
             "24": "%s ist eine Lüge.",
             "25": "%s hat keinen Speicher mehr."
-        }
+        },
+        "date_format": "dd.MM.yyyy - HH:mm"
     }
 }
