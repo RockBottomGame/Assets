@@ -24,7 +24,16 @@
             "grass_short": ["/tex/tiles/grass_short_0.png", "/tex/tiles/grass_short_1.png"],
             "grass_tall": ["/tex/tiles/grass_tall_0.png", "/tex/tiles/grass_tall_1.png"],
             "bush": ["/tex/tiles/bush_0.png", "/tex/tiles/bush_1.png", "/tex/tiles/bush_2.png"],
-            "log": "/tex/tiles/log.png",
+            "log": {
+                "*": "/tex/tiles/log.png",
+                "branch_left": ["/tex/tiles/log_branch_left_0.png", "/tex/tiles/log_branch_left_1.png"],
+                "branch_right": ["/tex/tiles/log_branch_right_0.png", "/tex/tiles/log_branch_right_1.png"],
+                "trunk_top": ["/tex/tiles/log_trunk_top_0.png", "/tex/tiles/log_trunk_top_1.png"],
+                "trunk_middle": ["/tex/tiles/log_trunk_middle_0.png", "/tex/tiles/log_trunk_middle_1.png"],
+                "trunk_bottom": ["/tex/tiles/log_trunk_bottom_0.png", "/tex/tiles/log_trunk_bottom_1.png"],
+                "root_left": ["/tex/tiles/log_root_left_0.png", "/tex/tiles/log_root_left_1.png"],
+                "root_right": ["/tex/tiles/log_root_right_0.png", "/tex/tiles/log_root_right_1.png"]
+            },
             "leaves": "/tex/tiles/leaves.png",
             "flower_gray": "/tex/tiles/flower_gray.png",
             "flower_orange": "/tex/tiles/flower_orange.png",
