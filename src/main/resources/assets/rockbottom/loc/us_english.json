@@ -74,7 +74,7 @@
                 "incompatible_version": "You have an incompatible version of %s: %s where %s was expected!",
                 "missing_mods": "You're missing required mods: %s",
                 "too_many_mods": "You have mods that the server doesn't have: %s",
-                "connection": "Couldn't connect to the server"
+                "connection": "Couldn't connect to the server: %s"
             }
         },
         "button": {
