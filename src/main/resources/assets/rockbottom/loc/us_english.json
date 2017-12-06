@@ -71,12 +71,12 @@
             "reject": {
                 "connected_already": "You are already connected to that server!",
                 "starting_up": "The server hasn't finished starting up!",
-                "incompatible_version": "You have an incompatible version of %s: %s where %s was expected!",
-                "missing_mods": "You're missing required mods: %s",
-                "too_many_mods": "You have mods that the server doesn't have: %s",
-                "connection": "Couldn't connect to the server: %s",
+                "incompatible_version": "You have an incompatible version of %s: \n%s where %s was expected!",
+                "missing_mods": "You're missing required mods: \n%s",
+                "too_many_mods": "You have mods that the server doesn't have: \n%s",
+                "connection": "Couldn't connect to the server: \n%s",
                 "whitelist": "You are not whitelisted on this server!",
-                "blacklist": "You are blacklisted on this server!",
+                "blacklist": "You are blacklisted on this server! Reason: \n%s",
                 "server_down": "You have lost connection to the server!"
             }
         },
