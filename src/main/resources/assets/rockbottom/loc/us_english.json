@@ -200,6 +200,6 @@
             "24": "The %s was a lie.",
             "25": "%s ran out of memory."
         },
-        "date_format": "dd.MM.yy - HH:mm"
+        "date_format": "MM.dd.yy - HH:mm"
     }
 }
