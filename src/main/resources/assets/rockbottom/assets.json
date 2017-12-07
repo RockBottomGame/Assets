@@ -58,7 +58,8 @@
                 "*": "/tex/tiles/chest.png",
                 "open": "/tex/tiles/chest_open.png"
             },
-            "sign": "/tex/tiles/sign.png"
+            "sign": "/tex/tiles/sign.png",
+            "sapling": "/tex/tiles/sapling.png"
         },
         "items": {
             "pebbles": "/tex/items/pebbles.png",

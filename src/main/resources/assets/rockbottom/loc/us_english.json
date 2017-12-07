@@ -28,7 +28,8 @@
             "torch": "Torch",
             "ladder": "Ladder",
             "chest": "Chest",
-            "sign": "Sign"
+            "sign": "Sign",
+            "sapling": "Sapling"
         },
         "info": {
             "layer_placement": "Can be placed in %s",
