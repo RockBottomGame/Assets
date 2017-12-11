@@ -96,7 +96,9 @@
         },
         "particle": {
             "smoke": "/tex/particle/smoke.png"
-        }
+        },
+        "sun": "/tex/sun.png",
+        "moon": "/tex/moon.png"
     },
     "anim": {
         "logo": ["/anim/logo.json", "/anim/logo.png"],
