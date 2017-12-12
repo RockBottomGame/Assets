@@ -25,7 +25,11 @@
             "brittle_shovel": "Morsche Schaufel",
             "sand": "Sand",
             "coal": "Kohle",
-            "torch": "Fackel"
+            "torch": "Fackel",
+            "ladder": "Leiter",
+            "chest": "Kiste",
+            "sign": "Schild",
+            "sapling": "Setzling"
         },
         "info": {
             "layer_placement": "Kann in %s platziert werden",
@@ -60,6 +64,21 @@
             "server_started": {
                 "*": "Integrierter Server auf Port %s gestartet",
                 "title": "Hallo Spieler!"
+            },
+            "screenshot": {
+                "*": "Gespeichert als %s",
+                "title": "Screenshot gemacht!"
+            },
+        "reject": {
+            "connected_already": "Du bist bereits zu diesem Server verbunden!",
+            "starting_up": "Dieser Server ist noch nicht komplett hochgefahren",
+            "incompatible_version": "Du hast eine inkompatible Version von %s: \n%s wo %s erwartet war!",
+            "missing_mods": "Dir fehlen benötigte Mods: \n%s",
+            "too_many_mods": "Du hast mods installiert, die auf dem Server nicht installiert sind: \n%s",
+            "connection": "Konnte nicht zum Server verbinden: \n%s",
+            "whitelist": "Du stehst nicht auf der Whitelist des Servers",
+            "blacklist": "Du stehst auf der Blacklist des Servers! Grund: \n%s",
+            "server_down": "Du hast die Verbindung zum Server verloren!"
             }
         },
         "button": {
@@ -122,7 +141,9 @@
             "worlds_folder": "Weltenordner",
             "sound": "Sound",
             "sound_volume": "Effektlautstärke",
-            "music_volume": "Musiklautstärke"
+            "music_volume": "Musiklautstärke",
+            "edit": "Bearbeiten",
+            "edit_toggled": "Bearbeiten beenden"
         },
         "layer": {
             "main": "Vordergrund",
