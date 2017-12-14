@@ -1,12 +1,24 @@
 {
-    "tex": {
-        "intro": {
-            "ellpeck": "/tex/intro/ellpeck.png",
-            "ellpeck_skipped": "/tex/intro/ellpeck_skipped.png",
-            "wiiv": "/tex/intro/wiiv.png",
-            "wiiv_skipped": "/tex/intro/wiiv_skipped.png"
+    "tex.": {
+        "intro.": {
+            "ellpeck": {
+                "should_stitch": false,
+                "path": "/tex/intro/ellpeck.png"
+            },
+            "ellpeck_skipped": {
+                "should_stitch": false,
+                "path": "/tex/intro/ellpeck_skipped.png"
+            },
+            "wiiv": {
+                "should_stitch": false,
+                "path": "/tex/intro/wiiv.png"
+            },
+            "wiiv_skipped": {
+                "should_stitch": false,
+                "path": "/tex/intro/wiiv_skipped.png"
+            }
         },
-        "break": {
+        "break.": {
             "1": "/tex/break/1.png",
             "2": "/tex/break/2.png",
             "3": "/tex/break/3.png",
@@ -16,23 +28,62 @@
             "7": "/tex/break/7.png",
             "8": "/tex/break/8.png"
         },
-        "tiles": {
-            "soil": ["/tex/tiles/soil_0.png", "/tex/tiles/soil_1.png", "/tex/tiles/soil_2.png", "/tex/tiles/soil_3.png"],
-            "grass": ["/tex/tiles/grass_0.png", "/tex/tiles/grass_1.png", "/tex/tiles/grass_2.png"],
+        "tiles.": {
+            "soil": {
+                "path": "/tex/tiles/soil_0.png",
+                "variations": ["/tex/tiles/soil_1.png", "/tex/tiles/soil_2.png", "/tex/tiles/soil_3.png"]
+            },
+            "grass": {
+                "path": "/tex/tiles/grass_0.png",
+                "variations": ["/tex/tiles/grass_1.png", "/tex/tiles/grass_2.png"]
+            },
             "stone": "/tex/tiles/stone.png",
-            "grass_tuft": ["/tex/tiles/grass_tuft_0.png", "/tex/tiles/grass_tuft_1.png"],
-            "grass_short": ["/tex/tiles/grass_short_0.png", "/tex/tiles/grass_short_1.png"],
-            "grass_tall": ["/tex/tiles/grass_tall_0.png", "/tex/tiles/grass_tall_1.png"],
-            "bush": ["/tex/tiles/bush_0.png", "/tex/tiles/bush_1.png", "/tex/tiles/bush_2.png"],
-            "log": {
+            "grass_tuft": {
+                "path": "/tex/tiles/grass_tuft_0.png",
+                "variations": ["/tex/tiles/grass_tuft_1.png"]
+            },
+            "grass_short": {
+                "path": "/tex/tiles/grass_short_0.png",
+                "variations": ["/tex/tiles/grass_short_1.png"]
+            },
+            "grass_tall": {
+                "path": "/tex/tiles/grass_tall_0.png",
+                "variations": ["/tex/tiles/grass_tall_1.png"]
+            },
+            "bush": {
+                "path": "/tex/tiles/bush_0.png",
+                "variations": ["/tex/tiles/bush_1.png", "/tex/tiles/bush_2.png"]
+            },
+            "log.": {
                 "*": "/tex/tiles/log.png",
-                "branch_left": ["/tex/tiles/log_branch_left_0.png", "/tex/tiles/log_branch_left_1.png"],
-                "branch_right": ["/tex/tiles/log_branch_right_0.png", "/tex/tiles/log_branch_right_1.png"],
-                "trunk_top": ["/tex/tiles/log_trunk_top_0.png", "/tex/tiles/log_trunk_top_1.png"],
-                "trunk_middle": ["/tex/tiles/log_trunk_middle_0.png", "/tex/tiles/log_trunk_middle_1.png"],
-                "trunk_bottom": ["/tex/tiles/log_trunk_bottom_0.png", "/tex/tiles/log_trunk_bottom_1.png"],
-                "root_left": ["/tex/tiles/log_root_left_0.png", "/tex/tiles/log_root_left_1.png"],
-                "root_right": ["/tex/tiles/log_root_right_0.png", "/tex/tiles/log_root_right_1.png"]
+                "branch_left": {
+                    "path": "/tex/tiles/log_branch_left_0.png",
+                    "variations": ["/tex/tiles/log_branch_left_1.png"]
+                },
+                "branch_right": {
+                    "path": "/tex/tiles/log_branch_right_0.png",
+                    "variations": ["/tex/tiles/log_branch_right_1.png"]
+                },
+                "trunk_top": {
+                    "path": "/tex/tiles/log_trunk_top_0.png",
+                    "variations": ["/tex/tiles/log_trunk_top_1.png"]
+                },
+                "trunk_middle": {
+                    "path": "/tex/tiles/log_trunk_middle_0.png",
+                    "variations": ["/tex/tiles/log_trunk_middle_1.png"]
+                },
+                "trunk_bottom": {
+                    "path": "/tex/tiles/log_trunk_bottom_0.png",
+                    "variations": ["/tex/tiles/log_trunk_bottom_1.png"]
+                },
+                "root_left": {
+                    "path": "/tex/tiles/log_root_left_0.png",
+                    "variations": ["/tex/tiles/log_root_left_1.png"]
+                },
+                "root_right": {
+                    "path": "/tex/tiles/log_root_right_0.png",
+                    "variations": ["/tex/tiles/log_root_right_1.png"]
+                }
             },
             "leaves": "/tex/tiles/leaves.png",
             "flower_gray": "/tex/tiles/flower_gray.png",
@@ -43,33 +94,45 @@
             "flower_yellow": "/tex/tiles/flower_yellow.png",
             "flower_blue": "/tex/tiles/flower_blue.png",
             "flower_purple": "/tex/tiles/flower_purple.png",
-            "pebbles": ["/tex/tiles/pebbles_0.png", "/tex/tiles/pebbles_1.png"],
+            "pebbles": {
+                "path": "/tex/tiles/pebbles_0.png",
+                "variations": ["/tex/tiles/pebbles_1.png"]
+            },
             "sand": "/tex/tiles/sand.png",
             "sandstone": "/tex/tiles/sandstone.png",
             "coal": "/tex/tiles/ore_coal.png",
-            "torch": {
+            "torch.": {
                 "*": "/tex/tiles/torch.png",
                 "back": "/tex/tiles/torch_back.png",
                 "left": "/tex/tiles/torch_left.png",
                 "right": "/tex/tiles/torch_right.png"
             },
             "ladder": "/tex/tiles/ladder.png",
-            "chest": {
+            "chest.": {
                 "*": "/tex/tiles/chest.png",
                 "open": "/tex/tiles/chest_open.png"
             },
             "sign": "/tex/tiles/sign.png",
             "sapling": "/tex/tiles/sapling.png"
         },
-        "items": {
+        "items.": {
             "pebbles": "/tex/items/pebbles.png",
-            "brittle_pickaxe": ["/tex/items/brittle_pickaxe.png", "/tex/items/tool.json"],
-            "brittle_axe": ["/tex/items/brittle_axe.png", "/tex/items/tool.json"],
-            "brittle_shovel": ["/tex/items/brittle_shovel.png", "/tex/items/tool.json"],
+            "brittle_pickaxe": {
+                "path": "/tex/items/brittle_pickaxe.png",
+                "data": "/tex/items/tool.json"
+            },
+            "brittle_axe": {
+                "path": "/tex/items/brittle_axe.png",
+                "data": "/tex/items/tool.json"
+            },
+            "brittle_shovel": {
+                "path": "/tex/items/brittle_shovel.png",
+                "data": "/tex/items/tool.json"
+            },
             "coal": "/tex/items/coal.png"
         },
-        "gui": {
-            "cursor": {
+        "gui.": {
+            "cursor.": {
                 "pointer": "/tex/gui/cursor/pointer.png",
                 "closed_hand": "/tex/gui/cursor/closed_hand.png",
                 "open_hand": "/tex/gui/cursor/open_hand.png",
@@ -100,10 +163,14 @@
         "sun": "/tex/sun.png",
         "moon": "/tex/moon.png"
     },
-    "anim": {
-        "logo": ["/anim/logo.json", "/anim/logo.png"],
-        "player": {
-            "accessory": {
+    "anim.": {
+        "logo": {
+            "should_stitch": false,
+            "data": "/anim/logo.json",
+            "path": "/anim/logo.png"
+        },
+        "player.": {
+            "accessory.": {
                 "monocle_1": ["/anim/player/anim.json", "/anim/player/accessory/monocle_1.png"],
                 "monocle_2": ["/anim/player/anim.json", "/anim/player/accessory/monocle_2.png"],
                 "sunglasses_1": ["/anim/player/anim.json", "/anim/player/accessory/sunglasses_1.png"],
@@ -114,67 +181,67 @@
                 "glasses_3": ["/anim/player/anim.json", "/anim/player/accessory/glasses_3.png"],
                 "eyeliner": ["/anim/player/anim.json", "/anim/player/accessory/eyeliner.png"]
             },
-            "arm": {
-                "skin_1": {
+            "arm.": {
+                "skin_1.": {
                     "hanging": ["/anim/player/anim.json", "/anim/player/arm/hanging/skin_1.png"],
                     "holding": ["/anim/player/anim_holding.json", "/anim/player/arm/holding/skin_1.png"]
                 },
-                "skin_2": {
+                "skin_2.": {
                     "hanging": ["/anim/player/anim.json", "/anim/player/arm/hanging/skin_2.png"],
                     "holding": ["/anim/player/anim_holding.json", "/anim/player/arm/holding/skin_2.png"]
                 },
-                "skin_3": {
+                "skin_3.": {
                     "hanging": ["/anim/player/anim.json", "/anim/player/arm/hanging/skin_3.png"],
                     "holding": ["/anim/player/anim_holding.json", "/anim/player/arm/holding/skin_3.png"]
                 },
-                "skin_4": {
+                "skin_4.": {
                     "hanging": ["/anim/player/anim.json", "/anim/player/arm/hanging/skin_4.png"],
                     "holding": ["/anim/player/anim_holding.json", "/anim/player/arm/holding/skin_4.png"]
                 },
-                "skin_5": {
+                "skin_5.": {
                     "hanging": ["/anim/player/anim.json", "/anim/player/arm/hanging/skin_5.png"],
                     "holding": ["/anim/player/anim_holding.json", "/anim/player/arm/holding/skin_5.png"]
                 },
-                "skin_s": {
+                "skin_s.": {
                     "hanging": ["/anim/player/anim.json", "/anim/player/arm/hanging/skin_s.png"],
                     "holding": ["/anim/player/anim_holding.json", "/anim/player/arm/holding/skin_s.png"]
                 }
             },
-            "base": {
+            "base.": {
                 "eyes": ["/anim/player/anim.json", "/anim/player/base/eyes.png"],
-                "1": {
+                "1.": {
                     "male": ["/anim/player/anim.json", "/anim/player/base/male/1.png"],
                     "female": ["/anim/player/anim.json", "/anim/player/base/female/1.png"]
                 },
-                "2": {
+                "2.": {
                     "male": ["/anim/player/anim.json", "/anim/player/base/male/2.png"],
                     "female": ["/anim/player/anim.json", "/anim/player/base/female/2.png"]
                 },
-                "3": {
+                "3.": {
                     "male": ["/anim/player/anim.json", "/anim/player/base/male/3.png"],
                     "female": ["/anim/player/anim.json", "/anim/player/base/female/3.png"]
                 },
-                "4": {
+                "4.": {
                     "male": ["/anim/player/anim.json", "/anim/player/base/male/4.png"],
                     "female": ["/anim/player/anim.json", "/anim/player/base/female/4.png"]
                 },
-                "5": {
+                "5.": {
                     "male": ["/anim/player/anim.json", "/anim/player/base/male/5.png"],
                     "female": ["/anim/player/anim.json", "/anim/player/base/female/5.png"]
                 },
-                "s": {
+                "s.": {
                     "male": ["/anim/player/anim.json", "/anim/player/base/male/s.png"],
                     "female": ["/anim/player/anim.json", "/anim/player/base/female/s.png"]
                 }
             },
-            "footwear": {
+            "footwear.": {
                 "1": ["/anim/player/anim.json", "/anim/player/footwear/1.png"],
                 "2": ["/anim/player/anim.json", "/anim/player/footwear/2.png"],
                 "3": ["/anim/player/anim.json", "/anim/player/footwear/3.png"],
                 "4": ["/anim/player/anim.json", "/anim/player/footwear/4.png"],
                 "5": ["/anim/player/anim.json", "/anim/player/footwear/5.png"]
             },
-            "hair": {
+            "hair.": {
                 "1": ["/anim/player/anim.json", "/anim/player/hair/1.png"],
                 "2": ["/anim/player/anim.json", "/anim/player/hair/2.png"],
                 "3": ["/anim/player/anim.json", "/anim/player/hair/3.png"],
@@ -185,35 +252,35 @@
                 "8": ["/anim/player/anim.json", "/anim/player/hair/8.png"],
                 "9": ["/anim/player/anim.json", "/anim/player/hair/9.png"]
             },
-            "pants": {
+            "pants.": {
                 "1": ["/anim/player/anim.json", "/anim/player/pants/1.png"],
                 "2": ["/anim/player/anim.json", "/anim/player/pants/2.png"]
             },
-            "shirt": {
+            "shirt.": {
                 "1": ["/anim/player/anim.json", "/anim/player/shirt/1.png"],
                 "2": ["/anim/player/anim.json", "/anim/player/shirt/2.png"],
                 "3": ["/anim/player/anim.json", "/anim/player/shirt/3.png"],
                 "4": ["/anim/player/anim.json", "/anim/player/shirt/4.png"]
             },
-            "sleeve": {
-                "1": {
+            "sleeve.": {
+                "1.": {
                     "hanging": ["/anim/player/anim.json", "/anim/player/sleeve/hanging/1.png"],
                     "holding": ["/anim/player/anim.json", "/anim/player/sleeve/holding/1.png"]
                 },
-                "2": {
+                "2.": {
                     "hanging": ["/anim/player/anim.json", "/anim/player/sleeve/hanging/2.png"],
                     "holding": ["/anim/player/anim.json", "/anim/player/sleeve/holding/2.png"]
                 },
-                "3": {
+                "3.": {
                     "hanging": ["/anim/player/anim.json", "/anim/player/sleeve/hanging/3.png"],
                     "holding": ["/anim/player/anim.json", "/anim/player/sleeve/holding/3.png"]
                 },
-                "4": {
+                "4.": {
                     "hanging": ["/anim/player/anim.json", "/anim/player/sleeve/hanging/4.png"],
                     "holding": ["/anim/player/anim.json", "/anim/player/sleeve/holding/4.png"]
                 }
             },
-            "eyebrows": {
+            "eyebrows.": {
                 "1": ["/anim/player/anim.json", "/anim/player/eyebrows/1.png"],
                 "2": ["/anim/player/anim.json", "/anim/player/eyebrows/2.png"],
                 "3": ["/anim/player/anim.json", "/anim/player/eyebrows/3.png"],
@@ -221,7 +288,7 @@
                 "5": ["/anim/player/anim.json", "/anim/player/eyebrows/5.png"],
                 "6": ["/anim/player/anim.json", "/anim/player/eyebrows/6.png"]
             },
-            "mouth": {
+            "mouth.": {
                 "1": ["/anim/player/anim.json", "/anim/player/mouth/1.png"],
                 "2": ["/anim/player/anim.json", "/anim/player/mouth/2.png"],
                 "3": ["/anim/player/anim.json", "/anim/player/mouth/3.png"],
@@ -233,27 +300,27 @@
                 "9": ["/anim/player/anim.json", "/anim/player/mouth/9.png"],
                 "10": ["/anim/player/anim.json", "/anim/player/mouth/10.png"]
             },
-            "beard": {
+            "beard.": {
                 "1": ["/anim/player/anim.json", "/anim/player/beard/1.png"],
                 "2": ["/anim/player/anim.json", "/anim/player/beard/2.png"]
             }
         }
     },
-    "font": {
+    "font.": {
         "default": ["/font/default.json", "/font/default.png"]
     },
-    "loc": {
+    "loc.": {
         "us_english": "/loc/us_english.json",
         "fr_french": "/loc/fr_french.json",
         "za_afrikaans": "/loc/za_afrikaans.json",
         "de_german": "/loc/de_german.json",
         "pl_polish": "/loc/pl_polish.json"
     },
-    "sound": {
-        "menu": {
+    "sound.": {
+        "menu.": {
             "click": "/sound/menu/click.ogg"
         },
-        "tiles": {
+        "tiles.": {
             "generic_tile": "/sound/tiles/generic_tile.ogg"
         }
     }
