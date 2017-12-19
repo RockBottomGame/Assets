@@ -1,22 +1,10 @@
 {
     "tex.": {
         "intro.": {
-            "ellpeck": {
-                "should_stitch": false,
-                "path": "/tex/intro/ellpeck.png"
-            },
-            "ellpeck_skipped": {
-                "should_stitch": false,
-                "path": "/tex/intro/ellpeck_skipped.png"
-            },
-            "wiiv": {
-                "should_stitch": false,
-                "path": "/tex/intro/wiiv.png"
-            },
-            "wiiv_skipped": {
-                "should_stitch": false,
-                "path": "/tex/intro/wiiv_skipped.png"
-            }
+            "ellpeck": ["/tex/intro/ellpeck.png"],
+            "ellpeck_skipped":["/tex/intro/ellpeck_skipped.png"],
+            "wiiv": ["/tex/intro/wiiv.png"],
+            "wiiv_skipped": ["/tex/intro/wiiv_skipped.png"]
         },
         "break.": {
             "1": "/tex/break/1.png",
@@ -157,18 +145,14 @@
             "mods_folder": "/tex/gui/folder_mods.png",
             "sign": "/tex/gui/sign.png"
         },
-        "particle": {
+        "particle.": {
             "smoke": "/tex/particle/smoke.png"
         },
         "sun": "/tex/sun.png",
         "moon": "/tex/moon.png"
     },
     "anim.": {
-        "logo": {
-            "should_stitch": false,
-            "data": "/anim/logo.json",
-            "path": "/anim/logo.png"
-        },
+        "logo": ["/anim/logo.json", "/anim/logo.png"],
         "player.": {
             "accessory.": {
                 "monocle_1": ["/anim/player/anim.json", "/anim/player/accessory/monocle_1.png"],
