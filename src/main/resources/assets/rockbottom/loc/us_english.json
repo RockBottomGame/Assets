@@ -29,7 +29,8 @@
             "ladder": "Ladder",
             "chest": "Chest",
             "sign": "Sign",
-            "sapling": "Sapling"
+            "sapling": "Sapling",
+            "firework": "Firework"
         },
         "info": {
             "layer_placement": "Can be placed in %s",

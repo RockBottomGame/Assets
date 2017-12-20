@@ -117,7 +117,8 @@
                 "path": "/tex/items/brittle_shovel.png",
                 "data": "/tex/items/tool.json"
             },
-            "coal": "/tex/items/coal.png"
+            "coal": "/tex/items/coal.png",
+            "firework": "/tex/items/firework.png"
         },
         "gui.": {
             "cursor.": {
@@ -146,12 +147,13 @@
             "sign": "/tex/gui/sign.png"
         },
         "particle.": {
-            "smoke": "/tex/particle/smoke.png"
+            "smoke": "/tex/particle/smoke.png",
+            "firework": "/tex/particle/firework.png"
         },
         "sky.": {
             "sun": "/tex/sky/sun.png",
             "moon": "/tex/sky/moon.png",
-            "cloud.":{
+            "cloud.": {
                 "0": "/tex/sky/cloud_0.png",
                 "1": "/tex/sky/cloud_1.png",
                 "2": "/tex/sky/cloud_2.png",
