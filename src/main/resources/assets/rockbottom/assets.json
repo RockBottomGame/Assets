@@ -101,7 +101,21 @@
                 "open": "/tex/tiles/chest_open.png"
             },
             "sign": "/tex/tiles/sign.png",
-            "sapling": "/tex/tiles/sapling.png"
+            "sapling": "/tex/tiles/sapling.png",
+            "water.": {
+                "0": "/tex/tiles/water_0.png",
+                "1": "/tex/tiles/water_1.png",
+                "2": "/tex/tiles/water_2.png",
+                "3": "/tex/tiles/water_3.png",
+                "4": "/tex/tiles/water_4.png",
+                "5": "/tex/tiles/water_5.png",
+                "6": "/tex/tiles/water_6.png",
+                "7": "/tex/tiles/water_7.png",
+                "8": "/tex/tiles/water_8.png",
+                "9": "/tex/tiles/water_9.png",
+                "10": "/tex/tiles/water_10.png",
+                "11": "/tex/tiles/water_11.png"
+            }
         },
         "items.": {
             "pebbles": "/tex/items/pebbles.png",
