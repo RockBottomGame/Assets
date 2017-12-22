@@ -80,6 +80,16 @@
                 "whitelist": "You are not whitelisted on this server!",
                 "blacklist": "You are blacklisted on this server! Reason: \n%s",
                 "server_down": "You have lost connection to the server!"
+            },
+            "changelog": {
+                "grabbing": "Grabbing Changelog...",
+                "error": "Couldn't grab changelog :(",
+                "scroll_for_more": "Scroll down for more",
+                "latest": "Latest",
+                "stable": "Stable",
+                "current": "Current",
+                "no_update": "Your game is up to date!",
+                "update": "Update available!"
             }
         },
         "button": {
@@ -95,10 +105,10 @@
             "render_scale": "World Render Scale",
             "target_fps": "Target FPS",
             "main_menu": "Quit World",
-            "play": "Play",
+            "play": "Singleplayer",
             "delete": "Delete Mode Off",
             "delete_toggled": "Delete Mode On",
-            "join": "Join",
+            "join": "Multiplayer",
             "open_server": "Open as Server",
             "close_server": "Close Server",
             "connect": "Connect",
@@ -122,7 +132,7 @@
             "smooth_lighting": "Smooth Lighting On",
             "smooth_lighting_toggled": "Smooth Lighting Off",
             "language": "Language",
-            "player_editor": "Edit Player",
+            "player_editor": "Player Editor",
             "player_design": {
                 "base": "Base",
                 "shirt": "Shirt",
@@ -144,7 +154,8 @@
             "sound_volume": "Sound Volume",
             "music_volume": "Music Volume",
             "edit": "Edit",
-            "edit_toggled": "Stop Editing"
+            "edit_toggled": "Stop Editing",
+            "changelog": "Updates"
         },
         "layer": {
             "main": "Foreground",
