@@ -1,7 +1,7 @@
 {
     "rockbottom": {
         "loc.pl_polish": "PL Polski",
-        "item": {
+        "item.": {
             "stone": "Kamien",
             "dirt": "Ziemia",
             "torch": "Pochodnia",
@@ -53,7 +53,7 @@
             "bronze_ingot": "Sztaba Brazu",
             "combiner": "Lacznik"
         },
-        "info": {
+        "info.": {
             "advanced_info": "Nacisnij %s zeby zobaczyc wiecej informacji",
             "autosave_interval": "Tyle sekund pomiedzy zapisaniamy swiata",
             "connect": "Gracz %s dolaczyl!",
@@ -78,16 +78,16 @@
             "uses": "Uzywa",
             "world": "Swiat %s",
             "last_modified": "Ostatnio Grano",
-            "server_shutdown": {
+            "server_shutdown.": {
                 "*": "Zatrzymano Serwer",
                 "title": "Narazie!"
             },
-            "server_started": {
+            "server_started.": {
                 "*": "Serwer wlaczony na porcie %s",
                 "title": "Witam!"
             }
         },
-        "button": {
+        "button.": {
             "all_construction": "Pokaz Wszystkie Konstrukcje",
             "autosave_interval": "Okres Auto-Zapisywania",
             "back": "Cofnij",
@@ -116,7 +116,7 @@
             "mods_folder": "Folder Modow",
             "open_server": "Otworz jako Serwer",
             "play": "Graj",
-            "player_design": {
+            "player_design.": {
                 "accessory": "Akcesoria",
                 "arm": "Reka",
                 "base": "Baza",
@@ -147,11 +147,11 @@
             "edit": "Edituj",
             "edit_toggled": "Koniec"
         },
-        "layer": {
+        "layer.": {
             "background": "Tylnym Tle",
             "main": "Przednim Tle"
         },
-        "key": {
+        "key.": {
             "advanced_info": "Wiecej Informacji",
             "background": "Tylne Tlo",
             "chat": "Czat",
@@ -176,7 +176,7 @@
             "screenshot": "Zrzut Ekranu",
             "up": "Wejdz do gory"
         },
-        "death.flavor": {
+        "death.flavor.": {
             "1": "%s jest teraz ravioli.",
             "2": "%s powinien sie nauczyc jak grac.",
             "3": "%s zarechotal (I to nie jak zaba)",

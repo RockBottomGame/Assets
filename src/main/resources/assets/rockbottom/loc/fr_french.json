@@ -1,7 +1,7 @@
 {
     "rockbottom": {
         "loc.fr_french": "FR Français",
-        "item": {
+        "item.": {
             "stone": "Roche",
             "dirt": "Terre",
             "torch": "Torche",
@@ -37,7 +37,7 @@
             "lamp": "Lampe",
             "pebbles": "Rocher"
         },
-        "info": {
+        "info.": {
             "layer_placement": "Peut être placé dans le %s",
             "health": "Vie",
             "dead": "Vous êtes mort!",
@@ -64,7 +64,7 @@
             "last_modified": "Dernière modification:",
             "seed": "Graine"
         },
-        "button": {
+        "button.": {
             "back": "Retour",
             "settings": "Paramètres",
             "close": "Fermer",
@@ -105,7 +105,7 @@
             "smooth_lighting_toggled": "Eclairage adouci Off",
             "language": "Langue",
             "player_editor": "Modifier le joueur",
-            "player_design": {
+            "player_design.": {
                 "base": "Base",
                 "shirt": "Maillot",
                 "arm": "Bras",
@@ -122,11 +122,11 @@
                 "sex_toggled": "Femme"
             }
         },
-        "layer": {
+        "layer.": {
             "main": "Premier plan",
             "background": "Arrière-plan"
         },
-        "key": {
+        "key.": {
             "inventory": "Inventaire",
             "menu": "Menu",
             "left": "Aller à gauche",
@@ -151,7 +151,7 @@
             "gui_action_1": "Interface 1",
             "gui_action_2": "Interface 2"
         },
-        "death.flavor": {
+        "death.flavor.": {
             "1": "%s est désormais des raviolis.",
             "2": "%s devrait apprendre à jouer.",
             "3": "%s a sauté (pas comme une grenouille)",

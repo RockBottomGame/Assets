@@ -1,7 +1,7 @@
 {
     "rockbottom": {
         "loc.us_english": "US English",
-        "item": {
+        "item.": {
             "soil": "Soil",
             "grass": "Overgrown Soil",
             "stone": "Stone",
@@ -32,7 +32,7 @@
             "sapling": "Sapling",
             "firework": "Firework"
         },
-        "info": {
+        "info.": {
             "layer_placement": "Can be placed in %s",
             "health": "Health",
             "dead": "You died!",
@@ -58,19 +58,19 @@
             "disconnect": "&6Player %s disconnected!",
             "last_modified": "Last Played",
             "seed": "Seed",
-            "server_shutdown": {
+            "server_shutdown.": {
                 "*": "Integrated server stopped",
                 "title": "Later guys!"
             },
-            "server_started": {
+            "server_started.": {
                 "*": "Started integrated server on port %s",
                 "title": "Hey players!"
             },
-            "screenshot": {
+            "screenshot.": {
                 "*": "Saved as %s",
                 "title": "Screenshot taken!"
             },
-            "reject": {
+            "reject.": {
                 "connected_already": "You are already connected to that server!",
                 "starting_up": "The server hasn't finished starting up!",
                 "incompatible_version": "You have an incompatible version of %s: \n%s where %s was expected!",
@@ -81,7 +81,7 @@
                 "blacklist": "You are blacklisted on this server! Reason: \n%s",
                 "server_down": "You have lost connection to the server!"
             },
-            "changelog": {
+            "changelog.": {
                 "grabbing": "Grabbing Changelog...",
                 "error": "Couldn't grab changelog :(",
                 "scroll_for_more": "Scroll down for more",
@@ -91,7 +91,7 @@
                 "no_update": "Your game is up to date!",
                 "update": "Update available!"
             },
-            "format":{
+            "format.":{
                 "&0":"Turns the text &0black",
                 "&1":"Turns the text &1dark gray",
                 "&2":"Turns the text &2gray",
@@ -113,7 +113,7 @@
                 "&y":"Resets the &acolor&y of the text"
             }
         },
-        "button": {
+        "button.": {
             "back": "Back",
             "settings": "Settings",
             "close": "Close",
@@ -154,7 +154,7 @@
             "smooth_lighting_toggled": "Smooth Lighting Off",
             "language": "Language",
             "player_editor": "Player Editor",
-            "player_design": {
+            "player_design.": {
                 "base": "Base",
                 "shirt": "Shirt",
                 "arm": "Arms",
@@ -178,11 +178,11 @@
             "edit_toggled": "Stop Editing",
             "changelog": "Updates"
         },
-        "layer": {
+        "layer.": {
             "main": "Foreground",
             "background": "Background"
         },
-        "key": {
+        "key.": {
             "inventory": "Inventory",
             "menu": "Menu",
             "left": "Go Left",
@@ -207,7 +207,7 @@
             "gui_action_1": "Gui 1st",
             "gui_action_2": "Gui 2nd"
         },
-        "death.flavor": {
+        "death.flavor.": {
             "1": "%s is now ravioli.",
             "2": "%s should learn how to play.",
             "3": "%s croaked (and not in the frog way)",

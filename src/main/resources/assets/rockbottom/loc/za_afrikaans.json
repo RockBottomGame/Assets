@@ -1,7 +1,7 @@
 {
     "rockbottom": {
         "loc.za_afrikaans": "ZA Afrikaans",
-        "item": {
+        "item.": {
             "soil": "Grond",
             "grass": "Oorgroeide Grond",
             "stone": "Steen",
@@ -32,7 +32,7 @@
             "sapling": "Loot",
             "firework": "Fuurwerk"
         },
-        "info": {
+        "info.": {
             "layer_placement": "Kan in %s geplaas word",
             "health": "Gesondheid",
             "dead": "Jy het gesterf!",
@@ -58,19 +58,19 @@
             "disconnect": "&6Speler %s ontkoppel!",
             "last_modified": "Laas Gespeel",
             "seed": "Saad",
-            "server_shutdown": {
+            "server_shutdown.": {
                 "*": "Ingeboude bediener is gestop",
                 "title": "Baai ouens!"
             },
-            "server_started": {
+            "server_started.": {
                 "*": "Ingeboude bediener is begin op poort %s",
                 "title": "Haai ouens!"
             },
-            "screenshot": {
+            "screenshot.": {
                 "*": "Gestoor as %s",
                 "title": "Skermbeeld geneem!"
             },
-            "reject": {
+            "reject.": {
                 "connected_already": "Jy is reeds aangesluit aan die bediener!",
                 "starting_up": "Die bediener is nog besig om op te laai!",
                 "incompatible_version": "Jy het 'n onversoenbare weergawe van %s: \n%s waar %s verwas was!",
@@ -81,7 +81,7 @@
                 "blacklist": "Jy is geswartlys op die bediener! Rede: \n%s",
                 "server_down": "Jy het konneksie tot die bediener verloor!"
             },
-            "changelog": {
+            "changelog.": {
                 "grabbing": "Besig om die Veranderingloglêer te kry...",
                 "error": "Kon nie die veranderingloglêer kry nie :(",
                 "scroll_for_more": "Rol af vir meer",
@@ -91,7 +91,7 @@
                 "no_update": "Jou speeletjie is op datum!",
                 "update": "Opdatering beskikbaar!"
             },
-            "format":{
+            "format.":{
                 "&0":"Maak die teks &0swart",
                 "&1":"Verader die teks na &1donker grys",
                 "&2":"Verader die teks na &2grys",
@@ -113,7 +113,7 @@
                 "&y":"Stel die &akleur&y van die teks terug"
             }
         },
-        "button": {
+        "button.": {
             "back": "Terug",
             "settings": "Instellings",
             "close": "Maak toe",
@@ -154,7 +154,7 @@
             "smooth_lighting_toggled": "Gladde beligting Af",
             "language": "Taal",
             "player_editor": "Wysig Speler",
-            "player_design": {
+            "player_design.": {
                 "base": "Basis",
                 "shirt": "Hemp",
                 "arm": "Arms",
@@ -178,11 +178,11 @@
             "edit_toggled": "Klaar",
             "changelog": "Opdaterings"
         },
-        "layer": {
+        "layer.": {
             "main": "Voorgrond",
             "background": "Agtergrond"
         },
-        "key": {
+        "key.": {
             "inventory": "Voorraad",
             "menu": "Menu",
             "left": "Gaan links",
@@ -207,7 +207,7 @@
             "gui_action_1": "Gui 1ste",
             "gui_action_2": "Gui 2de"
         },
-        "death.flavor": {
+        "death.flavor.": {
             "1": "%s is nou ravioli.",
             "2": "%s moet leer hoe om te speel.",
             "3": "%s het gekwaak (en nie soos 'n padda nie)",

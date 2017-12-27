@@ -1,7 +1,7 @@
 {
     "rockbottom": {
         "loc.de_german": "DE Deutsch",
-        "item": {
+        "item.": {
             "soil": "Erde",
             "grass": "Bewachsene Erde",
             "stone": "Stein",
@@ -31,7 +31,7 @@
             "sign": "Schild",
             "sapling": "Setzling"
         },
-        "info": {
+        "info.": {
             "layer_placement": "Kann in %s platziert werden",
             "health": "Gesundheit",
             "dead": "Du bist gestorben!",
@@ -57,19 +57,19 @@
             "disconnect": "&6Spieler %s hat das Spiel verlassen!",
             "last_modified": "Zuletzt gespielt",
             "seed": "Startwert",
-            "server_shutdown": {
+            "server_shutdown.": {
                 "*": "Integrated server stopped",
                 "title": "Later guys!"
             },
-            "server_started": {
+            "server_started.": {
                 "*": "Integrierter Server auf Port %s gestartet",
                 "title": "Hallo Spieler!"
             },
-            "screenshot": {
+            "screenshot.": {
                 "*": "Gespeichert als %s",
                 "title": "Screenshot gemacht!"
             },
-        "reject": {
+        "reject.": {
             "connected_already": "Du bist bereits zu diesem Server verbunden!",
             "starting_up": "Dieser Server ist noch nicht komplett hochgefahren",
             "incompatible_version": "Du hast eine inkompatible Version von %s: \n%s wo %s erwartet war!",
@@ -81,7 +81,7 @@
             "server_down": "Du hast die Verbindung zum Server verloren!"
             }
         },
-        "button": {
+        "button.": {
             "back": "Zurück",
             "settings": "Einstellungen",
             "close": "Schließen",
@@ -122,7 +122,7 @@
             "smooth_lighting_toggled": "Glatte Beleuchtung Aus",
             "language": "Sprache",
             "player_editor": "Spieler bearbeiten",
-            "player_design": {
+            "player_design.": {
                 "base": "Basis",
                 "shirt": "Shirt",
                 "arm": "Arme",
@@ -145,11 +145,11 @@
             "edit": "Bearbeiten",
             "edit_toggled": "Bearbeiten beenden"
         },
-        "layer": {
+        "layer.": {
             "main": "Vordergrund",
             "background": "Hintergrund"
         },
-        "key": {
+        "key.": {
             "inventory": "Inventar",
             "menu": "Menü",
             "left": "Nach Links gehen",
@@ -174,7 +174,7 @@
             "gui_action_1": "Gui erste",
             "gui_action_2": "Gui zweite"
         },
-        "death.flavor": {
+        "death.flavor.": {
             "1": "%s ist jetzt ravioli.",
             "2": "%s sollte lernen, wie man spielt.",
             "3": "%s kratzte ab (und nicht den Aufkleber)",
