@@ -30,7 +30,9 @@
             "chest": "Chest",
             "sign": "Sign",
             "sapling": "Sapling",
-            "firework": "Firework"
+            "firework": "Firework",
+            "wood_boards": "Wood Boards",
+            "wood_boards_old": "Soggy Wood Boards"
         },
         "info.": {
             "layer_placement": "Can be placed in %s",
@@ -91,26 +93,26 @@
                 "no_update": "Your game is up to date!",
                 "update": "Update available!"
             },
-            "format.":{
-                "&0":"Turns the text &0black",
-                "&1":"Turns the text &1dark gray",
-                "&2":"Turns the text &2gray",
-                "&3":"Turns the text &3light gray",
-                "&4":"Turns the text &4white",
-                "&5":"Turns the text &5yellow",
-                "&6":"Turns the text &6orange",
-                "&7":"Turns the text &7red",
-                "&8":"Turns the text &8pink",
-                "&9":"Turns the text &9magenta",
-                "&a":"Turns the text &agreen",
-                "&b":"Makes the text &bbold",
-                "&c":"Makes the text &ca mess",
-                "&i":"Makes the text &iitalics",
-                "&s":"Makes the text &sstrikethrough",
-                "&t":"Makes the text &tupside down",
-                "&u":"Makes the text &uunderlined",
-                "&x":"Resets the &bformatting&x of the text",
-                "&y":"Resets the &acolor&y of the text"
+            "format.": {
+                "&0": "Turns the text &0black",
+                "&1": "Turns the text &1dark gray",
+                "&2": "Turns the text &2gray",
+                "&3": "Turns the text &3light gray",
+                "&4": "Turns the text &4white",
+                "&5": "Turns the text &5yellow",
+                "&6": "Turns the text &6orange",
+                "&7": "Turns the text &7red",
+                "&8": "Turns the text &8pink",
+                "&9": "Turns the text &9magenta",
+                "&a": "Turns the text &agreen",
+                "&b": "Makes the text &bbold",
+                "&c": "Makes the text &ca mess",
+                "&i": "Makes the text &iitalics",
+                "&s": "Makes the text &sstrikethrough",
+                "&t": "Makes the text &tupside down",
+                "&u": "Makes the text &uunderlined",
+                "&x": "Resets the &bformatting&x of the text",
+                "&y": "Resets the &acolor&y of the text"
             }
         },
         "button.": {

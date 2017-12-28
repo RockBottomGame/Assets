@@ -115,6 +115,11 @@
                 "9": "/tex/tiles/water_9.png",
                 "10": "/tex/tiles/water_10.png",
                 "11": "/tex/tiles/water_11.png"
+            },
+            "wood_boards": "/tex/tiles/wood_boards.png",
+            "wood_boards_old": {
+                "path": "/tex/tiles/wood_boards_old_0.png",
+                "variations": ["/tex/tiles/wood_boards_old_1.png"]
             }
         },
         "items.": {
