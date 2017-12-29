@@ -137,7 +137,8 @@
                         "1": [0, 12, 12, 12]
                     }
                 }
-            }
+            },
+            "remains_goo":"/tex/tiles/remains_goo.png"
         },
         "items.": {
             "pebbles": "/tex/items/pebbles.png",
