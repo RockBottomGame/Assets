@@ -120,6 +120,23 @@
             "wood_boards_old": {
                 "path": "/tex/tiles/wood_boards_old_0.png",
                 "variations": ["/tex/tiles/wood_boards_old_1.png"]
+            },
+            "wood_door.": {
+                "item": "/tex/tiles/wood_door_item.png",
+                "closed.": {
+                    "subtexture": {
+                        "file": "/tex/tiles/wood_door_closed.png",
+                        "0": [0, 0, 12, 12],
+                        "1": [0, 12, 12, 12]
+                    }
+                },
+                "open.": {
+                    "subtexture": {
+                        "file": "/tex/tiles/wood_door_open.png",
+                        "0": [0, 0, 12, 12],
+                        "1": [0, 12, 12, 12]
+                    }
+                }
             }
         },
         "items.": {
