@@ -90,10 +90,10 @@
             "sandstone": "/tex/tiles/sandstone.png",
             "coal": "/tex/tiles/ore_coal.png",
             "torch.": {
-                "*": "/tex/tiles/torch.png",
-                "back": "/tex/tiles/torch_back.png",
-                "left": "/tex/tiles/torch_left.png",
-                "right": "/tex/tiles/torch_right.png"
+                "*": "/tex/tiles/torch_coal.png",
+                "back": "/tex/tiles/torch_coal_back.png",
+                "left": "/tex/tiles/torch_coal_left.png",
+                "right": "/tex/tiles/torch_coal_right.png"
             },
             "ladder": "/tex/tiles/ladder.png",
             "chest.": {
