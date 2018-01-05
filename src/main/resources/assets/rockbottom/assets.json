@@ -138,7 +138,7 @@
                     }
                 }
             },
-            "remains_goo":"/tex/tiles/remains_goo.png"
+            "remains_goo": "/tex/tiles/remains_goo.png"
         },
         "items.": {
             "pebbles": "/tex/items/pebbles.png",
@@ -361,6 +361,12 @@
         },
         "tiles.": {
             "generic_tile": "/sound/tiles/generic_tile.ogg"
+        }
+    },
+    "shader.": {
+        "default": {
+            "vertex": "/shader/default.vert",
+            "fragment": "/shader/default.frag"
         }
     }
 }
