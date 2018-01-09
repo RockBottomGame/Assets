@@ -383,6 +383,10 @@
         "default": {
             "vertex": "/shader/default.vert",
             "fragment": "/shader/default.frag"
+        },
+        "break": {
+            "vertex": "/shader/break.vert",
+            "fragment": "/shader/break.frag"
         }
     }
 }
