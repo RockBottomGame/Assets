@@ -1,10 +1,22 @@
 {
     "tex.": {
         "intro.": {
-            "ellpeck": ["/tex/intro/ellpeck.png"],
-            "ellpeck_skipped": ["/tex/intro/ellpeck_skipped.png"],
-            "wiiv": ["/tex/intro/wiiv.png"],
-            "wiiv_skipped": ["/tex/intro/wiiv_skipped.png"]
+            "ellpeck": {
+                "path": "/tex/intro/ellpeck.png",
+                "should_stitch": false
+            },
+            "ellpeck_skipped": {
+                "path": "/tex/intro/ellpeck_skipped.png",
+                "should_stitch": false
+            },
+            "wiiv": {
+                "path": "/tex/intro/wiiv.png",
+                "should_stitch": false
+            },
+            "wiiv_skipped": {
+                "path": "/tex/intro/wiiv_skipped.png",
+                "should_stitch": false
+            }
         },
         "break.": {
             "1": "/tex/break/1.png",
@@ -207,7 +219,11 @@
         }
     },
     "anim.": {
-        "logo": ["/anim/logo.json", "/anim/logo.png"],
+        "logo": {
+            "data": "/anim/logo.json",
+            "path": "/anim/logo.png",
+            "should_stitch": false
+        },
         "player.": {
             "accessory.": {
                 "monocle_1": ["/anim/player/anim.json", "/anim/player/accessory/monocle_1.png"],
