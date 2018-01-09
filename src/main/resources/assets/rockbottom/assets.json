@@ -380,9 +380,13 @@
         }
     },
     "shader.": {
-        "default": {
-            "vertex": "/shader/default.vert",
-            "fragment": "/shader/default.frag"
+        "gui": {
+            "vertex": "/shader/gui.vert",
+            "fragment": "/shader/gui.frag"
+        },
+        "world": {
+            "vertex": "/shader/world.vert",
+            "fragment": "/shader/world.frag"
         },
         "break": {
             "vertex": "/shader/break.vert",
