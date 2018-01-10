@@ -171,11 +171,26 @@
         },
         "gui.": {
             "cursor.": {
-                "pointer": "/tex/gui/cursor/pointer.png",
-                "closed_hand": "/tex/gui/cursor/closed_hand.png",
-                "open_hand": "/tex/gui/cursor/open_hand.png",
-                "finger": "/tex/gui/cursor/finger.png",
-                "finger_104": "/tex/gui/cursor/finger_104.png"
+                "pointer": {
+                    "path": "/tex/gui/cursor/pointer.png",
+                    "should_stitch": false
+                },
+                "closed_hand": {
+                    "path": "/tex/gui/cursor/closed_hand.png",
+                    "should_stitch": false
+                },
+                "open_hand": {
+                    "path": "/tex/gui/cursor/open_hand.png",
+                    "should_stitch": false
+                },
+                "finger": {
+                    "path": "/tex/gui/cursor/finger.png",
+                    "should_stitch": false
+                },
+                "finger_104": {
+                    "path": "/tex/gui/cursor/finger_104.png",
+                    "should_stitch": false
+                }
             },
             "slot": "/tex/gui/slot.png",
             "selection_arrow": "/tex/gui/selection_arrow.png",
