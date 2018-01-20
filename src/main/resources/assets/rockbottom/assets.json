@@ -193,7 +193,8 @@
                 }
             },
             "effect.": {
-                "speed": "/tex/gui/effect/speed.png"
+                "speed": "/tex/gui/effect/speed.png",
+                "jump_height":"/tex/gui/effect/jump_height.png"
             },
             "slot": "/tex/gui/slot.png",
             "selection_arrow": "/tex/gui/selection_arrow.png",

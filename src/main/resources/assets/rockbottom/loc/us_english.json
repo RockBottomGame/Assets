@@ -186,7 +186,8 @@
             "background": "Background"
         },
         "effect.": {
-            "speed": "Move Speed"
+            "speed": "Move Speed",
+            "jump_height": "Jump Height"
         },
         "key.": {
             "inventory": "Inventory",
