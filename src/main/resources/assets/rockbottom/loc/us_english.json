@@ -185,6 +185,9 @@
             "main": "Foreground",
             "background": "Background"
         },
+        "effect.": {
+            "speed": "Move Speed"
+        },
         "key.": {
             "inventory": "Inventory",
             "menu": "Menu",

@@ -192,6 +192,9 @@
                     "should_stitch": false
                 }
             },
+            "effect.": {
+                "speed": "/tex/gui/effect/speed.png"
+            },
             "slot": "/tex/gui/slot.png",
             "selection_arrow": "/tex/gui/selection_arrow.png",
             "heart": "/tex/gui/heart.png",
