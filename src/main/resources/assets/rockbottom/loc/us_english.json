@@ -114,7 +114,8 @@
                 "&u": "Makes the text &uunderlined",
                 "&x": "Resets the &bformatting&x of the text",
                 "&y": "Resets the &acolor&y of the text"
-            }
+            },
+            "no_server":"&7Join or open a server to use the chat!"
         },
         "button.": {
             "back": "Back",
