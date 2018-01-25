@@ -150,6 +150,23 @@
                     }
                 }
             },
+            "wood_door_old.": {
+                "item": "/tex/tiles/wood_door_old_item.png",
+                "closed.": {
+                    "subtexture": {
+                        "file": "/tex/tiles/wood_door_old_closed.png",
+                        "0": [0, 0, 12, 12],
+                        "1": [0, 12, 12, 12]
+                    }
+                },
+                "open.": {
+                    "subtexture": {
+                        "file": "/tex/tiles/wood_door_old_open.png",
+                        "0": [0, 0, 12, 12],
+                        "1": [0, 12, 12, 12]
+                    }
+                }
+            },
             "remains_goo": "/tex/tiles/remains_goo.png"
         },
         "items.": {

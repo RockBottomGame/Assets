@@ -33,7 +33,8 @@
             "firework": "Firework",
             "wood_boards": "Wood Boards",
             "wood_boards_old": "Soggy Wood Boards",
-            "wood_door": "Wooden Door"
+            "wood_door": "Wooden Door",
+            "wood_door_old":"Decayed Wooden Door"
         },
         "info.": {
             "layer_placement": "Can be placed in %s",
