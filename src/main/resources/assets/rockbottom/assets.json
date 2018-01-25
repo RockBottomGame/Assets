@@ -209,10 +209,6 @@
                     "should_stitch": false
                 }
             },
-            "effect.": {
-                "speed": "/tex/gui/effect/speed.png",
-                "jump_height":"/tex/gui/effect/jump_height.png"
-            },
             "slot": "/tex/gui/slot.png",
             "selection_arrow": "/tex/gui/selection_arrow.png",
             "heart": "/tex/gui/heart.png",
@@ -395,6 +391,10 @@
                 "1": ["/anim/player/anim.json", "/anim/player/beard/1.png"],
                 "2": ["/anim/player/anim.json", "/anim/player/beard/2.png"]
             }
+        },
+        "gui.effect.": {
+            "speed": ["/tex/gui/effect/speed.json", "/tex/gui/effect/speed.png"],
+            "jump_height": ["/tex/gui/effect/jump_height.json", "/tex/gui/effect/jump_height.png"]
         }
     },
     "font.": {
