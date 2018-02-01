@@ -34,7 +34,8 @@
             "wood_boards": "Wood Boards",
             "wood_boards_old": "Soggy Wood Boards",
             "wood_door": "Wooden Door",
-            "wood_door_old":"Decayed Wooden Door"
+            "wood_door_old": "Decayed Wooden Door",
+            "start_note": "&6Note"
         },
         "info.": {
             "layer_placement": "Can be placed in %s",
@@ -116,7 +117,8 @@
                 "&x": "Resets the &bformatting&x of the text",
                 "&y": "Resets the &acolor&y of the text"
             },
-            "no_server":"&7Join or open a server to use the chat!"
+            "no_server": "&7Join or open a server to use the chat!",
+            "start_note":"A note found in an abandoned wooden cottage. It might contain some useful information."
         },
         "button.": {
             "back": "Back",
@@ -242,6 +244,16 @@
             "23": "%s saw the light at the end of the tunnel.",
             "24": "The %s was a lie.",
             "25": "%s ran out of memory."
+        },
+        "lore.": {
+            "start_note.": {
+                "day": "Day 27",
+                "1": "It's been weeks now since I landed on this planet. I'm very close to passing away. \nI have yet to find the resources I was looking for that allow me to survive. I have been told that there is coal underground to make an almost-natural light source. \nI don't know if I haven't been looking hard enough, or if I've been lied to by them. \nApparently, there's a greenish ore that would help me analyze this world. \n\nThis blueprint is all of the written information \nI've received. I \ndon't know what \nit means, but it \nseems like I won't \nhave the time to \nfind out...",
+                "2": "Loremino Ipsumino",
+                "3": "Loremino Ipsumino",
+                "4": "Loremino Ipsumino",
+                "5": "Loremino Ipsumino"
+            }
         },
         "date_format": "MM.dd.yy - HH:mm"
     }
