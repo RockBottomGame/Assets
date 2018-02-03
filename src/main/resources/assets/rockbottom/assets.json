@@ -184,7 +184,8 @@
                 "data": "/tex/items/tool.json"
             },
             "coal": "/tex/items/coal.png",
-            "firework": "/tex/items/firework.png"
+            "firework": "/tex/items/firework.png",
+            "start_note": "/tex/items/note.png"
         },
         "gui.": {
             "cursor.": {
@@ -225,7 +226,8 @@
             "delete": "/tex/gui/delete.png",
             "worlds_folder": "/tex/gui/folder_worlds.png",
             "mods_folder": "/tex/gui/folder_mods.png",
-            "sign": "/tex/gui/sign.png"
+            "sign": "/tex/gui/sign.png",
+            "start_note": "/tex/gui/note.png"
         },
         "particle.": {
             "smoke": "/tex/particle/smoke.png",
