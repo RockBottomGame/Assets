@@ -188,6 +188,14 @@
             "start_note": "/tex/items/note.png"
         },
         "gui.": {
+            "construction.": {
+                "page_items": "/tex/gui/construction/page_items.png",
+                "page_recipes": "/tex/gui/construction/page_recipes.png",
+                "item_background":"/tex/gui/construction/item_background.png",
+                "item_background_highlighted":"/tex/gui/construction/item_background_highlighted.png",
+                "ingredient_background":"/tex/gui/construction/ingredient_background.png",
+                "ingredient_background_none":"/tex/gui/construction/ingredient_background_none.png"
+            },
             "cursor.": {
                 "pointer": {
                     "path": "/tex/gui/cursor/pointer.png",
@@ -214,11 +222,7 @@
             "selection_arrow": "/tex/gui/selection_arrow.png",
             "heart": "/tex/gui/heart.png",
             "heart_empty": "/tex/gui/heart_empty.png",
-            "construction": "/tex/gui/construction.png",
-            "construction_toggled": "/tex/gui/construction_crossed.png",
             "colorpick": "/tex/gui/colorpick.png",
-            "all_construction": "/tex/gui/all_construction.png",
-            "all_construction_toggled": "/tex/gui/all_construction_crossed.png",
             "popup": "/tex/gui/popup.png",
             "save_world": "/tex/gui/save_world.png",
             "reset": "/tex/gui/reset.png",
