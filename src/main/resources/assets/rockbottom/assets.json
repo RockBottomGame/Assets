@@ -191,10 +191,14 @@
             "construction.": {
                 "page_items": "/tex/gui/construction/page_items.png",
                 "page_recipes": "/tex/gui/construction/page_recipes.png",
-                "item_background":"/tex/gui/construction/item_background.png",
-                "item_background_highlighted":"/tex/gui/construction/item_background_highlighted.png",
-                "ingredient_background":"/tex/gui/construction/ingredient_background.png",
-                "ingredient_background_none":"/tex/gui/construction/ingredient_background_none.png"
+                "item_background": "/tex/gui/construction/item_background.png",
+                "item_background_highlighted": "/tex/gui/construction/item_background_highlighted.png",
+                "ingredient_background": "/tex/gui/construction/ingredient_background.png",
+                "ingredient_background_none": "/tex/gui/construction/ingredient_background_none.png",
+                "book_closed": "/tex/gui/construction/book_closed.png",
+                "book_open": "/tex/gui/construction/book_open.png",
+                "search_bar_extended":"/tex/gui/construction/search_bar_extended.png",
+                "search_bar":"/tex/gui/construction/search_bar.png"
             },
             "cursor.": {
                 "pointer": {

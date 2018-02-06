@@ -118,7 +118,7 @@
                 "&y": "Resets the &acolor&y of the text"
             },
             "no_server": "&7Join or open a server to use the chat!",
-            "start_note":"A note found in an abandoned wooden cottage. It might contain some useful information."
+            "start_note": "A note found in an abandoned wooden cottage. It might contain some useful information."
         },
         "button.": {
             "back": "Back",
@@ -195,6 +195,7 @@
         },
         "key.": {
             "inventory": "Inventory",
+            "compendium": "Compendium",
             "menu": "Menu",
             "left": "Go Left",
             "right": "Go Right",
