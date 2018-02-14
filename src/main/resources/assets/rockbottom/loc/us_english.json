@@ -35,7 +35,8 @@
             "wood_boards_old": "Soggy Wood Boards",
             "wood_door": "Wooden Door",
             "wood_door_old": "Decayed Wooden Door",
-            "start_note": "&6Note"
+            "start_note": "&6Note",
+            "torch_grass": "Grass Torch"
         },
         "info.": {
             "layer_placement": "Can be placed in %s",

@@ -107,6 +107,22 @@
                 "left": "/tex/tiles/torch_coal_left.png",
                 "right": "/tex/tiles/torch_coal_right.png"
             },
+            "torch_grass.": {
+                "left.": {
+                    "on": "/tex/tiles/torch_grass_left_on.png",
+                    "off": "/tex/tiles/torch_grass_left_off.png"
+                },
+                "right.": {
+                    "on": "/tex/tiles/torch_grass_right_on.png",
+                    "off": "/tex/tiles/torch_grass_right_off.png"
+                },
+                "back.": {
+                    "on": "/tex/tiles/torch_grass_back_on.png",
+                    "off": "/tex/tiles/torch_grass_back_off.png"
+                },
+                "on": "/tex/tiles/torch_grass_on.png",
+                "off": "/tex/tiles/torch_grass_off.png"
+            },
             "ladder": "/tex/tiles/ladder.png",
             "chest.": {
                 "*": "/tex/tiles/chest.png",
