@@ -201,7 +201,8 @@
             },
             "coal": "/tex/items/coal.png",
             "firework": "/tex/items/firework.png",
-            "start_note": "/tex/items/note.png"
+            "start_note": "/tex/items/note.png",
+            "plant_fiber":"/tex/items/plant_fiber.png"
         },
         "gui.": {
             "construction.": {

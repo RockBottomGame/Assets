@@ -36,7 +36,8 @@
             "wood_door": "Wooden Door",
             "wood_door_old": "Decayed Wooden Door",
             "start_note": "&6Note",
-            "torch_grass": "Grass Torch"
+            "torch_grass": "Grass Torch",
+            "plant_fiber": "Plant Fiber"
         },
         "info.": {
             "layer_placement": "Can be placed in %s",
