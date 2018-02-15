@@ -185,7 +185,9 @@
             "music_volume": "Music Volume",
             "edit": "Edit",
             "edit_toggled": "Stop Editing",
-            "changelog": "Updates"
+            "changelog": "Updates",
+            "story_mode_toggled": "Story Mode",
+            "story_mode": "Free Mode"
         },
         "layer.": {
             "main": "Foreground",
