@@ -1,0 +1,14 @@
+{
+    "type": "manual",
+    "outputs": [
+        {
+            "name": "rockbottom/wood_boards",
+            "amount": 3
+        }
+    ],
+    "inputs": [
+        {
+            "name": "wood_raw"
+        }
+    ]
+}

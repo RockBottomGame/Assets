@@ -1,0 +1,14 @@
+{
+    "type": "manual",
+    "outputs": [
+        {
+            "name": "rockbottom/sign"
+        }
+    ],
+    "inputs": [
+        {
+            "name": "wood_processed",
+            "amount": 8
+        }
+    ]
+}

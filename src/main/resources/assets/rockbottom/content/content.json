@@ -1,3 +1,13 @@
 {
-
+    "recipe.": {
+        "brittle_pickaxe": "/recipes/brittle_pickaxe.json",
+        "brittle_axe": "/recipes/brittle_axe.json",
+        "brittle_shovel": "/recipes/brittle_shovel.json",
+        "ladder": "/recipes/ladder.json",
+        "chest": "/recipes/chest.json",
+        "torch_grass": "/recipes/torch_grass.json",
+        "sign": "/recipes/sign.json",
+        "wood_boards": "/recipes/wood_boards.json",
+        "wood_door": "/recipes/wood_door.json"
+    }
 }

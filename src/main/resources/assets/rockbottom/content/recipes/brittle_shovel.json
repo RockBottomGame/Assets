@@ -1,0 +1,18 @@
+{
+    "type": "manual_knowledge",
+    "outputs": [
+        {
+            "name": "rockbottom/brittle_shovel"
+        }
+    ],
+    "inputs": [
+        {
+            "name": "pebbles",
+            "amount": 8
+        },
+        {
+            "name": "stick",
+            "amount": 4
+        }
+    ]
+}

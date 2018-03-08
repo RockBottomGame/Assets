@@ -1,0 +1,14 @@
+{
+    "type": "manual",
+    "outputs": [
+        {
+            "name": "rockbottom/wood_door"
+        }
+    ],
+    "inputs": [
+        {
+            "name": "wood_processed",
+            "amount": 16
+        }
+    ]
+}

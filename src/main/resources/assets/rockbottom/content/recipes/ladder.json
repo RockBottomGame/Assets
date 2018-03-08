@@ -1,0 +1,15 @@
+{
+    "type": "manual_knowledge",
+    "outputs": [
+        {
+            "name": "rockbottom/ladder",
+            "amount": 5
+        }
+    ],
+    "inputs": [
+        {
+            "name": "wood_processed",
+            "amount": 8
+        }
+    ]
+}
