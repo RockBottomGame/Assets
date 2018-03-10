@@ -28,3 +28,15 @@ Dumping stuff to the console
 Installing unnecessary mods
 Running unnecessarily complicated code
 Burning some lemons
+Reticulating splines
+Finding Llamas
+Making Arrays Start from one
+thonking out loud
+Converting code to Scala
+Converting code to Kotlin
+Loading Big Enough Video
+Constructing additionl Pylons
+Constructing Skynet
+Fending off Biters
+find("Ellpeck");
+Digging down
