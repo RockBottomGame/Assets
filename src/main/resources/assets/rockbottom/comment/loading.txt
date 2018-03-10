@@ -29,17 +29,15 @@ Installing unnecessary mods
 Running unnecessarily complicated code
 Burning some lemons
 Reticulating splines
-Making Arrays start from one
-thonking out loud
+Making Arrays start at one
+Thonking out loud
 Converting code to Scala
 Converting code to Kotlin
 Constructing additionl pylons
-Constructing Skynet
 Fending off biters
-Digging down
-Finding IntelliJ
-Giving Ellpeck a haircut
-Gaining sentience
-Loading a loading message... wait
+Digging down really far
+Installing a good IDE
+Developing a brain
+Loading a loading message
 Correcting Capitalization
 Correcting spwelling
