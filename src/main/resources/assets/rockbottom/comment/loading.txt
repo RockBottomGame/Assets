@@ -37,9 +37,9 @@ Constructing additionl pylons
 Constructing Skynet
 Fending off biters
 Digging down
-Finding Intellij
+Finding IntelliJ
 Giving Ellpeck a haircut
 Gaining sentience
-Loading a loading message... wait... what?
+Loading a loading message... wait
 Correcting Capitalization
 Correcting spwelling
