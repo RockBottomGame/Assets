@@ -9,5 +9,13 @@
         "sign": "/recipes/sign.json",
         "wood_boards": "/recipes/wood_boards.json",
         "wood_door": "/recipes/wood_door.json"
+    },
+    "structure.": {
+        "grassland_tree.": {
+            "oak_1": ["/trees/oak_1.json", "/trees/tree_tiles.json"],
+            "oak_2": ["/trees/oak_2.json", "/trees/tree_tiles.json"],
+            "oak_3": ["/trees/oak_3.json", "/trees/tree_tiles.json"],
+            "oak_4": ["/trees/oak_4.json", "/trees/tree_tiles.json"]
+        }
     }
 }
