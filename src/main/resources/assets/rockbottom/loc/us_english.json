@@ -38,7 +38,12 @@
             "start_note": "&6Note",
             "torch_grass": "Grass Torch",
             "plant_fiber": "Plant Fiber",
-            "twig": "Twig"
+            "twig": "Twig",
+            "stone_pickaxe": "Stone Pickaxe",
+            "stone_axe": "Stone Axe",
+            "stone_shovel": "Stone Shovel",
+            "copper": "Copper Cluster",
+            "copper_canister": "Copper Container"
         },
         "info.": {
             "layer_placement": "Can be placed in %s",
@@ -122,7 +127,8 @@
             },
             "no_server": "&7Join or open a server to use the chat!",
             "start_note": "&3A note found in an abandoned wooden cottage. It might contain some useful information.",
-            "twig": "&3A piece of wood that would be ideal for use as a tool handle. You might be able to gather it from trees somehow."
+            "twig": "&3A piece of wood that would be ideal for use as a tool handle. You might be able to gather it from trees somehow.",
+            "copper_canister": "&3A rusty old copper container found stuck between some copper ore. Maybe opening it will reveal something useful."
         },
         "button.": {
             "back": "Back",

@@ -1,0 +1,18 @@
+{
+    "type": "manual_knowledge",
+    "outputs": [
+        {
+            "name": "rockbottom/stone_pickaxe"
+        }
+    ],
+    "inputs": [
+        {
+            "name": "stone",
+            "amount": 16
+        },
+        {
+            "name": "stick",
+            "amount": 8
+        }
+    ]
+}

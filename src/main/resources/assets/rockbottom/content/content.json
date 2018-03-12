@@ -8,7 +8,10 @@
         "torch_grass": "/recipes/torch_grass.json",
         "sign": "/recipes/sign.json",
         "wood_boards": "/recipes/wood_boards.json",
-        "wood_door": "/recipes/wood_door.json"
+        "wood_door": "/recipes/wood_door.json",
+        "stone_pickaxe": "/recipes/stone_pickaxe.json",
+        "stone_axe": "/recipes/stone_axe.json",
+        "stone_shovel": "/recipes/stone_shovel.json"
     },
     "structure.": {
         "grassland_tree.": {

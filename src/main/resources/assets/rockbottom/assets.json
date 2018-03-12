@@ -183,7 +183,11 @@
                     }
                 }
             },
-            "remains_goo": "/tex/tiles/remains_goo.png"
+            "remains_goo": "/tex/tiles/remains_goo.png",
+            "copper.": {
+                "*": "/tex/tiles/ore_copper.png",
+                "canister": "/tex/tiles/ore_copper_canister.png"
+            }
         },
         "items.": {
             "pebbles": "/tex/items/pebbles.png",
@@ -202,8 +206,22 @@
             "coal": "/tex/items/coal.png",
             "firework": "/tex/items/firework.png",
             "start_note": "/tex/items/note.png",
-            "plant_fiber":"/tex/items/plant_fiber.png",
-            "twig":"/tex/items/twig.png"
+            "plant_fiber": "/tex/items/plant_fiber.png",
+            "twig": "/tex/items/twig.png",
+            "copper": "/tex/items/cluster_copper.png",
+            "stone_pickaxe": {
+                "path": "/tex/items/stone_pickaxe.png",
+                "data": "/tex/items/tool.json"
+            },
+            "stone_axe": {
+                "path": "/tex/items/stone_axe.png",
+                "data": "/tex/items/tool.json"
+            },
+            "stone_shovel": {
+                "path": "/tex/items/stone_shovel.png",
+                "data": "/tex/items/tool.json"
+            },
+            "copper_canister": "/tex/items/copper_canister.png"
         },
         "gui.": {
             "construction.": {
