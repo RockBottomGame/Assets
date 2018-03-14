@@ -128,7 +128,20 @@
             "no_server": "&7Join or open a server to use the chat!",
             "start_note": "&3A note found in an abandoned wooden cottage. It might contain some useful information.",
             "twig": "&3A piece of wood that would be ideal for use as a tool handle. You might be able to gather it from trees somehow.",
-            "copper_canister": "&3A rusty old copper container found stuck between some copper ore. Maybe opening it will reveal something useful."
+            "copper_canister": "&3A rusty old copper container found stuck between some copper ore. Maybe opening it will reveal something useful.",
+            "paste_design": "Paste a design from your clipboard",
+            "copy_design": "Copies the design to your clipboard so you can send it to friends or save it",
+            "are_you_sure": "Are you sure?",
+            "mode.": {
+                "story": "Story Mode",
+                "free": "Free Mode"
+            },
+            "final_name": "Final Name: %s",
+            "world_name": "World Name",
+            "final_seed": "Final Seed: %s",
+            "unknown_recipe": "Unknown Recipe",
+            "click_to_construct": "&3Click to construct",
+            "missing_items": "&7Missing items"
         },
         "button.": {
             "back": "Back",
@@ -195,7 +208,18 @@
             "edit_toggled": "Stop Editing",
             "changelog": "Updates",
             "story_mode_toggled": "Story Mode",
-            "story_mode": "Free Mode"
+            "story_mode": "Free Mode",
+            "paste_design": "Paste Design",
+            "copy_design": "Copy Design",
+            "yes": "Yes",
+            "content_packs": "Content Packs",
+            "create_world": "Create World",
+            "rename_world": "Rename World",
+            "delete_world": "Delete World",
+            "rename": "Rename",
+            "create": "Create",
+            "open_compendium": "Open the Compendium",
+            "close_compendium": "Close the Compendium"
         },
         "layer.": {
             "main": "Foreground",
