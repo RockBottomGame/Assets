@@ -1,0 +1,37 @@
+Rock Bottom - a Game by Ellpeck
+
+
+&3Programming&y
+  Ellpeck
+
+
+&3Art&y
+  wiiv
+
+
+&3Additional Programming&y
+  superaxander
+  canitzp
+  xdjackiexd
+
+
+&3Libraries and Additional Code&y
+  Lightweight Java Game Library
+  Java OpenGL Math Library
+  Netty
+  Google Guava and Gson
+  JOpt Simple
+  Apache HTTP Util
+
+
+&3Special Thanks&y
+  TTFTCUTS for help with Terrain Gen
+  witsend66 for the game's name
+
+  &3Beta Modders&y
+    raphydaphy
+    Quarris
+    Kinomora
+    AKTheKnight
+    Gegy
+    Raqbit
