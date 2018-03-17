@@ -10,6 +10,7 @@ Rock Bottom - a Game by Ellpeck
 
 
 &3Additional Programming&y
+  SSBlur
   superaxander
   canitzp
   xdjackiexd
@@ -25,6 +26,7 @@ Rock Bottom - a Game by Ellpeck
 
 
 &3Special Thanks&y
+  SSBlur for the authentication system
   TTFTCUTS for help with Terrain Gen
   witsend66 for the game's name
 
