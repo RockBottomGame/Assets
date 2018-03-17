@@ -92,7 +92,8 @@
                 "connection": "Couldn't connect to the server: \n%s",
                 "whitelist": "You are not whitelisted on this server!",
                 "blacklist": "You are blacklisted on this server! Reason: \n%s",
-                "server_down": "You have lost connection to the server!"
+                "server_down": "You have lost connection to the server!",
+                "server_full":"The server is currently full!"
             },
             "changelog.": {
                 "grabbing": "Grabbing Changelog...",
