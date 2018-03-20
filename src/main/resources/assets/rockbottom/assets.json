@@ -221,7 +221,8 @@
                 "path": "/tex/items/stone_shovel.png",
                 "data": "/tex/items/tool.json"
             },
-            "copper_canister": "/tex/items/copper_canister.png"
+            "copper_canister": "/tex/items/copper_canister.png",
+            "super_pickaxe":"/tex/items/super_pickaxe.png"
         },
         "gui.": {
             "construction.": {
