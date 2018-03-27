@@ -26,9 +26,10 @@ Rock Bottom - a Game by Ellpeck
 
 
 &3Special Thanks&y
-  SSBlur for the authentication system
-  TTFTCUTS for help with Terrain Gen
-  witsend66 for the game's name
+  SSBlur - Authentication system
+  superaxander - Music streaming system
+  TTFTCUTS - Help with terrain gen
+  witsend66 - Game name
 
   &3Beta Modders&y
     raphydaphy
