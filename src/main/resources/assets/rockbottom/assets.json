@@ -187,6 +187,23 @@
             "copper.": {
                 "*": "/tex/tiles/ore_copper.png",
                 "canister": "/tex/tiles/ore_copper_canister.png"
+            },
+            "simple_furnace.": {
+                "item": "/tex/tiles/simple_furnace_item.png",
+                "*.": {
+                    "subtexture": {
+                        "file": "/tex/tiles/simple_furnace.png",
+                        "0.0": [0, 12, 12, 12],
+                        "0.1": [0, 0, 12, 12]
+                    }
+                },
+                "active.":{
+                    "subtexture": {
+                        "file": "/tex/tiles/simple_furnace_active.png",
+                        "0.0": [0, 12, 12, 12],
+                        "0.1": [0, 0, 12, 12]
+                    }
+                }
             }
         },
         "items.": {
@@ -222,7 +239,7 @@
                 "data": "/tex/items/tool.json"
             },
             "copper_canister": "/tex/items/copper_canister.png",
-            "super_pickaxe":"/tex/items/super_pickaxe.png"
+            "super_pickaxe": "/tex/items/super_pickaxe.png"
         },
         "gui.": {
             "construction.": {

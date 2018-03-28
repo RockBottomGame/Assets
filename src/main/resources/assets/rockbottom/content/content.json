@@ -13,6 +13,9 @@
         "stone_axe": "/recipes/stone_axe.json",
         "stone_shovel": "/recipes/stone_shovel.json"
     },
+    "smelting.": {
+        "copper": "/smelting/copper.json"
+    },
     "structure.": {
         "grassland_tree.": {
             "oak_1": ["/trees/oak_1.json", "/trees/tree_tiles.json"],
