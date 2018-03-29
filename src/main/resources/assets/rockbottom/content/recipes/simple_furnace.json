@@ -1,0 +1,22 @@
+{
+    "type": "manual_knowledge",
+    "outputs": [
+        {
+            "name": "rockbottom/simple_furnace"
+        }
+    ],
+    "inputs": [
+        {
+            "name": "stone",
+            "amount": 40
+        },
+        {
+            "name": "pebbles",
+            "amount": 10
+        },
+        {
+            "name": "coal",
+            "amount": 5
+        }
+    ]
+}

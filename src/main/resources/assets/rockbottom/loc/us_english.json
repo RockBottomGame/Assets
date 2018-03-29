@@ -43,7 +43,8 @@
             "stone_axe": "Stone Axe",
             "stone_shovel": "Stone Shovel",
             "copper": "Copper Cluster",
-            "copper_canister": "Copper Container"
+            "copper_canister": "Copper Container",
+            "simple_furnace": "Rudimentary Furnace"
         },
         "info.": {
             "layer_placement": "Can be placed in %s",
@@ -142,7 +143,8 @@
             "final_seed": "Final Seed: %s",
             "unknown_recipe": "Unknown Recipe",
             "click_to_construct": "&3Click to construct",
-            "missing_items": "&7Missing items"
+            "missing_items": "&7Missing items",
+            "already_known": "You have already obtained this information."
         },
         "button.": {
             "back": "Back",
