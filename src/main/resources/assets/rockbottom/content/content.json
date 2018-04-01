@@ -23,6 +23,7 @@
             "oak_2": ["/trees/oak_2.json", "/trees/tree_tiles.json"],
             "oak_3": ["/trees/oak_3.json", "/trees/tree_tiles.json"],
             "oak_4": ["/trees/oak_4.json", "/trees/tree_tiles.json"]
-        }
+        },
+        "start_hut": "/structures/start_hut.json"
     }
 }
