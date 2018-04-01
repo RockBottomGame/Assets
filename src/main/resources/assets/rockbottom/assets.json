@@ -197,7 +197,7 @@
                         "0.1": [0, 0, 12, 12]
                     }
                 },
-                "active.":{
+                "active.": {
                     "subtexture": {
                         "file": "/tex/tiles/simple_furnace_active.png",
                         "0.0": [0, 12, 12, 12],
@@ -252,7 +252,8 @@
                 "book_closed": "/tex/gui/construction/book_closed.png",
                 "book_open": "/tex/gui/construction/book_open.png",
                 "search_bar_extended": "/tex/gui/construction/search_bar_extended.png",
-                "search_bar": "/tex/gui/construction/search_bar.png"
+                "search_bar": "/tex/gui/construction/search_bar.png",
+                "scroll_bar": "/tex/gui/construction/scroll_bar.png"
             },
             "cursor.": {
                 "pointer": {
