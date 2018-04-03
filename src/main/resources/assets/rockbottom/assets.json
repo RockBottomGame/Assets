@@ -102,10 +102,20 @@
             "sandstone": "/tex/tiles/sandstone.png",
             "coal": "/tex/tiles/ore_coal.png",
             "torch.": {
-                "*": "/tex/tiles/torch_coal.png",
-                "back": "/tex/tiles/torch_coal_back.png",
-                "left": "/tex/tiles/torch_coal_left.png",
-                "right": "/tex/tiles/torch_coal_right.png"
+                "left.": {
+                    "on": "/tex/tiles/torch_coal_left_on.png",
+                    "off": "/tex/tiles/torch_coal_left_off.png"
+                },
+                "right.": {
+                    "on": "/tex/tiles/torch_coal_right_on.png",
+                    "off": "/tex/tiles/torch_coal_right_off.png"
+                },
+                "back.": {
+                    "on": "/tex/tiles/torch_coal_back_on.png",
+                    "off": "/tex/tiles/torch_coal_back_off.png"
+                },
+                "on": "/tex/tiles/torch_coal_on.png",
+                "off": "/tex/tiles/torch_coal_off.png"
             },
             "torch_grass.": {
                 "left.": {
