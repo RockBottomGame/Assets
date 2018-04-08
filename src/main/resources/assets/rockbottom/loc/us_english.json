@@ -144,7 +144,9 @@
             "unknown_recipe": "Unknown Recipe",
             "click_to_construct": "&3Click to construct",
             "missing_items": "&7Missing items",
-            "already_known": "You have already obtained this information."
+            "already_known": "You have already obtained this information.",
+            "username": "Username",
+            "password": "Password"
         },
         "button.": {
             "back": "Back",
@@ -222,7 +224,10 @@
             "rename": "Rename",
             "create": "Create",
             "open_compendium": "Open the Compendium",
-            "close_compendium": "Close the Compendium"
+            "close_compendium": "Close the Compendium",
+            "account_settings": "Account",
+            "login": "Log in",
+            "logout": "Log out"
         },
         "layer.": {
             "main": "Foreground",
