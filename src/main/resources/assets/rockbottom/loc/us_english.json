@@ -44,7 +44,8 @@
             "stone_shovel": "Stone Shovel",
             "copper": "Copper Cluster",
             "copper_canister": "Copper Container",
-            "simple_furnace": "Rudimentary Furnace"
+            "simple_furnace": "Rudimentary Furnace",
+            "sandstone": "Sandstone"
         },
         "info.": {
             "layer_placement": "Can be placed in %s",
@@ -227,7 +228,8 @@
             "close_compendium": "Close the Compendium",
             "account_settings": "Account",
             "login": "Log in",
-            "logout": "Log out"
+            "logout": "Log out",
+            "stats": "Statistics"
         },
         "layer.": {
             "main": "Foreground",
@@ -236,6 +238,13 @@
         "effect.": {
             "speed": "Move Speed",
             "jump_height": "Jump Height"
+        },
+        "stat.": {
+            "containers_opened": "Containers Opened",
+            "tiles_broken_total": "Tiles Broken",
+            "tiles_placed_total": "Tiles Placed",
+            "tiles_broken_per_tile": "%s Broken",
+            "tiles_placed_per_tile": "%s Placed"
         },
         "key.": {
             "inventory": "Inventory",
