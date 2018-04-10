@@ -1,22 +1,27 @@
 Rock Bottom - a Game by Ellpeck
 
 
-&3Programming&y
+&3Story and Design
   Ellpeck
-
-
-&3Art&y
   wiiv
 
 
-&3Additional Programming&y
-  SSBlur
+&3Programming
+  Ellpeck
+
+
+&3Art
+  wiiv
+
+
+&3Additional Programming
   superaxander
+  SSBlur
   canitzp
   xdjackiexd
 
 
-&3Libraries and Additional Code&y
+&3Libraries and Additional Code
   Lightweight Java Game Library
   Java OpenGL Math Library
   Netty
@@ -25,16 +30,40 @@ Rock Bottom - a Game by Ellpeck
   Apache HTTP Util
 
 
-&3Special Thanks&y
+&3Special Thanks
   SSBlur - Authentication system
   superaxander - Music streaming system
   TTFTCUTS - Help with terrain gen
   witsend66 - Game name
 
-  &3Beta Modders&y
+  &3Beta Modders
+    superaxander
     raphydaphy
     Quarris
     Kinomora
     AKTheKnight
     Gegy
     Raqbit
+
+  All of the great people that
+  beta test and report bugs
+
+
+
+
+
+&iRock Bottom was inspired by amazing
+&igames like Minecraft, Terraria and
+&iStardew Valley.
+&iI believe that video games are an
+&iawesome way of bringing people together
+&ito create something amazing.
+&iRock Bottom wasn't created with the
+&iintent to be "just another sandbox game",
+&ibut to create a great community of
+&iplayers, modders and content creators
+&ithat have fun with what they do.
+&iI hope that you enjoy playing the game
+&ias much as we enjoy working on it.
+
+                                -Ellpeck
