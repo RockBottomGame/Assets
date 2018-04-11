@@ -45,7 +45,11 @@
             "copper": "Copper Cluster",
             "copper_canister": "Copper Container",
             "simple_furnace": "Rudimentary Furnace",
-            "sandstone": "Sandstone"
+            "sandstone": "Sandstone",
+            "copper_ingot": "Copper Ingot",
+            "copper_pickaxe": "Copper Pickaxe",
+            "copper_axe": "Copper Axe",
+            "copper_shovel": "Copper Shovel"
         },
         "info.": {
             "layer_placement": "Can be placed in %s",

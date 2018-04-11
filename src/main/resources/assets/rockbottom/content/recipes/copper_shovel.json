@@ -2,12 +2,12 @@
     "type": "manual_knowledge",
     "outputs": [
         {
-            "name": "rockbottom/stone_shovel"
+            "name": "rockbottom/copper_shovel"
         }
     ],
     "inputs": [
         {
-            "name": "stone",
+            "name": "copper_processed",
             "amount": 10
         },
         {

@@ -1,10 +1,10 @@
 {
     "input": {
-        "name": "rockbottom/copper",
-        "amount": 3
+        "name": "copper_raw",
+        "amount": 2
     },
     "output": {
-        "name": "rockbottom/soil",
+        "name": "rockbottom/copper_ingot",
         "amount": 1
     },
     "time": 200

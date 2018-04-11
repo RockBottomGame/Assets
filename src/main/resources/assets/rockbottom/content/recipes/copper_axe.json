@@ -2,13 +2,13 @@
     "type": "manual_knowledge",
     "outputs": [
         {
-            "name": "rockbottom/stone_shovel"
+            "name": "rockbottom/copper_axe"
         }
     ],
     "inputs": [
         {
-            "name": "stone",
-            "amount": 10
+            "name": "copper_processed",
+            "amount": 12
         },
         {
             "name": "stick",

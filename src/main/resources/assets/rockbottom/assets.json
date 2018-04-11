@@ -249,7 +249,20 @@
                 "data": "/tex/items/tool.json"
             },
             "copper_canister": "/tex/items/copper_canister.png",
-            "super_pickaxe": "/tex/items/super_pickaxe.png"
+            "super_pickaxe": "/tex/items/super_pickaxe.png",
+            "copper_ingot":"/tex/items/copper_ingot.png",
+            "copper_pickaxe": {
+                "path": "/tex/items/copper_pickaxe.png",
+                "data": "/tex/items/tool.json"
+            },
+            "copper_axe": {
+                "path": "/tex/items/copper_axe.png",
+                "data": "/tex/items/tool.json"
+            },
+            "copper_shovel": {
+                "path": "/tex/items/copper_shovel.png",
+                "data": "/tex/items/tool.json"
+            }
         },
         "gui.": {
             "construction.": {
