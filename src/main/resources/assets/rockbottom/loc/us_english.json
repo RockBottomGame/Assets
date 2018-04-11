@@ -245,8 +245,8 @@
         },
         "stat.": {
             "containers_opened": "Containers Opened",
-            "tiles_broken_total": "Tiles Broken",
-            "tiles_placed_total": "Tiles Placed",
+            "tiles_broken": "Tiles Broken",
+            "tiles_placed": "Tiles Placed",
             "tiles_broken_per_tile": "%s Broken",
             "tiles_placed_per_tile": "%s Placed"
         },
