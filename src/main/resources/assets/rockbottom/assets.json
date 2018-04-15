@@ -270,6 +270,7 @@
                 "page_recipes": "/tex/gui/construction/page_recipes.png",
                 "item_background": "/tex/gui/construction/item_background.png",
                 "item_background_highlighted": "/tex/gui/construction/item_background_highlighted.png",
+                "item_background_selected": "/tex/gui/construction/item_background_selected.png",
                 "ingredient_background": "/tex/gui/construction/ingredient_background.png",
                 "ingredient_background_none": "/tex/gui/construction/ingredient_background_none.png",
                 "book_closed": "/tex/gui/construction/book_closed.png",
