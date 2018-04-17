@@ -214,7 +214,9 @@
                         "0.1": [0, 0, 12, 12]
                     }
                 }
-            }
+            },
+            "grass_snowy": "/tex/tiles/grass_snow.png",
+            "snow": "/tex/tiles/snow.png"
         },
         "items.": {
             "pebbles": "/tex/items/pebbles.png",
@@ -250,7 +252,7 @@
             },
             "copper_canister": "/tex/items/copper_canister.png",
             "super_pickaxe": "/tex/items/super_pickaxe.png",
-            "copper_ingot":"/tex/items/copper_ingot.png",
+            "copper_ingot": "/tex/items/copper_ingot.png",
             "copper_pickaxe": {
                 "path": "/tex/items/copper_pickaxe.png",
                 "data": "/tex/items/tool.json"
