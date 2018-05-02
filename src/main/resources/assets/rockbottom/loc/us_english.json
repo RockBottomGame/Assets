@@ -89,6 +89,10 @@
                 "*": "Saved as %s",
                 "title": "Screenshot taken!"
             },
+            "new_world.": {
+                "*": "Look around to the left and right for a little abandoned house to start!",
+                "title": "An all new world"
+            },
             "reject.": {
                 "connected_already": "You are already connected to that server!",
                 "starting_up": "The server hasn't finished starting up!",
