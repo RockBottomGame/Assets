@@ -15,7 +15,8 @@
         "simple_furnace": "/recipes/simple_furnace.json",
         "copper_pickaxe": "/recipes/copper_pickaxe.json",
         "copper_axe": "/recipes/copper_axe.json",
-        "copper_shovel": "/recipes/copper_shovel.json"
+        "copper_shovel": "/recipes/copper_shovel.json",
+        "torch": "/recipes/torch.json"
     },
     "smelting.": {
         "copper": "/smelting/copper.json"

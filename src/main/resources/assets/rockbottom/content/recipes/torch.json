@@ -1,0 +1,19 @@
+{
+    "type": "manual_knowledge",
+    "outputs": [
+        {
+            "name": "rockbottom/torch",
+            "amount": 6
+        }
+    ],
+    "inputs": [
+        {
+            "name": "coal",
+            "amount": 1
+        },
+        {
+            "name": "stick",
+            "amount": 3
+        }
+    ]
+}
