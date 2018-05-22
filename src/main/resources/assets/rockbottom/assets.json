@@ -488,6 +488,9 @@
         "gui.effect.": {
             "speed": ["/tex/gui/effect/speed.json", "/tex/gui/effect/speed.png"],
             "jump_height": ["/tex/gui/effect/jump_height.json", "/tex/gui/effect/jump_height.png"]
+        },
+        "monster.": {
+            "slime": ["/anim/monster/slime.json", "/anim/monster/slime.png"]
         }
     },
     "font.": {
