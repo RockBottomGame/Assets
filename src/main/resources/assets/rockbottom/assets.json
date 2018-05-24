@@ -37,10 +37,17 @@
                 "path": "/tex/tiles/grass_0.png",
                 "variations": ["/tex/tiles/grass_1.png", "/tex/tiles/grass_2.png"]
             },
-            "stone": "/tex/tiles/stone.png",
+            "grass_snowy": {
+                "path": "/tex/tiles/grass_snow_0.png",
+                "variations": ["/tex/tiles/grass_snow_1.png", "/tex/tiles/grass_snow_2.png"]
+            },
+            "stone": {
+                "path": "/tex/tiles/stone_0.png",
+                "variations": ["/tex/tiles/stone_1.png", "/tex/tiles/stone_2.png"]
+            },
             "grass_tuft": {
                 "path": "/tex/tiles/grass_tuft_0.png",
-                "variations": ["/tex/tiles/grass_tuft_1.png"]
+                "variations": ["/tex/tiles/grass_tuft_1.png", "/tex/tiles/grass_tuft_2.png"]
             },
             "grass_short": {
                 "path": "/tex/tiles/grass_short_0.png",
@@ -70,11 +77,11 @@
                 },
                 "trunk_middle": {
                     "path": "/tex/tiles/log_trunk_middle_0.png",
-                    "variations": ["/tex/tiles/log_trunk_middle_1.png"]
+                    "variations": ["/tex/tiles/log_trunk_middle_1.png", "/tex/tiles/log_trunk_middle_2.png", "/tex/tiles/log_trunk_middle_3.png", "/tex/tiles/log_trunk_middle_4.png"]
                 },
                 "trunk_bottom": {
                     "path": "/tex/tiles/log_trunk_bottom_0.png",
-                    "variations": ["/tex/tiles/log_trunk_bottom_1.png"]
+                    "variations": ["/tex/tiles/log_trunk_bottom_1.png", "/tex/tiles/log_trunk_bottom_2.png"]
                 },
                 "root_left": {
                     "path": "/tex/tiles/log_root_left_0.png",
@@ -214,9 +221,7 @@
                         "0.1": [0, 0, 12, 12]
                     }
                 }
-            },
-            "grass_snowy": "/tex/tiles/grass_snow.png",
-            "snow": "/tex/tiles/snow.png"
+            }
         },
         "items.": {
             "pebbles": "/tex/items/pebbles.png",
