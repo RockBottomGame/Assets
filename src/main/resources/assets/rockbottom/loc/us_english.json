@@ -134,7 +134,13 @@
                 "&t": "Makes the text &tupside down",
                 "&u": "Makes the text &uunderlined",
                 "&x": "Resets the &bformatting&x of the text",
-                "&y": "Resets the &acolor&y of the text"
+                "&y": "Resets the &acolor&y of the text",
+                "&d": "Makes the text &dpurple",
+                "&e": "Makes the text &ecyan",
+                "&f": "Makes the text &fbrown",
+                "&g": "Makes the text &glime",
+                "&j": "Makes the text &jblue",
+                "&k": "Makes the text &klight blue"
             },
             "no_server": "&7Join or open a server to use the chat!",
             "start_note": "&3A note found in an abandoned wooden cottage. It might contain some useful information.",
