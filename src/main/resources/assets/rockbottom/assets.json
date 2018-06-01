@@ -222,7 +222,16 @@
                     }
                 }
             },
-            "snow": "/tex/tiles/snow.png"
+            "snow": "/tex/tiles/snow.png",
+            "cave_mushroom.": {
+                "1": "/tex/tiles/mushroom_1_tile.png",
+                "2": "/tex/tiles/mushroom_2_tile.png",
+                "3": "/tex/tiles/mushroom_3_tile.png",
+                "4": "/tex/tiles/mushroom_4_tile.png",
+                "5": "/tex/tiles/mushroom_5_tile.png",
+                "6": "/tex/tiles/mushroom_6_tile.png",
+                "7": "/tex/tiles/mushroom_7_tile.png"
+            }
         },
         "items.": {
             "pebbles": "/tex/items/pebbles.png",
