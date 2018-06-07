@@ -27,7 +27,6 @@ Rock Bottom - a Game by Ellpeck
   Netty
   Google Guava and Gson
   JOpt Simple
-  Apache HTTP Util
 
 
 &3Special Thanks
