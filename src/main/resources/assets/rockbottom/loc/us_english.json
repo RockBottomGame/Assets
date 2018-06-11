@@ -258,7 +258,10 @@
             "tiles_broken": "Tiles Broken",
             "tiles_placed": "Tiles Placed",
             "tiles_broken_per_tile": "%s Broken",
-            "tiles_placed_per_tile": "%s Placed"
+            "tiles_placed_per_tile": "%s Placed",
+            "seconds_played": "Time Played",
+            "deaths": "Deaths",
+            "tiles_walked": "Tiles Travelled"
         },
         "key.": {
             "inventory": "Inventory",
