@@ -231,6 +231,12 @@
                 "5": "/tex/tiles/mushroom_5_tile.png",
                 "6": "/tex/tiles/mushroom_6_tile.png",
                 "7": "/tex/tiles/mushroom_7_tile.png"
+            },
+            "stardrop.": {
+                "*": "/tex/tiles/stardrop.png",
+                "stage_0": "/tex/tiles/stardrop_stage_0.png",
+                "stage_1": "/tex/tiles/stardrop_stage_1.png",
+                "stage_2": "/tex/tiles/stardrop_stage_2.png"
             }
         },
         "items.": {

@@ -49,7 +49,8 @@
             "copper_ingot": "Copper Ingot",
             "copper_pickaxe": "Copper Pickaxe",
             "copper_axe": "Copper Axe",
-            "copper_shovel": "Copper Shovel"
+            "copper_shovel": "Copper Shovel",
+            "stardrop": "Star Flower"
         },
         "info.": {
             "layer_placement": "Can be placed in %s",
@@ -161,7 +162,8 @@
             "missing_items": "&7Missing items",
             "already_known": "You have already obtained this information.",
             "username": "Username",
-            "password": "Password"
+            "password": "Password",
+            "stardrop": "It reminds you of the valley..."
         },
         "button.": {
             "back": "Back",
