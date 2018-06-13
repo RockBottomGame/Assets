@@ -1,27 +1,27 @@
 Rock Bottom - a Game by Ellpeck
 
 
-&3Story and Design
+&2Story and Design
   Ellpeck
   wiiv
 
 
-&3Programming
+&2Programming
   Ellpeck
 
 
-&3Art
+&2Art
   wiiv
 
 
-&3Additional Programming
+&2Additional Programming
   superaxander
   SSBlur
   canitzp
   xdjackiexd
 
 
-&3Libraries and Additional Code
+&2Libraries and Additional Code
   Lightweight Java Game Library
   Java OpenGL Math Library
   Netty
@@ -29,13 +29,13 @@ Rock Bottom - a Game by Ellpeck
   JOpt Simple
 
 
-&3Special Thanks
+&2Special Thanks
   SSBlur - Authentication system
   superaxander - Music streaming system
   TTFTCUTS - Help with terrain gen
   witsend66 - Game name
 
-  &3Beta Modders
+  &2Beta Modders
     superaxander
     raphydaphy
     Quarris
@@ -46,6 +46,12 @@ Rock Bottom - a Game by Ellpeck
 
   All of the great people that
   beta test and report bugs
+
+  ConcernedApe and his amazing work on
+  Stardew Valley for inspiring me to
+  create a game myself. Finding the
+  Star Flower means finding the reason
+  that Rock Bottom exists.
 
 
 
