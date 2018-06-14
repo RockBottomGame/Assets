@@ -163,7 +163,8 @@
             "already_known": "You have already obtained this information.",
             "username": "Username",
             "password": "Password",
-            "stardrop": "It reminds you of the valley..."
+            "stardrop": "It reminds you of the valley...",
+            "durability": "Durability: %s/%s"
         },
         "button.": {
             "back": "Back",
