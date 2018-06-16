@@ -163,9 +163,9 @@
             "already_known": "You have already obtained this information.",
             "username": "Username",
             "password": "Password",
-            "stardrop.":{
-                "*":"It reminds you of the valley...",
-                "consume":"You take a taste of the flower. It reminds you of memories that you never knew you had. Suddenly, your mind is filled with thoughts of the valley.\n\n&gYour maximum health has increased by 10!"
+            "stardrop.": {
+                "*": "It reminds you of the valley...",
+                "consume": "You take a taste of the flower. It reminds you of memories that you never knew you had. Suddenly, your mind is filled with thoughts of the valley.\n\n&gYour maximum health has increased by 10!"
             },
             "durability": "Durability: %s/%s"
         },
@@ -267,7 +267,8 @@
             "tiles_placed_per_tile": "%s Placed",
             "seconds_played": "Time Played",
             "deaths": "Deaths",
-            "tiles_walked": "Tiles Travelled"
+            "tiles_walked": "Tiles Travelled",
+            "tools_broken": "Tools Broken"
         },
         "key.": {
             "inventory": "Inventory",
