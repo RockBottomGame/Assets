@@ -339,7 +339,8 @@
             "sign": "/tex/gui/sign.png",
             "start_note": "/tex/gui/note.png",
             "rename": "/tex/gui/rename.png",
-            "info": "/tex/gui/info.png"
+            "info": "/tex/gui/info.png",
+            "trash": "/tex/gui/trash.png"
         },
         "particle.": {
             "smoke": "/tex/particle/smoke.png",
