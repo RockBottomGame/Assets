@@ -50,7 +50,18 @@
             "copper_pickaxe": "Copper Pickaxe",
             "copper_axe": "Copper Axe",
             "copper_shovel": "Copper Shovel",
-            "stardrop": "Star Flower"
+            "stardrop": "Star Flower",
+            "cave_mushroom.":{
+                "1":"Brown Cave Mushroom",
+                "2":"Red Cave Mushroom",
+                "3":"Green Cave Mushroom",
+                "4":"Yellow Cave Mushroom",
+                "5":"Orange Cave Mushroom",
+                "6":"Blue Cave Mushroom",
+                "7":"Dark Cave Mushroom"
+            },
+            "snow":"Snow",
+            "super_pickaxe":"&rSuper Pickaxe"
         },
         "info.": {
             "layer_placement": "Can be placed in %s",
