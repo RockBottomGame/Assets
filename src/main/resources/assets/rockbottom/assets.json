@@ -285,6 +285,10 @@
             "copper_shovel": {
                 "path": "/tex/items/copper_shovel.png",
                 "data": "/tex/items/tool.json"
+            },
+            "copper_sword": {
+                "path": "/tex/items/copper_sword.png",
+                "data": "/tex/items/tool.json"
             }
         },
         "gui.": {
