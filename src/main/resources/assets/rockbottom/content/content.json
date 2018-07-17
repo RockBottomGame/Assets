@@ -3,6 +3,7 @@
         "brittle_pickaxe": "/recipes/brittle_pickaxe.json",
         "brittle_axe": "/recipes/brittle_axe.json",
         "brittle_shovel": "/recipes/brittle_shovel.json",
+        "brittle_sword": "/recipes/brittle_sword.json",
         "ladder": "/recipes/ladder.json",
         "chest": "/recipes/chest.json",
         "torch_grass": "/recipes/torch_grass.json",
@@ -12,10 +13,12 @@
         "stone_pickaxe": "/recipes/stone_pickaxe.json",
         "stone_axe": "/recipes/stone_axe.json",
         "stone_shovel": "/recipes/stone_shovel.json",
+        "stone_sword": "/recipes/stone_sword.json",
         "simple_furnace": "/recipes/simple_furnace.json",
         "copper_pickaxe": "/recipes/copper_pickaxe.json",
         "copper_axe": "/recipes/copper_axe.json",
         "copper_shovel": "/recipes/copper_shovel.json",
+        "copper_sword": "/recipes/copper_sword.json",
         "torch": "/recipes/torch.json"
     },
     "smelting.": {

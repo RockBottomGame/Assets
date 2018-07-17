@@ -1,0 +1,18 @@
+{
+    "type": "manual_knowledge",
+    "outputs": [
+        {
+            "name": "rockbottom/copper_sword"
+        }
+    ],
+    "inputs": [
+        {
+            "name": "copper_processed",
+            "amount": 14
+        },
+        {
+            "name": "stick",
+            "amount": 6
+        }
+    ]
+}

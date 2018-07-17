@@ -253,6 +253,10 @@
                 "path": "/tex/items/brittle_shovel.png",
                 "data": "/tex/items/tool.json"
             },
+            "brittle_sword": {
+                "path": "/tex/items/brittle_sword.png",
+                "data": "/tex/items/tool.json"
+            },
             "coal": "/tex/items/coal.png",
             "firework": "/tex/items/firework.png",
             "start_note": "/tex/items/note.png",
@@ -269,6 +273,10 @@
             },
             "stone_shovel": {
                 "path": "/tex/items/stone_shovel.png",
+                "data": "/tex/items/tool.json"
+            },
+            "stone_sword": {
+                "path": "/tex/items/stone_sword.png",
                 "data": "/tex/items/tool.json"
             },
             "copper_canister": "/tex/items/copper_canister.png",

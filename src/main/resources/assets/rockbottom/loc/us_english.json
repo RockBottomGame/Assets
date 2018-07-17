@@ -23,6 +23,7 @@
             "brittle_pickaxe": "Brittle Pickaxe",
             "brittle_axe": "Brittle Axe",
             "brittle_shovel": "Brittle Shovel",
+            "brittle_sword": "Brittle Sword",
             "sand": "Sand",
             "coal": "Coal",
             "torch": "Torch",
@@ -42,6 +43,7 @@
             "stone_pickaxe": "Stone Pickaxe",
             "stone_axe": "Stone Axe",
             "stone_shovel": "Stone Shovel",
+            "stone_sword": "Stone Sword",
             "copper": "Copper Cluster",
             "copper_canister": "Copper Container",
             "simple_furnace": "Rudimentary Furnace",
@@ -50,6 +52,7 @@
             "copper_pickaxe": "Copper Pickaxe",
             "copper_axe": "Copper Axe",
             "copper_shovel": "Copper Shovel",
+            "copper_sword": "Copper Sword",
             "stardrop": "Star Flower",
             "cave_mushroom.": {
                 "1": "Brown Cave Mushroom",
