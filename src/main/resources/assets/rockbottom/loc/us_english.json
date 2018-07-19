@@ -64,7 +64,8 @@
                 "7": "Dark Cave Mushroom"
             },
             "snow": "Snow",
-            "super_pickaxe": "&rSuper Pickaxe"
+            "super_pickaxe": "&rSuper Pickaxe",
+            "lamp_iron": "Iron Lamp"
         },
         "info.": {
             "layer_placement": "Can be placed in %s",
