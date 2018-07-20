@@ -303,7 +303,8 @@
             "copper_sword": {
                 "path": "/tex/items/copper_sword.png",
                 "data": "/tex/items/tool.json"
-            }
+            },
+            "recipe_note": "/tex/items/recipe_note.png"
         },
         "gui.": {
             "construction.": {

@@ -65,7 +65,8 @@
             },
             "snow": "Snow",
             "super_pickaxe": "&rSuper Pickaxe",
-            "lamp_iron": "Iron Lamp"
+            "lamp_iron": "Iron Lamp",
+            "recipe_note": "Knowledge Note"
         },
         "info.": {
             "layer_placement": "Can be placed in %s",
@@ -161,7 +162,11 @@
             "no_server": "&7Join or open a server to use the chat!",
             "start_note": "&3A note found in an abandoned wooden cottage. It might contain some useful information.",
             "twig": "&3A piece of wood that would be ideal for use as a tool handle. You might be able to gather it from trees somehow.",
-            "copper_canister": "&3A rusty old copper container found stuck between some copper ore. Maybe opening it will reveal something useful.",
+            "copper_canister.": {
+                "*": "&3A rusty old copper container found stuck between some copper ore. Maybe opening it will reveal something useful.",
+                "empty": "You open the container... \nit's empty.",
+                "note": "You open the container...\nA handwritten, crumbled up note falls out."
+            },
             "paste_design": "Paste a design from your clipboard",
             "copy_design": "Copies the design to your clipboard so you can send it to friends or save it",
             "are_you_sure": "Are you sure?",
@@ -182,6 +187,7 @@
                 "*": "It reminds you of the valley...",
                 "consume": "You take a taste of the flower. It reminds you of memories that you never knew you had. Suddenly, your mind is filled with thoughts of the valley.\n\n&gYour maximum health has increased by 10!"
             },
+            "recipe_note": "There is some text on the pages. Reading the note might help you.",
             "durability": "Durability: %s/%s"
         },
         "button.": {
