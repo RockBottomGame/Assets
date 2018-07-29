@@ -71,6 +71,7 @@
         "info.": {
             "layer_placement": "Can be placed in %s",
             "health": "Health",
+            "breath": "Air",
             "dead": "You died!",
             "dead.wait": "Just give it a second...",
             "hardware_cursor": "If the in-game cursor should be replaced by the operating system's cursor",

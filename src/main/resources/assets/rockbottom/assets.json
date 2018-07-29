@@ -348,6 +348,7 @@
             "selection_arrow": "/tex/gui/selection_arrow.png",
             "heart": "/tex/gui/heart.png",
             "heart_empty": "/tex/gui/heart_empty.png",
+            "bubble":"/tex/gui/bubble.png",
             "colorpick": "/tex/gui/colorpick.png",
             "popup": "/tex/gui/popup.png",
             "save_world": "/tex/gui/save_world.png",
