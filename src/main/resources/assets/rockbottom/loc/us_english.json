@@ -189,7 +189,11 @@
                 "consume": "You take a taste of the flower. It reminds you of memories that you never knew you had. Suddenly, your mind is filled with thoughts of the valley.\n\n&gYour maximum health has increased by 10!"
             },
             "recipe_note": "There is some text on the pages. Reading the note might help you.",
-            "durability": "Durability: %s/%s"
+            "durability": "Durability: %s/%s",
+            "skill.": {
+                "points": "%s Skill Points",
+                "percentage": "%s%% towards next point"
+            }
         },
         "button.": {
             "back": "Back",
