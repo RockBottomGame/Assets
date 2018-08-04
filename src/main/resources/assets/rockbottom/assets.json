@@ -160,7 +160,7 @@
                 "9": "/tex/tiles/water_9.png",
                 "10": "/tex/tiles/water_10.png",
                 "11": "/tex/tiles/water_11.png",
-                "top":"/tex/tiles/water_top.png"
+                "top": "/tex/tiles/water_top.png"
             },
             "wood_boards": "/tex/tiles/wood_boards.png",
             "wood_boards_old": {
@@ -225,13 +225,34 @@
             },
             "snow": "/tex/tiles/snow.png",
             "cave_mushroom.": {
-                "1": "/tex/tiles/mushroom_1_tile.png",
-                "2": "/tex/tiles/mushroom_2_tile.png",
-                "3": "/tex/tiles/mushroom_3_tile.png",
-                "4": "/tex/tiles/mushroom_4_tile.png",
-                "5": "/tex/tiles/mushroom_5_tile.png",
-                "6": "/tex/tiles/mushroom_6_tile.png",
-                "7": "/tex/tiles/mushroom_7_tile.png"
+                "1.": {
+                    "*": "/tex/tiles/mushroom_1_tile.png",
+                    "item": "/tex/tiles/mushroom_1.png"
+                },
+                "2.": {
+                    "*": "/tex/tiles/mushroom_2_tile.png",
+                    "item": "/tex/tiles/mushroom_2.png"
+                },
+                "3.": {
+                    "*": "/tex/tiles/mushroom_3_tile.png",
+                    "item": "/tex/tiles/mushroom_3.png"
+                },
+                "4.": {
+                    "*": "/tex/tiles/mushroom_4_tile.png",
+                    "item": "/tex/tiles/mushroom_4.png"
+                },
+                "5.": {
+                    "*": "/tex/tiles/mushroom_5_tile.png",
+                    "item": "/tex/tiles/mushroom_5.png"
+                },
+                "6.": {
+                    "*": "/tex/tiles/mushroom_6_tile.png",
+                    "item": "/tex/tiles/mushroom_6.png"
+                },
+                "7.": {
+                    "*": "/tex/tiles/mushroom_7_tile.png",
+                    "item": "/tex/tiles/mushroom_7.png"
+                }
             },
             "stardrop.": {
                 "*": "/tex/tiles/stardrop.png",
@@ -348,7 +369,7 @@
             "selection_arrow": "/tex/gui/selection_arrow.png",
             "heart": "/tex/gui/heart.png",
             "heart_empty": "/tex/gui/heart_empty.png",
-            "bubble":"/tex/gui/bubble.png",
+            "bubble": "/tex/gui/bubble.png",
             "colorpick": "/tex/gui/colorpick.png",
             "popup": "/tex/gui/popup.png",
             "save_world": "/tex/gui/save_world.png",
