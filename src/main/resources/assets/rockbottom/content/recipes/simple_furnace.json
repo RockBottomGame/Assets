@@ -18,5 +18,6 @@
             "name": "coal",
             "amount": 5
         }
-    ]
+    ],
+    "skill": 0.15
 }

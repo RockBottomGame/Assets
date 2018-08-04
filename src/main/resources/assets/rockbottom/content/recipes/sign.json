@@ -10,5 +10,6 @@
             "name": "wood_processed",
             "amount": 8
         }
-    ]
+    ],
+    "skill": 0.0025
 }

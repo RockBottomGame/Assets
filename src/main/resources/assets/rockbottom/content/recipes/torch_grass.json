@@ -15,5 +15,6 @@
             "name": "stick",
             "amount": 3
         }
-    ]
+    ],
+    "skill": 0.0005
 }
