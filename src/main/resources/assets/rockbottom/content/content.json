@@ -19,7 +19,10 @@
         "copper_axe": "/recipes/copper_axe.json",
         "copper_shovel": "/recipes/copper_shovel.json",
         "copper_sword": "/recipes/copper_sword.json",
-        "torch": "/recipes/torch.json"
+        "torch": "/recipes/torch.json",
+        "bowl": "/recipes/bowl.json",
+        "mortar": "/recipes/mortar.json",
+        "pestle": "/recipes/pestle.json"
     },
     "smelting.": {
         "copper": "/smelting/copper.json"
@@ -34,6 +37,7 @@
         "start_hut": "/structures/start_hut.json"
     },
     "mortar.": {
-        "speed": "/mortar/speed.json"
+        "speed": "/mortar/speed.json",
+        "jump": "/mortar/jump.json"
     }
 }

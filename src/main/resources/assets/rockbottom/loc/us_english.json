@@ -66,7 +66,11 @@
             "snow": "Snow",
             "super_pickaxe": "&rSuper Pickaxe",
             "lamp_iron": "Iron Lamp",
-            "recipe_note": "Knowledge Note"
+            "recipe_note": "Knowledge Note",
+            "mortar": "Mortar",
+            "pestle": "Pestle",
+            "mush": "Mushroom Paste",
+            "bowl": "Bowl"
         },
         "info.": {
             "layer_placement": "Can be placed in %s",

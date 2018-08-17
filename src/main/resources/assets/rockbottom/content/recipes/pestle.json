@@ -1,0 +1,15 @@
+{
+    "type": "manual_knowledge",
+    "outputs": [
+        {
+            "name": "rockbottom/pestle"
+        }
+    ],
+    "inputs": [
+        {
+            "name": "stone",
+            "amount": 3
+        }
+    ],
+    "skill": 0.001
+}

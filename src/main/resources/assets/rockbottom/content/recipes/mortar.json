@@ -1,0 +1,22 @@
+{
+    "type": "manual_knowledge",
+    "outputs": [
+        {
+            "name": "rockbottom/mortar"
+        }
+    ],
+    "inputs": [
+        {
+            "name": "stone",
+            "amount": 20
+        },
+        {
+            "name": "pebbles",
+            "amount": 5
+        },
+        {
+            "name": "rockbottom/stardrop"
+        }
+    ],
+    "skill": 0.25
+}

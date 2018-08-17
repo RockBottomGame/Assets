@@ -329,7 +329,8 @@
             },
             "recipe_note": "/tex/items/recipe_note.png",
             "pestle": "/tex/items/pestle.png",
-            "mush": "/tex/items/mush.png"
+            "mush": "/tex/items/mush.png",
+            "bowl": "/tex/items/bowl.png"
         },
         "gui.": {
             "construction.": {
