@@ -265,7 +265,8 @@
                 "back": "/tex/tiles/lamp_iron_back.png",
                 "left": "/tex/tiles/lamp_iron_left.png",
                 "right": "/tex/tiles/lamp_iron_right.png"
-            }
+            },
+            "mortar": "/tex/tiles/mortar.png"
         },
         "items.": {
             "pebbles": "/tex/items/pebbles.png",
@@ -326,7 +327,9 @@
                 "path": "/tex/items/copper_sword.png",
                 "data": "/tex/items/tool.json"
             },
-            "recipe_note": "/tex/items/recipe_note.png"
+            "recipe_note": "/tex/items/recipe_note.png",
+            "pestle": "/tex/items/pestle.png",
+            "mush": "/tex/items/mush.png"
         },
         "gui.": {
             "construction.": {

@@ -32,5 +32,8 @@
             "oak_4": ["/trees/oak_4.json", "/trees/tree_tiles.json"]
         },
         "start_hut": "/structures/start_hut.json"
+    },
+    "mortar.": {
+        "speed": "/mortar/speed.json"
     }
 }

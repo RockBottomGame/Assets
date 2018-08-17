@@ -1,0 +1,27 @@
+{
+    "input": [
+        {
+            "name": "rockbottom/cave_mushroom",
+            "meta": 3
+        }, {
+            "name": "rockbottom/cave_mushroom",
+            "meta": 4
+        }, {
+            "name": "rockbottom/cave_mushroom",
+            "meta": 5
+        }
+    ],
+    "output": [
+        {
+            "name": "rockbottom/mush",
+            "amount": 2,
+            "data": {
+                "rockbottom/effect": {
+                    "name": "rockbottom/speed",
+                    "time": "2400i"
+                }
+            }
+        }
+    ],
+    "time": 10
+}
