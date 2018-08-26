@@ -81,7 +81,7 @@
             "hardware_cursor": "If the in-game cursor should be replaced by the operating system's cursor",
             "autosave_interval": "The amount of seconds before the world is automatically saved",
             "saved": "Game saved!",
-            "saved_chunks": "Saved %s chunks in %s seconds.",
+            "saved_world": "Saved world in %s seconds.",
             "delete_world": "&7Delete World %s",
             "world": "World %s",
             "unlimited": "Unlimited",
