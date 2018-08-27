@@ -22,7 +22,8 @@
         "torch": "/recipes/torch.json",
         "bowl": "/recipes/bowl.json",
         "mortar": "/recipes/mortar.json",
-        "pestle": "/recipes/pestle.json"
+        "pestle": "/recipes/pestle.json",
+        "wood_boomerang": "/recipes/wood_boomerang.json"
     },
     "smelting.": {
         "copper": "/smelting/copper.json"

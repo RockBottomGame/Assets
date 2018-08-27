@@ -70,7 +70,8 @@
             "mortar": "Mortar",
             "pestle": "Pestle",
             "mush": "Mushroom Paste",
-            "bowl": "Bowl"
+            "bowl": "Bowl",
+            "wood_boomerang": "Wooden Boomerang"
         },
         "info.": {
             "layer_placement": "Can be placed in %s",

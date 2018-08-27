@@ -1,0 +1,19 @@
+{
+    "type": "manual",
+    "outputs": [
+        {
+            "name": "rockbottom/wood_boomerang"
+        }
+    ],
+    "inputs": [
+        {
+            "name": "wood_processed",
+            "amount": 16
+        },
+        {
+            "name": "plant_fiber",
+            "amount": 8
+        }
+    ],
+    "skill": 0.007
+}
