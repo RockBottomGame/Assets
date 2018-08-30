@@ -159,8 +159,7 @@
                 "8": "/tex/tiles/water_8.png",
                 "9": "/tex/tiles/water_9.png",
                 "10": "/tex/tiles/water_10.png",
-                "11": "/tex/tiles/water_11.png",
-                "top": "/tex/tiles/water_top.png"
+                "11": "/tex/tiles/water_11.png"
             },
             "wood_boards": "/tex/tiles/wood_boards.png",
             "wood_boards_old": {
