@@ -1,0 +1,23 @@
+{
+    "type": "manual_knowledge",
+    "outputs": [
+        {
+            "name": "rockbottom/simple_hoe"
+        }
+    ],
+    "inputs": [
+        {
+            "name": "pebbles",
+            "amount": 5
+        },
+        {
+            "name": "stone",
+            "amount": 10
+        },
+        {
+            "name": "stick",
+            "amount": 4
+        }
+    ],
+    "skill": 0.0125
+}

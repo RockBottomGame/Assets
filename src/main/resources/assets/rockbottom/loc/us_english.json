@@ -71,7 +71,9 @@
             "pestle": "Pestle",
             "mush": "Mushroom Paste",
             "bowl": "Bowl",
-            "wood_boomerang": "Wooden Boomerang"
+            "wood_boomerang": "Wooden Boomerang",
+            "simple_hoe": "Simple Hoe",
+            "corn": "Corn"
         },
         "info.": {
             "layer_placement": "Can be placed in %s",

@@ -223,6 +223,7 @@
                 }
             },
             "corn.": {
+                "*": "/tex/items/corn.png",
                 "0.": {
                     "subtexture": {
                         "file": "/tex/tiles/corn_0.png",
@@ -407,8 +408,7 @@
             "simple_hoe": {
                 "path": "/tex/items/simple_hoe.png",
                 "data": "/tex/items/tool.json"
-            },
-            "corn": "/tex/items/corn.png"
+            }
         },
         "gui.": {
             "construction.": {

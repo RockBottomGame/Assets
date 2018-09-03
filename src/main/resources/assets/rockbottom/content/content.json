@@ -23,7 +23,8 @@
         "bowl": "/recipes/bowl.json",
         "mortar": "/recipes/mortar.json",
         "pestle": "/recipes/pestle.json",
-        "wood_boomerang": "/recipes/wood_boomerang.json"
+        "wood_boomerang": "/recipes/wood_boomerang.json",
+        "simple_hoe": "/recipes/simple_hoe.json"
     },
     "smelting.": {
         "copper": "/smelting/copper.json"
