@@ -222,6 +222,78 @@
                     }
                 }
             },
+            "corn.": {
+                "0.": {
+                    "subtexture": {
+                        "file": "/tex/tiles/corn_0.png",
+                        "top": [0, 0, 12, 12],
+                        "bottom": [0, 12, 12, 12]
+                    }
+                },
+                "1.": {
+                    "subtexture": {
+                        "file": "/tex/tiles/corn_1.png",
+                        "top": [0, 0, 12, 12],
+                        "bottom": [0, 12, 12, 12]
+                    }
+                },
+                "2.": {
+                    "subtexture": {
+                        "file": "/tex/tiles/corn_2.png",
+                        "top": [0, 0, 12, 12],
+                        "bottom": [0, 12, 12, 12]
+                    }
+                },
+                "3.": {
+                    "subtexture": {
+                        "file": "/tex/tiles/corn_3.png",
+                        "top": [0, 0, 12, 12],
+                        "bottom": [0, 12, 12, 12]
+                    }
+                },
+                "4.": {
+                    "subtexture": {
+                        "file": "/tex/tiles/corn_4.png",
+                        "top": [0, 0, 12, 12],
+                        "bottom": [0, 12, 12, 12]
+                    }
+                },
+                "5.": {
+                    "subtexture": {
+                        "file": "/tex/tiles/corn_5.png",
+                        "top": [0, 0, 12, 12],
+                        "bottom": [0, 12, 12, 12]
+                    }
+                },
+                "6.": {
+                    "subtexture": {
+                        "file": "/tex/tiles/corn_6.png",
+                        "top": [0, 0, 12, 12],
+                        "bottom": [0, 12, 12, 12]
+                    }
+                },
+                "7.": {
+                    "subtexture": {
+                        "file": "/tex/tiles/corn_7.png",
+                        "top": [0, 0, 12, 12],
+                        "bottom": [0, 12, 12, 12]
+                    }
+                },
+                "8.": {
+                    "subtexture": {
+                        "file": "/tex/tiles/corn_8.png",
+                        "top": [0, 0, 12, 12],
+                        "bottom": [0, 12, 12, 12]
+                    }
+                },
+                "9.": {
+                    "subtexture": {
+                        "file": "/tex/tiles/corn_9.png",
+                        "top": [0, 0, 12, 12],
+                        "bottom": [0, 12, 12, 12]
+                    }
+                }
+            },
             "snow": "/tex/tiles/snow.png",
             "cave_mushroom.": {
                 "1.": {
@@ -265,7 +337,8 @@
                 "left": "/tex/tiles/lamp_iron_left.png",
                 "right": "/tex/tiles/lamp_iron_right.png"
             },
-            "mortar": "/tex/tiles/mortar.png"
+            "mortar": "/tex/tiles/mortar.png",
+            "soil_tilled": "/tex/tiles/soil_tilled.png"
         },
         "items.": {
             "pebbles": "/tex/items/pebbles.png",
@@ -330,7 +403,12 @@
             "pestle": "/tex/items/pestle.png",
             "mush": "/tex/items/mush.png",
             "bowl": "/tex/items/bowl.png",
-            "wood_boomerang": "/tex/items/wood_boomerang.png"
+            "wood_boomerang": "/tex/items/wood_boomerang.png",
+            "simple_hoe": {
+                "path": "/tex/items/simple_hoe.png",
+                "data": "/tex/items/tool.json"
+            },
+            "corn": "/tex/items/corn.png"
         },
         "gui.": {
             "construction.": {
