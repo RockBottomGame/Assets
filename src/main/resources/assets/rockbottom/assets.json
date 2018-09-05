@@ -423,7 +423,11 @@
                 "book_open": "/tex/gui/construction/book_open.png",
                 "search_bar_extended": "/tex/gui/construction/search_bar_extended.png",
                 "search_bar": "/tex/gui/construction/search_bar.png",
-                "scroll_bar": "/tex/gui/construction/scroll_bar.png"
+                "scroll_bar": "/tex/gui/construction/scroll_bar.png",
+                "tab": "/tex/gui/construction/tab.png",
+                "tab_extended": "/tex/gui/construction/tab_extended.png",
+                "construction": "/tex/gui/construction/construction_icon.png",
+                "mortar": "/tex/gui/construction/mortar_icon.png"
             },
             "cursor.": {
                 "pointer": {

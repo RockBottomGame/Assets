@@ -201,6 +201,10 @@
             "skill.": {
                 "points": "%s Skill Points",
                 "percentage": "%s%% towards next point"
+            },
+            "compendium_category.": {
+                "construction": "Manual Construction",
+                "mortar": "Mortar Recipes"
             }
         },
         "button.": {
