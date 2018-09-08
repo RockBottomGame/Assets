@@ -339,7 +339,8 @@
                 "right": "/tex/tiles/lamp_iron_right.png"
             },
             "mortar": "/tex/tiles/mortar.png",
-            "soil_tilled": "/tex/tiles/soil_tilled.png"
+            "soil_tilled": "/tex/tiles/soil_tilled.png",
+            "glass": "/tex/tiles/glass.png"
         },
         "items.": {
             "pebbles": "/tex/items/pebbles.png",
@@ -414,6 +415,7 @@
             "construction.": {
                 "page_items": "/tex/gui/construction/page_items.png",
                 "page_recipes": "/tex/gui/construction/page_recipes.png",
+                "page_recipes_smelting": "/tex/gui/construction/page_recipes_smelting.png",
                 "item_background": "/tex/gui/construction/item_background.png",
                 "item_background_highlighted": "/tex/gui/construction/item_background_highlighted.png",
                 "item_background_selected": "/tex/gui/construction/item_background_selected.png",
@@ -427,7 +429,8 @@
                 "tab": "/tex/gui/construction/tab.png",
                 "tab_extended": "/tex/gui/construction/tab_extended.png",
                 "construction": "/tex/gui/construction/construction_icon.png",
-                "mortar": "/tex/gui/construction/mortar_icon.png"
+                "mortar": "/tex/gui/construction/mortar_icon.png",
+                "smelting": "/tex/gui/construction/smelting_icon.png"
             },
             "cursor.": {
                 "pointer": {

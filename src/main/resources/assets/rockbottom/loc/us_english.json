@@ -73,7 +73,8 @@
             "bowl": "Bowl",
             "wood_boomerang": "Wooden Boomerang",
             "simple_hoe": "Simple Hoe",
-            "corn": "Corn"
+            "corn": "Corn",
+            "glass": "Glass"
         },
         "info.": {
             "layer_placement": "Can be placed in %s",
@@ -204,7 +205,8 @@
             },
             "compendium_category.": {
                 "construction": "Manual Construction",
-                "mortar": "Mortar Recipes"
+                "mortar": "Mortar Recipes",
+                "smelting": "Smelting Recipes"
             }
         },
         "button.": {

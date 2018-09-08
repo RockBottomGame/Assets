@@ -27,7 +27,8 @@
         "simple_hoe": "/recipes/simple_hoe.json"
     },
     "smelting.": {
-        "copper": "/smelting/copper.json"
+        "copper": "/smelting/copper.json",
+        "glass": "/smelting/glass.json"
     },
     "structure.": {
         "grassland_tree.": {
