@@ -297,7 +297,9 @@
         },
         "effect.": {
             "speed": "Move Speed",
-            "jump_height": "Jump Height"
+            "jump_height": "Jump Height",
+            "range": "Interaction Range",
+            "pickup_range": "Pickup Range"
         },
         "stat.": {
             "containers_opened": "Containers Opened",
