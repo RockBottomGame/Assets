@@ -430,7 +430,9 @@
                 "tab_extended": "/tex/gui/construction/tab_extended.png",
                 "construction": "/tex/gui/construction/construction_icon.png",
                 "mortar": "/tex/gui/construction/mortar_icon.png",
-                "smelting": "/tex/gui/construction/smelting_icon.png"
+                "smelting": "/tex/gui/construction/smelting_icon.png",
+                "arrow_up": "/tex/gui/construction/arrow_up.png",
+                "arrow_down": "/tex/gui/construction/arrow_down.png"
             },
             "cursor.": {
                 "pointer": {
