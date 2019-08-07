@@ -1,5 +1,6 @@
 {
-    "type": "manual_knowledge",
+    "type": "construction_table_knowledge",
+    "tool": "rockbottom/saw",
     "outputs": [
         {
             "name": "rockbottom/chest"
