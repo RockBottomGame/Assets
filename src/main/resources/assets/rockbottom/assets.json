@@ -222,6 +222,16 @@
                     }
                 }
             },
+            "construction_table.": {
+                "item": "/tex/tiles/construction_table_item.png",
+                "*.": {
+                    "subtexture": {
+                        "file": "/tex/tiles/construction_table.png",
+                        "0.0": [0, 0, 12, 12],
+                        "1.0": [12, 0, 12, 12]
+                    }
+                }
+            },
             "corn.": {
                 "*": "/tex/items/corn.png",
                 "0.": {
@@ -360,6 +370,26 @@
                 "path": "/tex/items/brittle_sword.png",
                 "data": "/tex/items/tool.json"
             },
+            "wrench": {
+                "path": "/tex/items/wrench.png",
+                "data": "/tex/items/tool.json"
+            },
+            "saw": {
+                "path": "/tex/items/saw.png",
+                "data": "/tex/items/tool.json"
+            },
+            "hammer": {
+                "path": "/tex/items/hammer.png",
+                "data": "/tex/items/tool.json"
+            },
+            "mallet": {
+                "path": "/tex/items/mallet.png",
+                "data": "/tex/items/tool.json"
+            },
+            "chisel": {
+                "path": "/tex/items/chisel.png",
+                "data": "/tex/items/tool.json"
+            },
             "coal": "/tex/items/coal.png",
             "firework": "/tex/items/firework.png",
             "start_note": "/tex/items/note.png",
@@ -412,6 +442,10 @@
             }
         },
         "gui.": {
+            "construction_table.": {
+                "background": "/tex/gui/construction/construction_table.png",
+                "scroll_bar": "/tex/gui/construction/construction_scroll_bar.png"
+            },
             "construction.": {
                 "page_items": "/tex/gui/construction/page_items.png",
                 "page_recipes": "/tex/gui/construction/page_recipes.png",
