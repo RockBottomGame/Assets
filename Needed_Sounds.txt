@@ -1,0 +1,17 @@
+Breaking/Placing
+    - Soil
+    - Grass
+    - Leaves
+    - Tree
+    - Rock
+    - Metal
+    - Glass
+Entities
+    - Slime
+        - Jumping
+        - Dying
+    - Player
+        - Hit
+        - Walking
+        - Punching
+        - Dying
