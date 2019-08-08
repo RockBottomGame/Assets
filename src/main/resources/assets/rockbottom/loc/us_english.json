@@ -196,6 +196,7 @@
             "unknown_recipe": "Unknown Recipe",
             "click_to_construct": "&3Click to construct",
             "missing_items": "&7Missing items",
+            "missing_tool": "&7Missing Tool",
             "already_known": "You have already obtained this information.",
             "username": "Username",
             "password": "Password",

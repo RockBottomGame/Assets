@@ -1,6 +1,15 @@
 {
     "type": "construction_table_knowledge",
-    "tool": "rockbottom/hammer",
+    "tools": [
+        {
+            "name": "rockbottom/hammer",
+            "durability": 5
+        },
+        {
+            "name": "rockbottom/wrench",
+            "durability": 3
+        }
+    ],
     "outputs": [
         {
             "name": "rockbottom/simple_furnace"

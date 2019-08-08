@@ -1,6 +1,5 @@
 {
-    "type": "construction_table_knowledge",
-    "tool": "rockbottom/chisel",
+    "type": "manual_knowledge",
     "outputs": [
         {
             "name": "rockbottom/stone_pickaxe"
