@@ -1,0 +1,19 @@
+{
+  "type": "manual_knowledge",
+  "outputs": [
+    {
+      "name": "rockbottom/hammer"
+    }
+  ],
+  "inputs": [
+    {
+      "name": "stone",
+      "amount": 16
+    },
+    {
+      "name": "stick",
+      "amount": 6
+    }
+  ],
+  "skill": 0.0085
+}
