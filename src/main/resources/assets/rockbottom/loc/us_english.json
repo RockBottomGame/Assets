@@ -211,7 +211,8 @@
                 "percentage": "%s%% towards next point"
             },
             "compendium_category.": {
-                "construction": "Manual Construction",
+                "manual_construction": "Manual Construction",
+                "construction_table": "Construction Table Recipes",
                 "mortar": "Mortar Recipes",
                 "smelting": "Smelting Recipes"
             }

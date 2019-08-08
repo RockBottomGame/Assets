@@ -1,10 +1,5 @@
 {
-    "type": "construction_table",
-    "tools": [
-        {
-            "name": "rockbottom/saw"
-        }
-    ],
+    "type": "manual",
     "outputs": [
         {
             "name": "rockbottom/wood_boards",

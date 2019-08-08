@@ -1,0 +1,19 @@
+{
+    "type": "manual_knowledge",
+    "outputs": [
+        {
+            "name": "rockbottom/construction_table"
+        }
+    ],
+    "inputs": [
+        {
+            "name": "stone",
+            "amount": 25
+        },
+        {
+            "name": "wood_processed",
+            "amount": 16
+        }
+    ],
+    "skill": 0.02
+}
