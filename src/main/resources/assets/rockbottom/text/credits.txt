@@ -8,6 +8,8 @@ Rock Bottom - a Game by Ellpeck
 
 &2Programming
   Ellpeck
+  raphydaphy
+  Quarris
 
 
 &2Art

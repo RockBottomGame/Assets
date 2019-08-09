@@ -24,6 +24,11 @@
             "brittle_axe": "Brittle Axe",
             "brittle_shovel": "Brittle Shovel",
             "brittle_sword": "Brittle Sword",
+            "wrench": "Wrench",
+            "saw": "Saw",
+            "hammer": "Hammer",
+            "mallet": "Mallet",
+            "chisel": "Chisel",
             "sand": "Sand",
             "coal": "Coal",
             "torch": "Torch",
@@ -47,6 +52,7 @@
             "copper": "Copper Cluster",
             "copper_canister": "Copper Container",
             "simple_furnace": "Rudimentary Furnace",
+            "construction_table": "Construction Table",
             "sandstone": "Sandstone",
             "copper_ingot": "Copper Ingot",
             "copper_pickaxe": "Copper Pickaxe",
@@ -190,6 +196,7 @@
             "unknown_recipe": "Unknown Recipe",
             "click_to_construct": "&3Click to construct",
             "missing_items": "&7Missing items",
+            "missing_tool": "&7Missing Tool",
             "already_known": "You have already obtained this information.",
             "username": "Username",
             "password": "Password",
@@ -204,7 +211,8 @@
                 "percentage": "%s%% towards next point"
             },
             "compendium_category.": {
-                "construction": "Manual Construction",
+                "manual_construction": "Manual Construction",
+                "construction_table": "Construction Table Recipes",
                 "mortar": "Mortar Recipes",
                 "smelting": "Smelting Recipes"
             }
@@ -321,6 +329,7 @@
             "jump": "Jump",
             "background": "Background",
             "chat": "Chat",
+            "command": "Command",
             "advanced_info": "More Info",
             "screenshot": "Screenshot",
             "players": "Player List",
