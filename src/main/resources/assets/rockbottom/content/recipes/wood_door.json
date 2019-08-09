@@ -1,5 +1,14 @@
 {
-    "type": "manual",
+    "type": "construction_table",
+    "tools": [
+        {
+            "name": "rockbottom/saw",
+            "durability": 3
+        },
+        {
+            "name": "rockbottom/chisel"
+        }
+    ],
     "outputs": [
         {
             "name": "rockbottom/wood_door"

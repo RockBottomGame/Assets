@@ -1,5 +1,15 @@
 {
-    "type": "manual_knowledge",
+    "type": "construction_table_knowledge",
+    "tools": [
+        {
+            "name": "rockbottom/saw",
+            "durability": 2
+        },
+        {
+            "name": "rockbottom/hammer",
+            "durability": 1
+        }
+    ],
     "outputs": [
         {
             "name": "rockbottom/ladder",

@@ -222,6 +222,16 @@
                     }
                 }
             },
+            "construction_table.": {
+                "item": "/tex/tiles/construction_table_item.png",
+                "*.": {
+                    "subtexture": {
+                        "file": "/tex/tiles/construction_table.png",
+                        "0.0": [0, 0, 12, 12],
+                        "1.0": [12, 0, 12, 12]
+                    }
+                }
+            },
             "corn.": {
                 "*": "/tex/items/corn.png",
                 "0.": {
@@ -360,6 +370,26 @@
                 "path": "/tex/items/brittle_sword.png",
                 "data": "/tex/items/tool.json"
             },
+            "wrench": {
+                "path": "/tex/items/wrench.png",
+                "data": "/tex/items/tool.json"
+            },
+            "saw": {
+                "path": "/tex/items/saw.png",
+                "data": "/tex/items/tool.json"
+            },
+            "hammer": {
+                "path": "/tex/items/hammer.png",
+                "data": "/tex/items/tool.json"
+            },
+            "mallet": {
+                "path": "/tex/items/mallet.png",
+                "data": "/tex/items/tool.json"
+            },
+            "chisel": {
+                "path": "/tex/items/chisel.png",
+                "data": "/tex/items/tool.json"
+            },
             "coal": "/tex/items/coal.png",
             "firework": "/tex/items/firework.png",
             "start_note": "/tex/items/note.png",
@@ -412,27 +442,37 @@
             }
         },
         "gui.": {
-            "construction.": {
-                "page_items": "/tex/gui/construction/page_items.png",
-                "page_recipes": "/tex/gui/construction/page_recipes.png",
-                "page_recipes_smelting": "/tex/gui/construction/page_recipes_smelting.png",
-                "item_background": "/tex/gui/construction/item_background.png",
-                "item_background_highlighted": "/tex/gui/construction/item_background_highlighted.png",
-                "item_background_selected": "/tex/gui/construction/item_background_selected.png",
-                "ingredient_background": "/tex/gui/construction/ingredient_background.png",
-                "ingredient_background_none": "/tex/gui/construction/ingredient_background_none.png",
-                "book_closed": "/tex/gui/construction/book_closed.png",
-                "book_open": "/tex/gui/construction/book_open.png",
-                "search_bar_extended": "/tex/gui/construction/search_bar_extended.png",
-                "search_bar": "/tex/gui/construction/search_bar.png",
-                "scroll_bar": "/tex/gui/construction/scroll_bar.png",
-                "tab": "/tex/gui/construction/tab.png",
-                "tab_extended": "/tex/gui/construction/tab_extended.png",
-                "construction": "/tex/gui/construction/construction_icon.png",
-                "mortar": "/tex/gui/construction/mortar_icon.png",
-                "smelting": "/tex/gui/construction/smelting_icon.png",
-                "arrow_up": "/tex/gui/construction/arrow_up.png",
-                "arrow_down": "/tex/gui/construction/arrow_down.png"
+            "construction_table.": {
+                "background": "/tex/gui/construction_table/background.png",
+                "scroll_bar": "/tex/gui/construction_table/scroll_bar.png",
+                "ingredient_background": "/tex/gui/construction_table/ingredient_background.png",
+                "ingredient_background_none": "/tex/gui/construction_table/ingredient_background_none.png",
+                "item_background": "/tex/gui/construction_table/item_background.png",
+                "item_background_highlighted": "/tex/gui/construction_table/item_background_highlighted.png",
+                "item_background_selected": "/tex/gui/construction_table/item_background_selected.png"
+            },
+            "compendium.": {
+                "page_items": "/tex/gui/compendium/page_items.png",
+                "page_recipes": "/tex/gui/compendium/page_recipes.png",
+                "page_recipes_smelting": "/tex/gui/compendium/page_recipes_smelting.png",
+                "item_background": "/tex/gui/compendium/item_background.png",
+                "item_background_highlighted": "/tex/gui/compendium/item_background_highlighted.png",
+                "item_background_selected": "/tex/gui/compendium/item_background_selected.png",
+                "ingredient_background": "/tex/gui/compendium/ingredient_background.png",
+                "ingredient_background_none": "/tex/gui/compendium/ingredient_background_none.png",
+                "book_closed": "/tex/gui/compendium/book_closed.png",
+                "book_open": "/tex/gui/compendium/book_open.png",
+                "search_bar_extended": "/tex/gui/compendium/search_bar_extended.png",
+                "search_bar": "/tex/gui/compendium/search_bar.png",
+                "scroll_bar": "/tex/gui/compendium/scroll_bar.png",
+                "tab": "/tex/gui/compendium/tab.png",
+                "tab_extended": "/tex/gui/compendium/tab_extended.png",
+                "manual_construction": "/tex/gui/compendium/manual_construction_icon.png",
+                "construction_table": "/tex/gui/compendium/construction_table_icon.png",
+                "mortar": "/tex/gui/compendium/mortar_icon.png",
+                "smelting": "/tex/gui/compendium/smelting_icon.png",
+                "arrow_up": "/tex/gui/compendium/arrow_up.png",
+                "arrow_down": "/tex/gui/compendium/arrow_down.png"
             },
             "cursor.": {
                 "pointer": {

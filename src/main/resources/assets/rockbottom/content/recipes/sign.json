@@ -1,5 +1,14 @@
 {
-    "type": "manual",
+    "type": "construction_table",
+    "tools": [
+        {
+            "name": "rockbottom/saw",
+            "durability": 2
+        },
+        {
+            "name": "rockbottom/mallet"
+        }
+    ],
     "outputs": [
         {
             "name": "rockbottom/sign"
