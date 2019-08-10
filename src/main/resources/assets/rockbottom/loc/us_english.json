@@ -109,6 +109,9 @@
             "disconnect": "&6Player %s disconnected!",
             "last_modified": "Last Played",
             "seed": "Seed",
+            "recipe_learned": "Recipe Learned",
+            "recipes_learned": "Recipes Learned",
+            "recipe_forgotten": "Recipe Forgotten",
             "durability.": {
                 "high": "&aPristine",
                 "medium_high": "&aSlightly Used",
