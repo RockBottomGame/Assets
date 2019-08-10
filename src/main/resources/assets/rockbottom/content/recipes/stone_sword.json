@@ -1,5 +1,13 @@
 {
     "type": "manual_knowledge",
+    "criteria": [
+        {
+            "name": "rockbottom/break_tile",
+            "params": {
+                "tile": "rockbottom/stone"
+            }
+        }
+    ],
     "outputs": [
         {
             "name": "rockbottom/stone_sword"
