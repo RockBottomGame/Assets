@@ -1,5 +1,5 @@
 {
-  "type": "manual_knowledge",
+  "type": "smithing",
   "criteria": [
     {
       "name": "rockbottom/break_tile",
@@ -23,5 +23,6 @@
       "amount": 8
     }
   ],
+    "usage": 3,
   "skill": 0.0085
 }

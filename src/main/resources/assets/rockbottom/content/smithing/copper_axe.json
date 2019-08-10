@@ -1,5 +1,5 @@
 {
-    "type": "manual_knowledge",
+    "type": "smithing_knowledge",
     "criteria": [
         {
             "name": "rockbottom/pickup_item",
@@ -23,5 +23,6 @@
             "amount": 8
         }
     ],
+    "usage": 10,
     "skill": 0.03
 }
