@@ -109,6 +109,13 @@
             "disconnect": "&6Player %s disconnected!",
             "last_modified": "Last Played",
             "seed": "Seed",
+            "durability.": {
+                "high": "&aPristine",
+                "medium_high": "&aSlightly Used",
+                "medium": "&6Well Used",
+                "medium_low": "&6Damaged",
+                "low": "&7Heavily Damaged"
+            },
             "server_shutdown.": {
                 "*": "Integrated server stopped",
                 "title": "Later guys!"

@@ -1,5 +1,13 @@
 {
     "type": "manual_knowledge",
+    "criteria": [
+        {
+            "name": "rockbottom/pickup_item",
+            "params": {
+                "item": "copper_processed"
+            }
+        }
+    ],
     "outputs": [
         {
             "name": "rockbottom/copper_shovel"
