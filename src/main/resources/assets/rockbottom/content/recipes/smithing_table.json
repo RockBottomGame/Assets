@@ -1,0 +1,21 @@
+{
+    "type": "construction_table_knowledge",
+    "tools": [
+        {
+            "name": "rockbottom/hammer",
+            "usage": 20
+        }
+    ],
+    "outputs": [
+        {
+            "name": "rockbottom/smithing_table"
+        }
+    ],
+    "inputs": [
+        {
+            "name": "copper_processed",
+            "amount": 5
+        }
+    ],
+    "skill": 0.02
+}

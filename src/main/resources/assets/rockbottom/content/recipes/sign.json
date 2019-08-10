@@ -3,7 +3,7 @@
     "tools": [
         {
             "name": "rockbottom/saw",
-            "durability": 2
+            "usage": 2
         },
         {
             "name": "rockbottom/mallet"
