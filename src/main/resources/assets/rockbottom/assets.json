@@ -461,7 +461,7 @@
                 "item_background_highlighted": "/tex/gui/construction_table/item_background_highlighted.png",
                 "item_background_selected": "/tex/gui/construction_table/item_background_selected.png"
             },
-            "anvil.": {
+            "smithing_table.": {
                 "background": "/tex/gui/smithing_table/background.png",
                 "scroll_bar": "/tex/gui/construction_table/scroll_bar.png",
                 "ingredient_background": "/tex/gui/construction_table/ingredient_background.png",
