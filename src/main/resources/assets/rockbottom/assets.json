@@ -232,6 +232,16 @@
                     }
                 }
             },
+            "anvil.": {
+                "item": "/tex/tiles/construction_table_item.png",
+                "*.": {
+                    "subtexture": {
+                        "file": "/tex/tiles/construction_table.png",
+                        "0.0": [0, 0, 12, 12],
+                        "1.0": [12, 0, 12, 12]
+                    }
+                }
+            },
             "corn.": {
                 "*": "/tex/items/corn.png",
                 "0.": {
@@ -444,6 +454,15 @@
         "gui.": {
             "construction_table.": {
                 "background": "/tex/gui/construction_table/background.png",
+                "scroll_bar": "/tex/gui/construction_table/scroll_bar.png",
+                "ingredient_background": "/tex/gui/construction_table/ingredient_background.png",
+                "ingredient_background_none": "/tex/gui/construction_table/ingredient_background_none.png",
+                "item_background": "/tex/gui/construction_table/item_background.png",
+                "item_background_highlighted": "/tex/gui/construction_table/item_background_highlighted.png",
+                "item_background_selected": "/tex/gui/construction_table/item_background_selected.png"
+            },
+            "anvil.": {
+                "background": "/tex/gui/smithing_table/background.png",
                 "scroll_bar": "/tex/gui/construction_table/scroll_bar.png",
                 "ingredient_background": "/tex/gui/construction_table/ingredient_background.png",
                 "ingredient_background_none": "/tex/gui/construction_table/ingredient_background_none.png",
