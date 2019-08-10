@@ -1,5 +1,5 @@
 {
-    "type": "smithing_knowledge",
+    "type": "manual_knowledge",
     "criteria": [
         {
             "name": "rockbottom/pickup_item",

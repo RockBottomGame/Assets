@@ -456,29 +456,24 @@
                 "background": "/tex/gui/construction_table/background.png",
                 "scroll_bar": "/tex/gui/construction_table/scroll_bar.png",
                 "ingredient_background": "/tex/gui/construction_table/ingredient_background.png",
-                "ingredient_background_none": "/tex/gui/construction_table/ingredient_background_none.png",
-                "item_background": "/tex/gui/construction_table/item_background.png",
-                "item_background_highlighted": "/tex/gui/construction_table/item_background_highlighted.png",
-                "item_background_selected": "/tex/gui/construction_table/item_background_selected.png"
-            },
-            "smithing_table.": {
-                "background": "/tex/gui/smithing_table/background.png",
-                "scroll_bar": "/tex/gui/construction_table/scroll_bar.png",
-                "ingredient_background": "/tex/gui/construction_table/ingredient_background.png",
-                "ingredient_background_none": "/tex/gui/construction_table/ingredient_background_none.png",
-                "item_background": "/tex/gui/construction_table/item_background.png",
-                "item_background_highlighted": "/tex/gui/construction_table/item_background_highlighted.png",
-                "item_background_selected": "/tex/gui/construction_table/item_background_selected.png"
+                "ingredient_background.none": "/tex/gui/construction_table/ingredient_background_none.png",
+                "item_background.": {
+                    "*": "/tex/gui/construction_table/item_background.png",
+                    "highlighted": "/tex/gui/construction_table/item_background_highlighted.png",
+                    "selected": "/tex/gui/construction_table/item_background_selected.png"
+                }
             },
             "compendium.": {
                 "page_items": "/tex/gui/compendium/page_items.png",
                 "page_recipes": "/tex/gui/compendium/page_recipes.png",
                 "page_recipes_smelting": "/tex/gui/compendium/page_recipes_smelting.png",
-                "item_background": "/tex/gui/compendium/item_background.png",
-                "item_background_highlighted": "/tex/gui/compendium/item_background_highlighted.png",
-                "item_background_selected": "/tex/gui/compendium/item_background_selected.png",
                 "ingredient_background": "/tex/gui/compendium/ingredient_background.png",
-                "ingredient_background_none": "/tex/gui/compendium/ingredient_background_none.png",
+                "ingredient_background.none": "/tex/gui/compendium/ingredient_background_none.png",
+                "item_background.": {
+                    "*": "/tex/gui/compendium/item_background.png",
+                    "highlighted": "/tex/gui/compendium/item_background_highlighted.png",
+                    "selected": "/tex/gui/compendium/item_background_selected.png"
+                },
                 "book_closed": "/tex/gui/compendium/book_closed.png",
                 "book_open": "/tex/gui/compendium/book_open.png",
                 "search_bar_extended": "/tex/gui/compendium/search_bar_extended.png",
