@@ -232,7 +232,7 @@
                     }
                 }
             },
-            "anvil.": {
+            "smithing_table.": {
                 "item": "/tex/tiles/construction_table_item.png",
                 "*.": {
                     "subtexture": {
