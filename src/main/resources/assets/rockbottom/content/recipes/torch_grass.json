@@ -1,5 +1,13 @@
 {
     "type": "manual_knowledge",
+    "criteria": [
+        {
+            "name": "rockbottom/pickup_item",
+            "params": {
+                "item": "rockbottom/torch_grass"
+            }
+        }
+    ],
     "outputs": [
         {
             "name": "rockbottom/torch_grass",

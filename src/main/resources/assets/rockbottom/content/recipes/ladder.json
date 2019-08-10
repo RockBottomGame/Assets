@@ -1,5 +1,13 @@
 {
     "type": "construction_table_knowledge",
+    "criteria": [
+        {
+            "name": "rockbottom/reach_depth",
+            "params": {
+                "depth": 0
+            }
+        }
+    ],
     "tools": [
         {
             "name": "rockbottom/saw",
