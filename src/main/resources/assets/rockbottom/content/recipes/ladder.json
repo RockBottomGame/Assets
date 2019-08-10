@@ -11,11 +11,11 @@
     "tools": [
         {
             "name": "rockbottom/saw",
-            "durability": 2
+            "usage": 2
         },
         {
             "name": "rockbottom/hammer",
-            "durability": 1
+            "usage": 1
         }
     ],
     "outputs": [

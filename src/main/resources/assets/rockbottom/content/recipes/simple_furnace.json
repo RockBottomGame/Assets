@@ -3,11 +3,11 @@
     "tools": [
         {
             "name": "rockbottom/hammer",
-            "durability": 5
+            "usage": 5
         },
         {
             "name": "rockbottom/wrench",
-            "durability": 3
+            "usage": 3
         }
     ],
     "outputs": [

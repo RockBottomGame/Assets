@@ -3,7 +3,7 @@
     "tools": [
         {
             "name": "rockbottom/hammer",
-            "durability": 20
+            "usage": 20
         }
     ],
     "outputs": [
