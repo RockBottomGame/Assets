@@ -1,5 +1,6 @@
 {
-    "type": "construction_table_knowledge",
+    "type": "construction_table",
+    "knowledge": true,
     "tools": [
         {
             "name": "rockbottom/hammer",

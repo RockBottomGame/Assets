@@ -1,4 +1,5 @@
 {
+    "type": "mortar",
     "input": [
         {
             "name": "rockbottom/cave_mushroom",
