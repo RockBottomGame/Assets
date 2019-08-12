@@ -204,7 +204,7 @@
             "world_name": "World Name",
             "final_seed": "Final Seed: %s",
             "unknown_recipe": "Unknown Recipe",
-            "click_to_construct": "&3Click to construct",
+            "click_to_construct": "&3Click to Construct",
             "missing_items": "&7Missing items",
             "missing_tool": "&7Missing Tool",
             "already_known": "You have already obtained this information.",

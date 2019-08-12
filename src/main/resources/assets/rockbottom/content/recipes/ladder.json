@@ -1,5 +1,6 @@
 {
-    "type": "construction_table_knowledge",
+    "type": "construction_table",
+    "knowledge": true,
     "criteria": [
         {
             "name": "rockbottom/reach_depth",

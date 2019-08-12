@@ -1,5 +1,6 @@
 {
-    "type": "manual_knowledge",
+    "type": "manual",
+    "knowledge": true,
     "criteria": [
         {
             "name": "rockbottom/pickup_item",
