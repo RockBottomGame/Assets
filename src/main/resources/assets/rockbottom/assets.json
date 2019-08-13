@@ -405,6 +405,7 @@
             "start_note": "/tex/items/note.png",
             "plant_fiber": "/tex/items/plant_fiber.png",
             "twig": "/tex/items/twig.png",
+            "stick": "/tex/items/stick.png",
             "copper": "/tex/items/cluster_copper.png",
             "stone_pickaxe": {
                 "path": "/tex/items/stone_pickaxe.png",
