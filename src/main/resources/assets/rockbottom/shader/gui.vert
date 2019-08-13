@@ -11,7 +11,7 @@ uniform mat4 model;
 uniform mat4 view;
 uniform mat4 projection;
 
-uniform vec2 scale;
+uniform float scale;
 
 void main(){
     vertexColorPass = color;
