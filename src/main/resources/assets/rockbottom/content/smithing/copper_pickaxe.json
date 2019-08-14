@@ -1,5 +1,5 @@
 {
-    "type": "manual",
+    "type": "smithing",
     "knowledge": true,
     "criteria": [
         {
@@ -11,17 +11,17 @@
     ],
     "outputs": [
         {
-            "name": "rockbottom/copper_sword"
+            "name": "rockbottom/copper_pickaxe"
         }
     ],
     "inputs": [
         {
             "name": "copper_processed",
-            "amount": 14
+            "amount": 16
         },
         {
             "name": "stick",
-            "amount": 6
+            "amount": 8
         }
     ],
     "skill": 0.03

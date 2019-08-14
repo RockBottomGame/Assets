@@ -233,10 +233,10 @@
                 }
             },
             "smithing_table.": {
-                "item": "/tex/tiles/construction_table_item.png",
+                "item": "/tex/tiles/smithing_table_item.png",
                 "*.": {
                     "subtexture": {
-                        "file": "/tex/tiles/construction_table.png",
+                        "file": "/tex/tiles/smithing_table.png",
                         "0.0": [0, 0, 12, 12],
                         "1.0": [12, 0, 12, 12]
                     }
@@ -508,6 +508,17 @@
                 "finger_104": {
                     "path": "/tex/gui/cursor/finger_104.png",
                     "should_stitch": false
+                }
+            },
+            "smithing_table.": {
+                "background": "/tex/gui/smithing_table/background.png",
+                "scroll_bar": "/tex/gui/smithing_table/scroll_bar.png",
+                "ingredient_background": "/tex/gui/smithing_table/ingredient_background.png",
+                "ingredient_background.none": "/tex/gui/smithing_table/ingredient_background_none.png",
+                "item_background.": {
+                    "*": "/tex/gui/smithing_table/item_background.png",
+                    "highlighted": "/tex/gui/smithing_table/item_background_highlighted.png",
+                    "selected": "/tex/gui/smithing_table/item_background_selected.png"
                 }
             },
             "slot": "/tex/gui/slot.png",
