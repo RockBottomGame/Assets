@@ -710,6 +710,7 @@
                 "tab_extended": "/tex/gui/compendium/tab_extended.png",
                 "manual_construction": "/tex/gui/compendium/manual_construction_icon.png",
                 "construction_table": "/tex/gui/compendium/construction_table_icon.png",
+                "smithing_table": "/tex/gui/compendium/smithing_table_icon.png",
                 "mortar": "/tex/gui/compendium/mortar_icon.png",
                 "smelting": "/tex/gui/compendium/smelting_icon.png",
                 "arrow_up": "/tex/gui/compendium/arrow_up.png",

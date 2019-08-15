@@ -228,6 +228,7 @@
             "compendium_category.": {
                 "manual_construction": "Manual Construction",
                 "construction_table": "Construction Table Recipes",
+                "smithing_table": "Smithing Recipes",
                 "mortar": "Mortar Recipes",
                 "smelting": "Smelting Recipes"
             }
