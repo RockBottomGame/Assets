@@ -52,6 +52,7 @@
             "stone_sword": "Stone Sword",
             "copper": "Copper Cluster",
             "copper_canister": "Copper Container",
+            "spinning_wheel": "Spinning Wheel",
             "simple_furnace": "Rudimentary Furnace",
             "construction_table": "Construction Table",
             "sandstone": "Sandstone",
@@ -81,6 +82,8 @@
             "wood_boomerang": "Wooden Boomerang",
             "simple_hoe": "Simple Hoe",
             "corn": "Corn",
+            "cotton": "Cotton",
+            "yarn": "Yarn",
             "glass": "Glass"
         },
         "info.": {
