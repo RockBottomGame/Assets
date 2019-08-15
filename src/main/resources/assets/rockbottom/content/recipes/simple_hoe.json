@@ -7,6 +7,12 @@
             "params": {
                 "tile": "rockbottom/corn"
             }
+        },
+        {
+            "name": "rockbottom/break_tile",
+            "params": {
+                "tile": "rockbottom/cotton"
+            }
         }
     ],
     "outputs": [

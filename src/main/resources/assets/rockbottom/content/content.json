@@ -22,6 +22,7 @@
         "chisel": "/recipes/chisel.json",
         "construction_table": "/recipes/construction_table.json",
         "smithing_table": "/recipes/smithing_table.json",
+        "spinning_wheel": "/recipes/spinning_wheel.json",
         "simple_furnace": "/recipes/simple_furnace.json",
         "torch": "/recipes/torch.json",
         "bowl": "/recipes/bowl.json",
