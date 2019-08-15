@@ -360,7 +360,232 @@
             },
             "mortar": "/tex/tiles/mortar.png",
             "soil_tilled": "/tex/tiles/soil/soil_tilled.png",
-            "glass": "/tex/tiles/glass.png"
+            "glass": "/tex/tiles/glass.png",
+            "cotton.": {
+                "*": "/tex/items/cotton.png",
+                "dead.": {
+                    "0.": {
+                        "subtexture": {
+                            "file": "/tex/tiles/cotton/cotton_dead_0.png",
+                            "top": [0, 0, 12, 12],
+                            "bottom": [0, 12, 12, 12]
+                        }
+                    },
+                    "1.": {
+                        "subtexture": {
+                            "file": "/tex/tiles/cotton/cotton_dead_1.png",
+                            "top": [0, 0, 12, 12],
+                            "bottom": [0, 12, 12, 12]
+                        }
+                    },
+                    "2.": {
+                        "subtexture": {
+                            "file": "/tex/tiles/cotton/cotton_dead_2.png",
+                            "top": [0, 0, 12, 12],
+                            "bottom": [0, 12, 12, 12]
+                        }
+                    },
+                    "3.": {
+                        "subtexture": {
+                            "file": "/tex/tiles/cotton/cotton_dead_3.png",
+                            "top": [0, 0, 12, 12],
+                            "bottom": [0, 12, 12, 12]
+                        }
+                    },
+                    "4.": {
+                        "subtexture": {
+                            "file": "/tex/tiles/cotton/cotton_dead_4.png",
+                            "top": [0, 0, 12, 12],
+                            "bottom": [0, 12, 12, 12]
+                        }
+                    }
+                },
+                "0.": {
+                    "subtexture": {
+                        "file": "/tex/tiles/cotton/cotton_0.png",
+                        "top": [0, 0, 12, 12],
+                        "bottom": [0, 12, 12, 12]
+                    }
+                },
+                "1.": {
+                    "subtexture": {
+                        "file": "/tex/tiles/cotton/cotton_1.png",
+                        "top": [0, 0, 12, 12],
+                        "bottom": [0, 12, 12, 12]
+                    }
+                },
+                "2.": {
+                    "subtexture": {
+                        "file": "/tex/tiles/cotton/cotton_2.png",
+                        "top": [0, 0, 12, 12],
+                        "bottom": [0, 12, 12, 12]
+                    }
+                },
+                "3.": {
+                    "subtexture": {
+                        "file": "/tex/tiles/cotton/cotton_3.png",
+                        "top": [0, 0, 12, 12],
+                        "bottom": [0, 12, 12, 12]
+                    }
+                },
+                "4.": {
+                    "subtexture": {
+                        "file": "/tex/tiles/cotton/cotton_4.png",
+                        "top": [0, 0, 12, 12],
+                        "bottom": [0, 12, 12, 12]
+                    }
+                },
+                "5.": {
+                    "subtexture": {
+                        "file": "/tex/tiles/cotton/cotton_5.png",
+                        "top": [0, 0, 12, 12],
+                        "bottom": [0, 12, 12, 12]
+                    }
+                },
+                "6.": {
+                    "subtexture": {
+                        "file": "/tex/tiles/cotton/cotton_6.png",
+                        "top": [0, 0, 12, 12],
+                        "bottom": [0, 12, 12, 12]
+                    }
+                },
+                "7.": {
+                    "subtexture": {
+                        "file": "/tex/tiles/cotton/cotton_7.png",
+                        "top": [0, 0, 12, 12],
+                        "bottom": [0, 12, 12, 12]
+                    }
+                },
+                "8.": {
+                    "subtexture": {
+                        "file": "/tex/tiles/cotton/cotton_8.png",
+                        "top": [0, 0, 12, 12],
+                        "bottom": [0, 12, 12, 12]
+                    }
+                },
+                "9.": {
+                    "subtexture": {
+                        "file": "/tex/tiles/cotton/cotton_9.png",
+                        "top": [0, 0, 12, 12],
+                        "bottom": [0, 12, 12, 12]
+                    }
+                }
+            },
+            "spinning_wheel.": {
+                "1.": {
+                    "subtexture": {
+                        "0.0": [0, 24, 12, 12],
+                        "1.0": [12, 24, 12, 12],
+                        "2.0": [24, 24, 12, 12],
+                        "0.1": [0, 12, 12, 12],
+                        "1.1": [12, 12, 12, 12],
+                        "2.1": [24, 12, 12, 12],
+                        "0.2": [0, 0, 12, 12],
+                        "1.2": [12, 0, 12, 12],
+                        "2.2": [24, 0, 12, 12],
+                        "file": "/tex/tiles/spinning_wheel/spinning_wheel_1.png"
+                    }
+                },
+                "2.": {
+                    "subtexture": {
+                        "0.0": [0, 24, 12, 12],
+                        "1.0": [12, 24, 12, 12],
+                        "2.0": [24, 24, 12, 12],
+                        "0.1": [0, 12, 12, 12],
+                        "1.1": [12, 12, 12, 12],
+                        "2.1": [24, 12, 12, 12],
+                        "0.2": [0, 0, 12, 12],
+                        "1.2": [12, 0, 12, 12],
+                        "2.2": [24, 0, 12, 12],
+                        "file": "/tex/tiles/spinning_wheel/spinning_wheel_2.png"
+                    }
+                },
+                "3.": {
+                    "subtexture": {
+                        "0.0": [0, 24, 12, 12],
+                        "1.0": [12, 24, 12, 12],
+                        "2.0": [24, 24, 12, 12],
+                        "0.1": [0, 12, 12, 12],
+                        "1.1": [12, 12, 12, 12],
+                        "2.1": [24, 12, 12, 12],
+                        "0.2": [0, 0, 12, 12],
+                        "1.2": [12, 0, 12, 12],
+                        "2.2": [24, 0, 12, 12],
+                        "file": "/tex/tiles/spinning_wheel/spinning_wheel_3.png"
+                    }
+                },
+                "4.": {
+                    "subtexture": {
+                        "0.0": [0, 24, 12, 12],
+                        "1.0": [12, 24, 12, 12],
+                        "2.0": [24, 24, 12, 12],
+                        "0.1": [0, 12, 12, 12],
+                        "1.1": [12, 12, 12, 12],
+                        "2.1": [24, 12, 12, 12],
+                        "0.2": [0, 0, 12, 12],
+                        "1.2": [12, 0, 12, 12],
+                        "2.2": [24, 0, 12, 12],
+                        "file": "/tex/tiles/spinning_wheel/spinning_wheel_4.png"
+                    }
+                },
+                "5.": {
+                    "subtexture": {
+                        "0.0": [0, 24, 12, 12],
+                        "1.0": [12, 24, 12, 12],
+                        "2.0": [24, 24, 12, 12],
+                        "0.1": [0, 12, 12, 12],
+                        "1.1": [12, 12, 12, 12],
+                        "2.1": [24, 12, 12, 12],
+                        "0.2": [0, 0, 12, 12],
+                        "1.2": [12, 0, 12, 12],
+                        "2.2": [24, 0, 12, 12],
+                        "file": "/tex/tiles/spinning_wheel/spinning_wheel_5.png"
+                    }
+                },
+                "6.": {
+                    "subtexture": {
+                        "0.0": [0, 24, 12, 12],
+                        "1.0": [12, 24, 12, 12],
+                        "2.0": [24, 24, 12, 12],
+                        "0.1": [0, 12, 12, 12],
+                        "1.1": [12, 12, 12, 12],
+                        "2.1": [24, 12, 12, 12],
+                        "0.2": [0, 0, 12, 12],
+                        "1.2": [12, 0, 12, 12],
+                        "2.2": [24, 0, 12, 12],
+                        "file": "/tex/tiles/spinning_wheel/spinning_wheel_6.png"
+                    }
+                },
+                "7.": {
+                    "subtexture": {
+                        "0.0": [0, 24, 12, 12],
+                        "1.0": [12, 24, 12, 12],
+                        "2.0": [24, 24, 12, 12],
+                        "0.1": [0, 12, 12, 12],
+                        "1.1": [12, 12, 12, 12],
+                        "2.1": [24, 12, 12, 12],
+                        "0.2": [0, 0, 12, 12],
+                        "1.2": [12, 0, 12, 12],
+                        "2.2": [24, 0, 12, 12],
+                        "file": "/tex/tiles/spinning_wheel/spinning_wheel_7.png"
+                    }
+                },
+                "item": "/tex/tiles/spinning_wheel/spinning_wheel_0.png",
+                "*.": {
+                    "subtexture": {
+                        "0.0": [0, 24, 12, 12],
+                        "1.0": [12, 24, 12, 12],
+                        "2.0": [24, 24, 12, 12],
+                        "0.1": [0, 12, 12, 12],
+                        "1.1": [12, 12, 12, 12],
+                        "2.1": [24, 12, 12, 12],
+                        "0.2": [0, 0, 12, 12],
+                        "1.2": [12, 0, 12, 12],
+                        "2.2": [24, 0, 12, 12],
+                        "file": "/tex/tiles/spinning_wheel/spinning_wheel_0.png"
+                    }
+                }
+            }
         },
         "items.": {
             "pebbles": "/tex/items/pebbles.png",
@@ -404,6 +629,7 @@
             "firework": "/tex/items/firework.png",
             "start_note": "/tex/items/note.png",
             "plant_fiber": "/tex/items/plant_fiber.png",
+            "yarn": "/tex/items/yarn.png",
             "twig": "/tex/items/twig.png",
             "stick": "/tex/items/stick.png",
             "copper": "/tex/items/cluster_copper.png",
