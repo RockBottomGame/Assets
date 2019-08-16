@@ -45,14 +45,17 @@
             "torch_grass": "Grass Torch",
             "plant_fiber": "Plant Fiber",
             "twig": "Twig",
+            "stick": "Stick",
             "stone_pickaxe": "Stone Pickaxe",
             "stone_axe": "Stone Axe",
             "stone_shovel": "Stone Shovel",
             "stone_sword": "Stone Sword",
             "copper": "Copper Cluster",
             "copper_canister": "Copper Container",
+            "spinning_wheel": "Spinning Wheel",
             "simple_furnace": "Rudimentary Furnace",
             "construction_table": "Construction Table",
+            "smithing_table": "Smithing Table",
             "sandstone": "Sandstone",
             "copper_ingot": "Copper Ingot",
             "copper_pickaxe": "Copper Pickaxe",
@@ -80,6 +83,8 @@
             "wood_boomerang": "Wooden Boomerang",
             "simple_hoe": "Simple Hoe",
             "corn": "Corn",
+            "cotton": "Cotton",
+            "yarn": "Yarn",
             "glass": "Glass"
         },
         "info.": {
@@ -205,7 +210,7 @@
             "final_seed": "Final Seed: %s",
             "unknown_recipe": "Unknown Recipe",
             "click_to_construct": "&3Click to Construct",
-            "missing_items": "&7Missing items",
+            "missing_items": "&7Missing Items",
             "missing_tool": "&7Missing Tool",
             "already_known": "You have already obtained this information.",
             "username": "Username",
@@ -223,6 +228,7 @@
             "compendium_category.": {
                 "manual_construction": "Manual Construction",
                 "construction_table": "Construction Table Recipes",
+                "smithing_table": "Smithing Recipes",
                 "mortar": "Mortar Recipes",
                 "smelting": "Smelting Recipes"
             }

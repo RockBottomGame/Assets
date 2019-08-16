@@ -10,6 +10,7 @@ Rock Bottom - a Game by Ellpeck
   Ellpeck
   raphydaphy
   Quarris
+  canitzp
 
 
 &2Art
@@ -19,7 +20,6 @@ Rock Bottom - a Game by Ellpeck
 &2Additional Programming
   superaxander
   SSBlur
-  canitzp
   xdjackiexd
 
 

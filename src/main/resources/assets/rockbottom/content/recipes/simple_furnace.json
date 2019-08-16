@@ -1,14 +1,26 @@
 {
     "type": "construction_table",
     "knowledge": true,
+    "criteria": [
+        {
+            "name": "rockbottom/break_tile",
+            "params": {
+                "tile": "rockbottom/stone"
+            }
+        }
+    ],
     "tools": [
         {
             "name": "rockbottom/hammer",
             "usage": 5
         },
         {
-            "name": "rockbottom/wrench",
+            "name": "rockbottom/chisel",
             "usage": 3
+        },
+        {
+            "name": "rockbottom/wrench",
+            "usage": 2
         }
     ],
     "outputs": [
