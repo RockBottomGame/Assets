@@ -29,7 +29,8 @@
         "mortar": "/recipes/mortar.json",
         "pestle": "/recipes/pestle.json",
         "wood_boomerang": "/recipes/wood_boomerang.json",
-        "simple_hoe": "/recipes/simple_hoe.json"
+        "simple_hoe": "/recipes/simple_hoe.json",
+        "platform": "/recipes/platform.json"
     },
     "smithing.": {
         "copper_pickaxe": "/smithing/copper_pickaxe.json",
