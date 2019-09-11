@@ -585,7 +585,8 @@
                         "file": "/tex/tiles/spinning_wheel/spinning_wheel_0.png"
                     }
                 }
-            }
+            },
+            "wood_platform": "/tex/tiles/platform/wood_platform.png"
         },
         "items.": {
             "pebbles": "/tex/items/pebbles.png",
