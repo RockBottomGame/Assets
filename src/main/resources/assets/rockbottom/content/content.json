@@ -37,11 +37,19 @@
         "copper_shovel": "/smithing/copper_shovel.json",
         "copper_sword": "/smithing/copper_sword.json",
         "copper_axe": "/smithing/copper_axe.json",
+        "bronze_pickaxe": "/smithing/bronze_pickaxe.json",
+        "bronze_shovel": "/smithing/bronze_shovel.json",
+        "bronze_sword": "/smithing/bronze_sword.json",
+        "bronze_axe": "/smithing/bronze_axe.json",
         "wrench": "/smithing/wrench.json"
     },
     "smelting.": {
         "copper": "/smelting/copper.json",
+        "tin": "/smelting/tin.json",
         "glass": "/smelting/glass.json"
+    },
+    "combiner.": {
+        "bronze": "/combiner/bronze.json"
     },
     "structure.": {
         "grassland_tree.": {
