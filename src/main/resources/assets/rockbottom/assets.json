@@ -205,6 +205,7 @@
                 "*": "/tex/tiles/ore_copper.png",
                 "canister": "/tex/tiles/ore_copper_canister.png"
             },
+            "tin": "/tex/tiles/ore_tin.png",
             "simple_furnace.": {
                 "item": "/tex/tiles/simple_furnace/simple_furnace_item.png",
                 "*.": {
@@ -219,6 +220,27 @@
                         "file": "/tex/tiles/simple_furnace/simple_furnace_active.png",
                         "0.0": [0, 12, 12, 12],
                         "0.1": [0, 0, 12, 12]
+                    }
+                }
+            },
+            "combiner.": {
+                "item": "/tex/tiles/combiner/combiner_item.png",
+                "*.": {
+                    "subtexture": {
+                        "file": "/tex/tiles/combiner/combiner.png",
+                        "0.0": [0, 12, 12, 12],
+                        "0.1": [0, 0, 12, 12],
+                        "1.0": [12, 12, 12, 12],
+                        "1.1": [12, 0, 12, 12]
+                    }
+                },
+                "active.": {
+                    "subtexture": {
+                        "file": "/tex/tiles/combiner/combiner_active.png",
+                        "0.0": [0, 12, 12, 12],
+                        "0.1": [0, 0, 12, 12],
+                        "1.0": [12, 12, 12, 12],
+                        "1.1": [12, 0, 12, 12]
                     }
                 }
             },
@@ -634,6 +656,7 @@
             "twig": "/tex/items/twig.png",
             "stick": "/tex/items/stick.png",
             "copper": "/tex/items/cluster_copper.png",
+            "tin": "/tex/items/cluster_tin.png",
             "stone_pickaxe": {
                 "path": "/tex/items/stone_pickaxe.png",
                 "data": "/tex/items/tool.json"
@@ -669,6 +692,25 @@
                 "path": "/tex/items/copper_sword.png",
                 "data": "/tex/items/tool.json"
             },
+            "bronze_ingot": "/tex/items/bronze_ingot.png",
+            "tin_ingot": "/tex/items/tin_ingot.png",
+            "bronze_pickaxe": {
+                "path": "/tex/items/bronze_pickaxe.png",
+                "data": "/tex/items/tool.json"
+            },
+            "bronze_axe": {
+                "path": "/tex/items/bronze_axe.png",
+                "data": "/tex/items/tool.json"
+            },
+            "bronze_shovel": {
+                "path": "/tex/items/bronze_shovel.png",
+                "data": "/tex/items/tool.json"
+            },
+            "bronze_sword": {
+                "path": "/tex/items/bronze_sword.png",
+                "data": "/tex/items/tool.json"
+            },
+            "bronze_canister": "/tex/items/bronze_canister.png",
             "recipe_note": "/tex/items/recipe_note.png",
             "pestle": "/tex/items/pestle.png",
             "mush": "/tex/items/mush.png",

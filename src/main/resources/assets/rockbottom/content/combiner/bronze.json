@@ -1,0 +1,15 @@
+{
+    "input1": {
+        "name": "copper_processed",
+        "amount": 3
+    },
+    "input2": {
+        "name": "tin_processed",
+        "amount": 2
+    },
+    "output": {
+        "name": "rockbottom/bronze_ingot",
+        "amount": 5
+    },
+    "time": 600
+}
