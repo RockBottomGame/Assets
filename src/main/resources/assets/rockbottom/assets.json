@@ -710,6 +710,7 @@
                 "path": "/tex/items/bronze_sword.png",
                 "data": "/tex/items/tool.json"
             },
+            "bronze_canister": "/tex/items/bronze_canister.png",
             "recipe_note": "/tex/items/recipe_note.png",
             "pestle": "/tex/items/pestle.png",
             "mush": "/tex/items/mush.png",

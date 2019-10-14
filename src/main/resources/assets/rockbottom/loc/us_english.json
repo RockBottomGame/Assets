@@ -55,6 +55,7 @@
             "tin": "Tin Cluster",
             "spinning_wheel": "Spinning Wheel",
             "simple_furnace": "Rudimentary Furnace",
+            "combiner": "Combiner",
             "construction_table": "Construction Table",
             "smithing_table": "Smithing Table",
             "sandstone": "Sandstone",
@@ -69,6 +70,7 @@
             "bronze_axe": "Bronze Axe",
             "bronze_shovel": "Bronze Shovel",
             "bronze_sword": "Bronze Sword",
+            "bronze_canister": "Bronze Canister",
             "stardrop": "Star Flower",
             "cave_mushroom.": {
                 "1": "Brown Cave Mushroom",
