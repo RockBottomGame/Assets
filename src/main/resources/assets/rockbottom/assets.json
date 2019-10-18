@@ -982,6 +982,9 @@
         },
         "monster.": {
             "slime": ["/anim/monster/slime.json", "/anim/monster/slime.png"]
+        },
+        "entity.": {
+            "fire": ["/anim/entity/fire.json", "/anim/entity/fire.png"]
         }
     },
     "font.": {
