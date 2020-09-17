@@ -23,6 +23,12 @@
             "brittle_pickaxe": "Bros Pik",
             "brittle_axe": "Bros Byl",
             "brittle_shovel": "Bros Graaf",
+            "brittle_sword": "Bros Swaard",
+            "wrench": "Wrench",
+            "saw": "Saag",
+            "hammer": "Hammer",
+            "mallet": "Blokhamer",
+            "chisel": "Beitel",
             "sand": "Sand",
             "coal": "Steenkool",
             "torch": "Fakkel",
@@ -39,27 +45,58 @@
             "torch_grass": "Gras Fakkel",
             "plant_fiber": "Plant Vesel",
             "twig": "Tak",
+            "stick": "Stok",
             "stone_pickaxe": "Steen Pik",
             "stone_axe": "Steen Byl",
             "stone_shovel": "Steen Graaf",
+            "stone_sword": "Steen Swaard",
             "copper": "Koper Kluster",
             "copper_canister": "Koper Houer",
+            "spinning_wheel": "Spinwiel",
             "simple_furnace": "Rudimentêre Oond",
+            "construction_table": "Konstruksietabel",
+            "smithing_table": "Smidtafel",
             "sandstone": "Sandsteen",
             "copper_ingot": "Koper Staaf",
             "copper_pickaxe": "Koper Pik",
             "copper_axe": "Koper Byl",
-            "copper_shovel": "Koper Graaf"
+            "copper_shovel": "Koper Graaf",
+            "copper_sword": "Koper Swaard",
+            "stardrop": "Sterblom",
+            "cave_mushroom.": {
+                "1": "Bruin Grot Sampioen",
+                "2": "Rooi Grot Sampioen",
+                "3": "Groen Grot Sampioen",
+                "4": "Geel Grot Sampioen",
+                "5": "Oranje Grot Sampioen",
+                "6": "Blou Grot Sampioen",
+                "7": "Donker Grot Sampioen"
+            },
+            "snow": "Sneew",
+            "super_pickaxe": "&rSuper Pik",
+            "lamp_iron": "Yster Lamp",
+            "recipe_note": "Kennis nota",
+            "mortar": "Mortier",
+            "pestle": "Stamper",
+            "mush": "Sampioen Plak",
+            "bowl": "Bak",
+            "wood_boomerang": "Houtboemerang",
+            "simple_hoe": "Eenvoudige Skoffel",
+            "corn": "Mielies",
+            "cotton": "Cotton",
+            "yarn": "Garing",
+            "glass": "Glas"
         },
         "info.": {
             "layer_placement": "Kan in %s geplaas word",
             "health": "Gesondheid",
+            "breath": "Lug",
             "dead": "Jy het gesterf!",
             "dead.wait": "Wag net vir 'n sekonde...",
             "hardware_cursor": "Of die in-speletjie wyser met die bedryfstelsel se wyser vervang moet word",
             "autosave_interval": "Die hoeveelheid sekondes voordat die wêreld outomaties gestoor word",
             "saved": "Spel gestoor!",
-            "saved_chunks": "Het %s blokke in %s sekondes gestoor.",
+            "saved_world": "Het die wêreld in %s sekondes gestoor",
             "delete_world": "&7Verwyder Wêreld %s",
             "world": "Wêreld %s",
             "unlimited": "Onbeperkt",
@@ -77,6 +114,16 @@
             "disconnect": "&6Speler %s ontkoppel!",
             "last_modified": "Laas Gespeel",
             "seed": "Saad",
+            "recipe_learned": "Resep Geleer",
+            "recipes_learned": "Resepte Geleer",
+            "recipe_forgotten": "Resep Vergeet",
+            "durability.": {
+                "high": "&aOngerepte",
+                "medium_high": "&aEffens gebruik",
+                "medium": "&6Goed gebruik",
+                "medium_low": "&6Beskadig",
+                "low": "&7Erg beskadig"
+            },
             "server_shutdown.": {
                 "*": "Ingeboude bediener is gestop",
                 "title": "Baai ouens!"
@@ -89,6 +136,10 @@
                 "*": "Gestoor as %s",
                 "title": "Skermbeeld geneem!"
             },
+            "new_world.": {
+                "*": "Kyk lings en regs 'n bietjie vir 'n klein verlate huisie om te begin!",
+                "title": "'n Hele nuwe wêreld"
+            },
             "reject.": {
                 "connected_already": "Jy is reeds aangesluit aan die bediener!",
                 "starting_up": "Die bediener is nog besig om op te laai!",
@@ -98,7 +149,9 @@
                 "connection": "Kon nie na die bediener aansluit nie: \n%s",
                 "whitelist": "Jy is nie gewitlys op die bediener nie!",
                 "blacklist": "Jy is geswartlys op die bediener! Rede: \n%s",
-                "server_down": "Jy het konneksie tot die bediener verloor!"
+                "server_down": "Jy het konneksie tot die bediener verloor!",
+                "server_full": "Die bediener is huidiglik vol!",
+                "exception": "Daar was 'n uitsondering met die hantering van 'n packet en die verbinding is gesluit: \n%s"
             },
             "changelog.": {
                 "grabbing": "Besig om die Veranderingloglêer te kry...",
@@ -129,12 +182,22 @@
                 "&t": "Maak die teks &tonderstebo",
                 "&u": "Maak die teks &uonderstreep",
                 "&x": "Stel die &bformatering&x van die teks terug",
-                "&y": "Stel die &akleur&y van die teks terug"
+                "&y": "Stel die &akleur&y van die teks terug",
+                "&d": "Maak die teks &dpers",
+                "&e": "Maak die teks &esiaan",
+                "&f": "Maak die teks &fbruin",
+                "&g": "Maak die teks &glemmetjie groen",
+                "&j": "Maak die teks &jblou",
+                "&k": "Maak die teks &kligte blou"
             },
             "no_server": "&7Sluit aan by of maak 'n bediener oop om die klets te gebruik!",
             "start_note": "&3'n Nota gevind in 'n verlate houtkothuis. Dit kan dalk nuttige inligting bevat.",
             "twig": "&3'n Stuk hout wat die ideale handvatsel sal maak vir 'n stuk gereedskap. Jy kan dit dalk op 'n manier van bome af versamel.",
-            "copper_canister": "&3'n Geroeste ou koper houser gevind vasgekeer tussen kopererts. Miskien sal dit iets nuttig openbaar as dit oopgemaak word.",
+            "copper_canister.": {
+                "*": "&3'n Geroeste ou koper houer, gevind vasgesit tussen koper erts. Miskien sal dit iets nuttigs openbaar as jy dit oop maak.",
+                "empty": "Jy maak die houer oop... \ndis leeg.",
+                "note": "Jy maak die houer oop...\n'n Handgeskrewe, verkrummel nota val uit."
+            },
             "paste_design": "Plak 'n ontwerp van jou kipbord af",
             "copy_design": "Kopieer die ontwerp na jou kipbord sodat jy dit na vriende kan stuur of dir stoor.",
             "are_you_sure": "Is jy seker?",
@@ -148,9 +211,27 @@
             "unknown_recipe": "Onbekende Resep",
             "click_to_construct": "&3Kliek om te bou",
             "missing_items": "&7Ontbreekde items",
+            "missing_tool": "&7Ontbreekde gereendskap",
             "already_known": "Jy het klaar hierdie inligtig verkry.",
             "username": "Gebruikersnaam",
-            "password": "Wagwoord"
+            "password": "Wagwoord",
+            "stardrop.": {
+                "*": "Dit laat jou dink aan die vallei...",
+                "consume": "Jy proe aan die blom. Dit herhinder jou aan herinneringe wat jy nooit geweet het jy het nie. Skielik is jou kop gevul met gedagtes van die vallei.\n\n&gJou maksimum gesondheid is verhoog met 10!"
+            },
+            "recipe_note": "There is some text on the pages. Reading the note might help you.",
+            "durability": "Durability: %s/%s",
+            "skill.": {
+                "points": "%s Vaardigheids Punte",
+                "percentage": "%s%% na die volgende punt"
+            },
+            "compendium_category.": {
+                "manual_construction": "Handmatige Konstruksie",
+                "construction_table": "Konstruksie Tafel Resepte",
+                "smithing_table": "Smithing Resepte",
+                "mortar": "Mortier Resepte",
+                "smelting": "Smelt Resepte"
+            }
         },
         "button.": {
             "back": "Terug",
@@ -240,25 +321,34 @@
         },
         "effect.": {
             "speed": "Beweeg Spoed",
-            "jump_height": "Spring Hoogte"
+            "jump_height": "Spring Hoogte",
+            "range": "Interaksi Bereik",
+            "pickup_range": "Optel Bereik"
         },
         "stat.": {
             "containers_opened": "Houers Oopgemaak",
             "tiles_broken": "Teëls Gebreek",
             "tiles_placed": "Teëls Geplaas",
             "tiles_broken_per_tile": "%s Gebreek",
-            "tiles_placed_per_tile": "%s Geplaas"
+            "tiles_placed_per_tile": "%s Geplaas",
+            "seconds_played": "Tyd Gespeel",
+            "deaths": "Sterftes",
+            "tiles_walked": "Teëls Gereis",
+            "tools_broken": "Gereedskappe Gebreek"
         },
         "key.": {
             "inventory": "Voorraad",
+            "compendium": "Kompendium",
             "menu": "Menu",
             "left": "Gaan links",
             "right": "Gaan regs",
             "jump": "Spring",
             "background": "Agtergrond",
             "chat": "Klets",
+            "command": "Bevel",
             "advanced_info": "Meer Inligting",
             "screenshot": "Skermbeeld",
+            "players": "Speler Lys",
             "up": "Klim Op",
             "down": "Klim Af",
             "item_selection_0": "Warmbalk 1",
