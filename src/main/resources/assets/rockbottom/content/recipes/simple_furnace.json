@@ -17,10 +17,6 @@
         {
             "name": "rockbottom/chisel",
             "usage": 3
-        },
-        {
-            "name": "rockbottom/wrench",
-            "usage": 2
         }
     ],
     "outputs": [

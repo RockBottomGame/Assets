@@ -7,11 +7,7 @@
     ],
     "inputs": [
         {
-            "name": "stone",
-            "amount": 12
-        },
-        {
-            "name": "stick",
+            "name": "copper_processed",
             "amount": 8
         }
     ],
