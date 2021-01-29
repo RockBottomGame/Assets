@@ -832,6 +832,16 @@
                 "10": "/tex/sky/cloud_10.png",
                 "11": "/tex/sky/cloud_11.png"
             }
+        },
+        "emotions.": {
+            "bubbles.": {
+                "subtexture": {
+                    "file": "/tex/emotions/bubbles.png",
+                    "thought": [0, 0, 24, 24],
+                    "speech": [24, 0, 24, 24]
+                }
+            },
+            "happy": "/tex/emotions/happy.png"
         }
     },
     "anim.": {
