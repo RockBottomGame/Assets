@@ -608,7 +608,8 @@
                     }
                 }
             },
-            "wood_platform": "/tex/tiles/platform/wood_platform.png"
+            "wood_platform": "/tex/tiles/platform/wood_platform.png",
+            "plant_rope": "/tex/tiles/plant_rope.png"
         },
         "items.": {
             "pebbles": "/tex/items/pebbles.png",

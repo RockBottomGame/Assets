@@ -30,7 +30,8 @@
         "pestle": "/recipes/pestle.json",
         "wood_boomerang": "/recipes/wood_boomerang.json",
         "simple_hoe": "/recipes/simple_hoe.json",
-        "platform": "/recipes/platform.json"
+        "platform": "/recipes/platform.json",
+        "plant_rope": "/recipes/plant_rope.json"
     },
     "smithing.": {
         "copper_pickaxe": "/smithing/copper_pickaxe.json",

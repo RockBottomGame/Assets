@@ -95,7 +95,8 @@
             "corn": "Corn",
             "cotton": "Cotton",
             "yarn": "Yarn",
-            "glass": "Glass"
+            "glass": "Glass",
+            "plant_rope": "Plant Rope"
         },
         "info.": {
             "layer_placement": "Can be placed in %s",
@@ -241,7 +242,8 @@
                 "smithing_table": "Smithing Recipes",
                 "mortar": "Mortar Recipes",
                 "smelting": "Smelting Recipes"
-            }
+            },
+            "plant_rope": "&3Primitive rope made from gathered plant fibers. Can be hung down for climbing."
         },
         "button.": {
             "back": "Back",
