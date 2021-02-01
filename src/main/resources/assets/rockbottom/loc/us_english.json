@@ -243,7 +243,12 @@
                 "mortar": "Mortar Recipes",
                 "smelting": "Smelting Recipes"
             },
-            "plant_rope": "&3Primitive rope made from gathered plant fibers. Can be hung down for climbing."
+            "plant_rope": "&3Primitive rope made from gathered plant fibers. Can be hung down for climbing.",
+            "construction_table": "&3Table that can hold multitude of tools used for construction.",
+            "simple_furnace": "&3A simple construction which can heat up and smelt items.",
+            "smithing_table": "&3Strong table that can withstand the hard hits of a hammer. Useful for making metal tools.",
+            "combiner": "&3Mixes and combines metals into advanced metals."
+
         },
         "button.": {
             "back": "Back",

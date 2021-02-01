@@ -3,9 +3,9 @@
     "knowledge": true,
     "criteria": [
         {
-            "name": "rockbottom/break_tile",
+            "name": "rockbottom/pickup_item",
             "params": {
-                "tile": "rockbottom/coal"
+                "item": "rockbottom/coal"
             }
         }
     ],
