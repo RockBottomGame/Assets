@@ -13,7 +13,7 @@
     ],
     "inputs": [
         {
-            "name": "wood_processed"
+            "name": "processed_wood"
         }
     ],
     "skill": 0.0002

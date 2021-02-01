@@ -8,7 +8,7 @@
     ],
     "inputs": [
         {
-            "name": "wood_raw"
+            "name": "raw_wood"
         }
     ],
     "skill": 0.0002

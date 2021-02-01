@@ -16,7 +16,7 @@
   ],
   "inputs": [
     {
-      "name": "stone",
+      "name": "processed_wood",
       "amount": 12
     },
     {

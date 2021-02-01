@@ -18,11 +18,11 @@
     ],
     "inputs": [
         {
-            "name": "wood_processed",
+            "name": "processed_wood",
             "amount": 20
         },
         {
-            "name": "wood_raw",
+            "name": "raw_wood",
             "amount": 4
         }
     ],

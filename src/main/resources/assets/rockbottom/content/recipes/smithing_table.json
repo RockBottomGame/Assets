@@ -22,7 +22,7 @@
     ],
     "inputs": [
         {
-            "name": "copper_processed",
+            "name": "processed_copper",
             "amount": 14
         },
         {
@@ -30,7 +30,7 @@
             "amount": 20
         },
         {
-            "name": "wood_processed",
+            "name": "processed_wood",
             "amount": 5
         }
     ],

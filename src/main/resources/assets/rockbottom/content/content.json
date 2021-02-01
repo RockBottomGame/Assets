@@ -6,7 +6,7 @@
         "brittle_sword": "/recipes/brittle_sword.json",
         "ladder": "/recipes/ladder.json",
         "chest": "/recipes/chest.json",
-        "torch_grass": "/recipes/torch_grass.json",
+        "grass_torch": "/recipes/grass_torch.json",
         "sign": "/recipes/sign.json",
         "wood_boards_manual": "/recipes/wood_boards_manual.json",
         "wood_boards_construction_table": "/recipes/wood_boards_construction_table.json",

@@ -5,7 +5,7 @@
         {
             "name": "rockbottom/pickup_item",
             "params": {
-                "item": "bronze_processed"
+                "item": "processed_bronze"
             }
         }
     ],
@@ -16,7 +16,7 @@
     ],
     "inputs": [
         {
-            "name": "bronze_processed",
+            "name": "processed_bronze",
             "amount": 16
         },
         {

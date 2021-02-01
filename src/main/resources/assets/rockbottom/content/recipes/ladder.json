@@ -27,7 +27,7 @@
     ],
     "inputs": [
         {
-            "name": "wood_processed",
+            "name": "processed_wood",
             "amount": 8
         }
     ],

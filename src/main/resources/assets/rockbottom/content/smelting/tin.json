@@ -1,6 +1,6 @@
 {
     "input": {
-        "name": "tin_raw",
+        "name": "raw_tin",
         "amount": 2
     },
     "output": {

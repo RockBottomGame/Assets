@@ -5,7 +5,7 @@
         {
             "name": "rockbottom/pickup_item",
             "params": {
-                "item": "copper_processed"
+                "item": "processed_copper"
             }
         }
     ],
@@ -16,7 +16,7 @@
     ],
     "inputs": [
         {
-            "name": "copper_processed",
+            "name": "processed_copper",
             "amount": 14
         },
         {

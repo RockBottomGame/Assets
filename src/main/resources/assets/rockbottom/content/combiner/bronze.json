@@ -1,10 +1,10 @@
 {
     "input1": {
-        "name": "copper_processed",
+        "name": "processed_copper",
         "amount": 3
     },
     "input2": {
-        "name": "tin_processed",
+        "name": "processed_tin",
         "amount": 2
     },
     "output": {

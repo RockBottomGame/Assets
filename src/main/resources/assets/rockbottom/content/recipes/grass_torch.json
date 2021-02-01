@@ -5,13 +5,13 @@
         {
             "name": "rockbottom/pickup_item",
             "params": {
-                "item": "rockbottom/torch_grass"
+                "item": "rockbottom/grass_torch"
             }
         }
     ],
     "outputs": [
         {
-            "name": "rockbottom/torch_grass",
+            "name": "rockbottom/grass_torch",
             "amount": 2
         }
     ],
