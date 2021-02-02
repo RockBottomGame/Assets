@@ -19,7 +19,8 @@
             "data": {
                 "rockbottom/effect": {
                     "name": "rockbottom/jump_height",
-                    "time": 1200
+                    "time": 1200,
+                    "level": 2
                 }
             }
         }

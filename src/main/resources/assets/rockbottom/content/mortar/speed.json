@@ -19,7 +19,8 @@
             "data": {
                 "rockbottom/effect": {
                     "name": "rockbottom/speed",
-                    "time": 2400
+                    "time": 2400,
+                    "level": 3
                 }
             }
         }
