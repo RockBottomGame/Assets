@@ -385,43 +385,6 @@
             "glass": "/tex/tiles/glass.png",
             "cotton.": {
                 "*": "/tex/items/cotton.png",
-                "dead.": {
-                    "0.": {
-                        "subtexture": {
-                            "file": "/tex/tiles/cotton/cotton_dead_0.png",
-                            "top": [0, 0, 12, 12],
-                            "bottom": [0, 12, 12, 12]
-                        }
-                    },
-                    "1.": {
-                        "subtexture": {
-                            "file": "/tex/tiles/cotton/cotton_dead_1.png",
-                            "top": [0, 0, 12, 12],
-                            "bottom": [0, 12, 12, 12]
-                        }
-                    },
-                    "2.": {
-                        "subtexture": {
-                            "file": "/tex/tiles/cotton/cotton_dead_2.png",
-                            "top": [0, 0, 12, 12],
-                            "bottom": [0, 12, 12, 12]
-                        }
-                    },
-                    "3.": {
-                        "subtexture": {
-                            "file": "/tex/tiles/cotton/cotton_dead_3.png",
-                            "top": [0, 0, 12, 12],
-                            "bottom": [0, 12, 12, 12]
-                        }
-                    },
-                    "4.": {
-                        "subtexture": {
-                            "file": "/tex/tiles/cotton/cotton_dead_4.png",
-                            "top": [0, 0, 12, 12],
-                            "bottom": [0, 12, 12, 12]
-                        }
-                    }
-                },
                 "0.": {
                     "subtexture": {
                         "file": "/tex/tiles/cotton/cotton_0.png",
@@ -494,117 +457,59 @@
                 }
             },
             "spinning_wheel.": {
+                "item": "/tex/tiles/spinning_wheel/spinning_wheel_0.png",
+                "*.": {
+                    "subtexture": {
+                        "0.0": [0, 12, 12, 12],
+                        "1.0": [12, 12, 12, 12],
+                        "0.1": [0, 0, 12, 12],
+                        "1.1": [12, 0, 12, 12],
+                        "file": "/tex/tiles/spinning_wheel/spinning_wheel_0.png"
+                    }
+                },
                 "1.": {
                     "subtexture": {
-                        "0.0": [0, 24, 12, 12],
-                        "1.0": [12, 24, 12, 12],
-                        "2.0": [24, 24, 12, 12],
-                        "0.1": [0, 12, 12, 12],
-                        "1.1": [12, 12, 12, 12],
-                        "2.1": [24, 12, 12, 12],
-                        "0.2": [0, 0, 12, 12],
-                        "1.2": [12, 0, 12, 12],
-                        "2.2": [24, 0, 12, 12],
+                        "0.0": [0, 12, 12, 12],
+                        "1.0": [12, 12, 12, 12],
+                        "0.1": [0, 0, 12, 12],
+                        "1.1": [12, 0, 12, 12],
                         "file": "/tex/tiles/spinning_wheel/spinning_wheel_1.png"
                     }
                 },
                 "2.": {
                     "subtexture": {
-                        "0.0": [0, 24, 12, 12],
-                        "1.0": [12, 24, 12, 12],
-                        "2.0": [24, 24, 12, 12],
-                        "0.1": [0, 12, 12, 12],
-                        "1.1": [12, 12, 12, 12],
-                        "2.1": [24, 12, 12, 12],
-                        "0.2": [0, 0, 12, 12],
-                        "1.2": [12, 0, 12, 12],
-                        "2.2": [24, 0, 12, 12],
+                        "0.0": [0, 12, 12, 12],
+                        "1.0": [12, 12, 12, 12],
+                        "0.1": [0, 0, 12, 12],
+                        "1.1": [12, 0, 12, 12],
                         "file": "/tex/tiles/spinning_wheel/spinning_wheel_2.png"
                     }
                 },
                 "3.": {
                     "subtexture": {
-                        "0.0": [0, 24, 12, 12],
-                        "1.0": [12, 24, 12, 12],
-                        "2.0": [24, 24, 12, 12],
-                        "0.1": [0, 12, 12, 12],
-                        "1.1": [12, 12, 12, 12],
-                        "2.1": [24, 12, 12, 12],
-                        "0.2": [0, 0, 12, 12],
-                        "1.2": [12, 0, 12, 12],
-                        "2.2": [24, 0, 12, 12],
+                        "0.0": [0, 12, 12, 12],
+                        "1.0": [12, 12, 12, 12],
+                        "0.1": [0, 0, 12, 12],
+                        "1.1": [12, 0, 12, 12],
                         "file": "/tex/tiles/spinning_wheel/spinning_wheel_3.png"
                     }
                 },
                 "4.": {
                     "subtexture": {
-                        "0.0": [0, 24, 12, 12],
-                        "1.0": [12, 24, 12, 12],
-                        "2.0": [24, 24, 12, 12],
-                        "0.1": [0, 12, 12, 12],
-                        "1.1": [12, 12, 12, 12],
-                        "2.1": [24, 12, 12, 12],
-                        "0.2": [0, 0, 12, 12],
-                        "1.2": [12, 0, 12, 12],
-                        "2.2": [24, 0, 12, 12],
+                        "0.0": [0, 12, 12, 12],
+                        "1.0": [12, 12, 12, 12],
+                        "0.1": [0, 0, 12, 12],
+                        "1.1": [12, 0, 12, 12],
                         "file": "/tex/tiles/spinning_wheel/spinning_wheel_4.png"
                     }
                 },
                 "5.": {
                     "subtexture": {
-                        "0.0": [0, 24, 12, 12],
-                        "1.0": [12, 24, 12, 12],
-                        "2.0": [24, 24, 12, 12],
-                        "0.1": [0, 12, 12, 12],
-                        "1.1": [12, 12, 12, 12],
-                        "2.1": [24, 12, 12, 12],
-                        "0.2": [0, 0, 12, 12],
-                        "1.2": [12, 0, 12, 12],
-                        "2.2": [24, 0, 12, 12],
+                        "0.0": [0, 12, 12, 12],
+                        "1.0": [12, 12, 12, 12],
+                        "0.1": [0, 0, 12, 12],
+                        "1.1": [12, 0, 12, 12],
                         "file": "/tex/tiles/spinning_wheel/spinning_wheel_5.png"
-                    }
-                },
-                "6.": {
-                    "subtexture": {
-                        "0.0": [0, 24, 12, 12],
-                        "1.0": [12, 24, 12, 12],
-                        "2.0": [24, 24, 12, 12],
-                        "0.1": [0, 12, 12, 12],
-                        "1.1": [12, 12, 12, 12],
-                        "2.1": [24, 12, 12, 12],
-                        "0.2": [0, 0, 12, 12],
-                        "1.2": [12, 0, 12, 12],
-                        "2.2": [24, 0, 12, 12],
-                        "file": "/tex/tiles/spinning_wheel/spinning_wheel_6.png"
-                    }
-                },
-                "7.": {
-                    "subtexture": {
-                        "0.0": [0, 24, 12, 12],
-                        "1.0": [12, 24, 12, 12],
-                        "2.0": [24, 24, 12, 12],
-                        "0.1": [0, 12, 12, 12],
-                        "1.1": [12, 12, 12, 12],
-                        "2.1": [24, 12, 12, 12],
-                        "0.2": [0, 0, 12, 12],
-                        "1.2": [12, 0, 12, 12],
-                        "2.2": [24, 0, 12, 12],
-                        "file": "/tex/tiles/spinning_wheel/spinning_wheel_7.png"
-                    }
-                },
-                "item": "/tex/tiles/spinning_wheel/spinning_wheel_0.png",
-                "*.": {
-                    "subtexture": {
-                        "0.0": [0, 24, 12, 12],
-                        "1.0": [12, 24, 12, 12],
-                        "2.0": [24, 24, 12, 12],
-                        "0.1": [0, 12, 12, 12],
-                        "1.1": [12, 12, 12, 12],
-                        "2.1": [24, 12, 12, 12],
-                        "0.2": [0, 0, 12, 12],
-                        "1.2": [12, 0, 12, 12],
-                        "2.2": [24, 0, 12, 12],
-                        "file": "/tex/tiles/spinning_wheel/spinning_wheel_0.png"
                     }
                 }
             },
@@ -720,7 +625,8 @@
             "simple_hoe": {
                 "path": "/tex/items/simple_hoe.png",
                 "data": "/tex/items/tool.json"
-            }
+            },
+            "plant_twine": "/tex/items/plant_twine.png"
         },
         "gui.": {
             "construction_table.": {
@@ -738,6 +644,7 @@
                 "page_items": "/tex/gui/compendium/page_items.png",
                 "page_recipes": "/tex/gui/compendium/page_recipes.png",
                 "page_recipes_smelting": "/tex/gui/compendium/page_recipes_smelting.png",
+                "page_recipes_tools": "/tex/gui/compendium/page_recipes_tools.png",
                 "ingredient_background": "/tex/gui/compendium/ingredient_background.png",
                 "ingredient_background.none": "/tex/gui/compendium/ingredient_background_none.png",
                 "item_background.": {

@@ -96,7 +96,8 @@
             "cotton": "Cotton",
             "yarn": "Yarn",
             "glass": "Glass",
-            "plant_rope": "Plant Rope"
+            "plant_rope": "Plant Rope",
+            "plant_twine": "Plant Twine"
         },
         "info.": {
             "layer_placement": "Can be placed in %s",

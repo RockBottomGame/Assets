@@ -43,7 +43,8 @@
         "bronze_shovel": "/smithing/bronze_shovel.json",
         "bronze_sword": "/smithing/bronze_sword.json",
         "bronze_axe": "/smithing/bronze_axe.json",
-        "wrench": "/smithing/wrench.json"
+        "wrench": "/smithing/wrench.json",
+        "combiner": "/smithing/combiner.json"
     },
     "smelting.": {
         "copper": "/smelting/copper.json",

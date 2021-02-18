@@ -22,6 +22,10 @@
         {
             "name": "stick",
             "amount": 2
+        },
+        {
+            "name": "plant_fiber",
+            "amount": 4
         }
     ],
     "skill": 0.01
