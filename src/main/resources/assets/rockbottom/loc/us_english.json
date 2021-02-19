@@ -97,7 +97,8 @@
             "yarn": "Yarn",
             "glass": "Glass",
             "plant_rope": "Plant Rope",
-            "plant_twine": "Plant Twine"
+            "plant_twine": "Plant Twine",
+            "pot": "Pot"
         },
         "info.": {
             "layer_placement": "Can be placed in %s",
@@ -248,7 +249,8 @@
             "construction_table": "&3Table that can hold multitude of tools used for construction.",
             "simple_furnace": "&3A simple construction which can heat up and smelt items.",
             "smithing_table": "&3Strong table that can withstand the hard hits of a hammer. Useful for making metal tools.",
-            "combiner": "&3Mixes and combines metals into advanced metals."
+            "combiner": "&3Mixes and combines metals into advanced forms.",
+            "pot": "&3Can hold various plants for decoration."
 
         },
         "button.": {

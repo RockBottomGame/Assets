@@ -32,7 +32,8 @@
         "simple_hoe": "/recipes/simple_hoe.json",
         "platform": "/recipes/platform.json",
         "plant_rope": "/recipes/plant_rope.json",
-        "bronze_canister": "/recipes/bronze_canister.json"
+        "bronze_canister": "/recipes/bronze_canister.json",
+        "pot": "/recipes/pot.json"
     },
     "smithing.": {
         "copper_pickaxe": "/smithing/copper_pickaxe.json",
