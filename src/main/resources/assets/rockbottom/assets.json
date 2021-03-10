@@ -515,7 +515,26 @@
             },
             "wood_platform": "/tex/tiles/platform/wood_platform.png",
             "plant_rope": "/tex/tiles/plant_rope.png",
-            "pot": "/tex/tiles/pot.png"
+            "pot": "/tex/tiles/pot.png",
+            "bed.": {
+                "item": "/tex/tiles/bed/item.png",
+                "*.": {
+                    "subtexture": {
+                        "file": "/tex/tiles/bed/frame.png",
+                        "0.0": [0, 0, 12, 12],
+                        "1.0": [12, 0, 12, 12]
+                    }
+                },
+                "cover.": {
+                    "subtexture": {
+                        "file": "/tex/tiles/bed/cover.png",
+                        "0.0": [0, 0, 12, 12],
+                        "1.0": [12, 0, 12, 12]
+                    }
+                },
+                "left_pillow": "/tex/tiles/bed/left_pillow.png",
+                "right_pillow": "/tex/tiles/bed/right_pillow.png"
+            }
         },
         "items.": {
             "pebbles": "/tex/items/pebbles.png",
