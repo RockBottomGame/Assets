@@ -98,7 +98,8 @@
             "glass": "Glass",
             "plant_rope": "Plant Rope",
             "plant_twine": "Plant Twine",
-            "pot": "Pot"
+            "pot": "Pot",
+            "bed": "Bed"
         },
         "info.": {
             "layer_placement": "Can be placed in %s",
