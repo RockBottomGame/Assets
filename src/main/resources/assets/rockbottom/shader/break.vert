@@ -13,11 +13,13 @@ uniform mat4 model;
 uniform mat4 view;
 uniform mat4 projection;
 
+uniform vec3 camera;
+
 void main(){
     vertexColorPass = color;
     texCoordPass = texCoord;
     breakTexCoordPass = breakTexCoord;
 
     mat4 mvp = projection * view * model;
-    gl_Position = mvp * vec4(position, 0.0, 1.0);
+    gl_Position = mvp * vec4(vec2((position.xy - camera.xy) * camera.z), 0.0, 1.0);
 }
